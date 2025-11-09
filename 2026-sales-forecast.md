@@ -1,7 +1,7 @@
 # DYODE 2026 Sales Forecast & Strategy
 
 **Last Updated:** November 2025
-**Prepared By:** Tim Katz, Founder
+**Prepared By:** Tim Katz & George, Co-Founders
 
 ---
 
@@ -46,6 +46,23 @@
 | Retainer | $219,352 | 74.9% |
 | Project | $73,594 | 25.1% |
 | **TOTAL** | **$292,946** | **100%** |
+
+---
+
+## Client Data Structure Note
+
+**Understanding Client Counts:**
+- **Total service engagements:** 58 rows in client-data.csv (some clients have multiple services)
+- **Unique clients:** 53 distinct companies
+- **Active clients:** 30 unique companies (those with Active = X)
+
+**Multi-service clients include:**
+- AG Jeans: Development + Marketing
+- Great Star Tools: 2 Development engagements + Marketing
+- MadEngine (Fithsun): Marketing + Consulting
+- Tipsy Elves: Development + Consulting
+
+Throughout this document, "clients" refers to **unique companies** unless otherwise specified as "service engagements" or "service rows."
 
 ---
 
@@ -121,39 +138,41 @@
 
 ### 5. 2025 Client Activity & Churn Analysis
 
-#### New Clients Added in 2025: 17 Total
+#### New Clients Added in 2025: 13 Unique Clients (17 Total Service Engagements)
 
 **By Service:**
-- **Development:** 10 clients
+- **Development:** 9 unique clients (10 service rows)
   - Blueme (Project)
-  - Beardown Brands (Consulting - now ending)
   - Forks Over Knives (Project - now lost)
   - Kyles Organics (Project)
   - Midland USA (Retainer)
   - Nowadays (Retainer)
   - Satechi (Project)
   - SiO Beauty (Project)
-  - Tipsy Elves (Retainer)
+  - Tipsy Elves (Retainer - also has Consulting service)
   - TripleK (Project - now lost)
 
-- **Marketing:** 4 clients
+- **Marketing:** 6 unique clients (6 service rows)
   - Beach Bunny (Retainer)
   - Buttercloth (Retainer - now lost)
   - HDButterCup (Project - now lost)
-  - MadEngine (Project)
+  - MadEngine (Project - also has Consulting service)
   - Pair of Thieves (Retainer)
   - The Bruery (Retainer - now lost)
 
-- **Consulting:** 3 clients
+- **Consulting:** 3 unique clients (3 service rows)
   - 3HNails (Retainer - now ending)
-  - MadEngine (Project)
-  - Tipsy Elves (Retainer - now lost)
+  - Beardown Brands (Consulting - now ending)
+  - MadEngine (Project - also has Marketing service)
+  - Tipsy Elves (Retainer - also has Development service - now lost)
+
+**Note:** Some clients appear under multiple service categories as they engage DYODE for multiple services.
 
 **New Client Revenue Impact:**
 - Total new MRR added in 2025: ~$150k (estimated across all additions)
-- Challenge: 6 of 17 (35%) already lost or ending in 2025
+- Challenge: 6 of 13 unique clients (46%) already lost or ending in 2025
 
-#### Clients Lost in 2025: 24 Total
+#### Clients Lost in 2025: 22 Unique Clients (24 Total Service Engagements)
 
 **By Service:**
 - **Development:** 11 clients
@@ -215,10 +234,11 @@
 - **Churn rate: ~60%** (unsustainable)
 
 **Overall 2025 Churn Analysis:**
-- **Total clients lost:** 24
-- **Total clients added:** 17
-- **Net client change:** -7
+- **Total unique clients lost:** 22
+- **Total unique clients added:** 13
+- **Net client change:** -9 unique clients
 - **Overall churn rate:** ~35-40% (industry average: 15-20%)
+- **Current active clients:** 30 unique clients (as of November 2025)
 
 #### Root Causes of High Churn:
 1. **High project dependency** (26% of revenue - projects naturally end)
@@ -305,13 +325,107 @@ This churn analysis directly informs our 2026 priorities:
 
 ---
 
-#### 2. Stabilize Revenue Base (Q1 2026 - Critical)
+#### 2. NEW: Cross-Sell Strategy & Account Manager Incentive Program
+
+**Current Opportunity:**
+- **27 of 30 active clients (90%)** only use ONE service
+- **~20-21 truly viable cross-sell targets** after excluding:
+  - Past service history (Wyze, Tori Richard, Stikwood)
+  - Failed cross-sell attempts (United Scope dev)
+  - Frozen budgets (Pair of Thieves)
+  - Enterprise complexity (Glenmorangie - challenging)
+- Only 3 clients currently have multiple services
+- Multi-service clients have 50-70% higher retention rates
+- Cross-sells are 5-10x easier to close than new client acquisition
+
+**Breakdown:**
+- 17-18 viable Development-only clients → Cross-sell Marketing or Consulting
+- 3 viable Marketing-only clients → Cross-sell Development or Consulting
+- 1 Consulting-only client → Cross-sell Development or Marketing
+
+**2026 Cross-Sell Targets (Revised Down):**
+- **Goal:** 6-8 cross-sells (down from 8-10)
+- **Revenue Impact:** $40,000 - $58,000 new MRR (reality-adjusted)
+- **Contribution:** 19-24% of total new business in 2026
+
+**Account Manager Incentive Program:**
+- **Commission:** 5% of contract term value (one-time payment)
+- **Example:** $7,500/month x 6-month contract = $2,250 commission
+- **Aligns with typical 3-6 month contract terms** (not full year)
+- **Encourages longer contracts:** 6-month term = higher commission than 3-month
+- **Annual Budget:** $10,000 - $16,000 (adjusted)
+- **ROI:** 30-45x return on investment
+- **Strategic Value:** Performance-based compensation during salary freeze period
+
+**Key Benefits:**
+1. Lower CAC: ~$2,500 vs ~$5,000+ for new clients
+2. Faster sales cycle: 2-3 weeks vs 4-8 weeks
+3. Higher retention: Multi-service clients churn at 15% vs 35%
+4. Team motivation: Alternative to raises that drives revenue
+
+**Top Priority Targets (Revised):**
+- Cookware Co ($10.5k Dev) → Marketing $5-8k/month
+- Align Tech ($8.6k Dev) → Marketing $5-7k/month
+- DITA ($7.5k Dev) → Marketing $5-8k/month
+- Poseidon Bikes ($8.6k Marketing) → Development $6-10k/month
+- Bandai Namco ($7.7k Marketing) → Development $6-10k/month
+
+**Removed from Priority List:**
+- ❌ United Scope - Failed dev cross-sell attempt, has in-house dev
+- ⏸️ Pair of Thieves - Budgets frozen, ad-hoc dev already
+- ⚠️ Glenmorangie - LVMH-owned, enterprise barriers (still worth trying)
+
+**Detailed Strategy:** See cross-sell-strategy-2026.md and past-service-history.md
+
+---
+
+#### 3. NEW: Client Referral & Review Incentive Program
+
+**Why This Matters:**
+- **Referrals have 60-80% close rate** vs. 25-35% for other channels
+- **Referral CAC: $500-2,000** vs. $5,000+ for Martal-sourced leads
+- **Clutch reviews drive 30-40%** of inbound agency leads
+- **Social proof critical** for closing Shopify Plus clients
+
+**Program Structure:**
+- **Clutch Review Incentive:** $500 service credit per qualified review
+- **Referral Incentive:** 5-10% of first contract value in service credits
+- Credit-based system (applies to future invoices, never cash)
+
+**2026 Goals:**
+- **Reviews:** 10-15 new Clutch reviews
+- **Referrals:** 5-8 client referrals converting to signed contracts
+- **Revenue Impact:** $250,000 - $400,000 from referrals
+- **Investment:** $25,000 - $42,500 in service credits
+- **ROI:** 10-15x return on investment
+
+**Referral Tiers:**
+- $15k-30k contract: 5% credit
+- $30k-50k contract: 7% credit
+- $50k-75k contract: 8% credit
+- $75k+ contract: 10% credit
+
+**Impact on Client Acquisition:**
+- Referrals will contribute **5-8 clients (20-30%)** of new client target
+- Reduces dependence on Martal (from 40% to 35%)
+- Higher quality leads (better fit, faster close, lower CAC)
+
+**Launch Timeline:**
+- January 2026: Soft launch with top 10 clients
+- February 2026: Full launch to all active clients
+- Quarterly reminder campaigns throughout 2026
+
+**Detailed Program:** See client-referral-review-program.md
+
+---
+
+#### 4. Stabilize Revenue Base (Q1 2026 - Critical)
 - **Convert month-to-month to contracts** ($67k at risk)
 - **Save Q4 2025 expiring contracts** ($39k at risk)
 - **Replace project revenue** ($63k ending)
 - **Target:** Minimize churn, secure base
 
-#### 2. Build Systematic Sales Engine
+#### 5. Build Systematic Sales Engine
 
 **Lead Gen Agency (Martal) - Launched 11/1/25:**
 
@@ -405,14 +519,14 @@ Understanding when brands invest in agency services:
   - Budget: $90-130k base + 8-10% commission on new business
   - Alternative: Extend Martal contract if ROI positive
 
-#### 3. Reduce Churn from 35% to 20%
+#### 6. Reduce Churn from 35% to 20%
 - Implement quarterly business reviews (QBRs) for all $10k+ clients
 - 90-day renewal outreach before contract expiration
 - Contract requirement: Minimum 6-month terms (no more month-to-month for new clients)
 - Auto-renewal clauses with 60-day notice
 - Annual prepay discount: 10% off for annual payment
 
-#### 4. Shift Contract Mix
+#### 7. Shift Contract Mix
 - **Current:** 74% Retainer / 26% Project
 - **Target 2026:** 85% Retainer / 15% Project
 
@@ -421,7 +535,7 @@ Understanding when brands invest in agency services:
 - Offer maintenance retainers to project clients
 - Focus sales on retainer engagements
 
-#### 5. Service Strategy by Type
+#### 8. Service Strategy by Type
 
 **Development (Target: 59% of revenue)**
 - Focus: Shopify Plus, BigCommerce Enterprise
@@ -490,6 +604,18 @@ Understanding when brands invest in agency services:
 
 ### Annual New Business Required: $209,844
 
+**Sources of New Business:**
+- **New Client Acquisition:** ~$160,000 MRR (76%)
+- **Cross-Sells to Existing Clients:** ~$50,000 MRR (24%)
+
+**Note:** Cross-sell projections revised down to $40-58k (6-8 cross-sells) after excluding:
+- Past service history (Tori Richard, Wyze, Stikwood)
+- Failed cross-sell attempts (United Scope)
+- Budget constraints (Pair of Thieves)
+- Enterprise complexity (Glenmorangie)
+
+See past-service-history.md and cross-sell-strategy-2026.md for details.
+
 **By Service:**
 | Service | New Business | Churn/Loss | Net Growth | End 2026 MRR | % of Total |
 |---------|--------------|------------|------------|--------------|------------|
@@ -501,15 +627,36 @@ Understanding when brands invest in agency services:
 
 ### Client Acquisition Targets
 
-**Total New Clients Needed: 25-28**
-- Average deal size: $7,500/month
-- Q1: 10-12 clients (aggressive replacement phase)
-- Q2-Q4: 15-16 clients (1-2 per month)
+**Total Growth Target: 27-31 new engagements (Revised)**
+- **New Unique Clients:** 21-24 clients
+- **Cross-Sells to Existing Clients:** 6-8 engagements (down from 8-10)
+- Average deal size: $7,000-7,500/month
 
-**By Service:**
-- Development: 12-15 new clients
-- Marketing: 8-11 new clients
-- Consulting: 4-5 new clients
+**Breakdown by Quarter:**
+- Q1: 7-9 new clients + 1-2 cross-sells = 8-11 total
+- Q2: 3-4 new clients + 2 cross-sells = 5-6 total
+- Q3: 5-6 new clients + 2 cross-sells = 7-8 total
+- Q4: 5-6 new clients + 1-2 cross-sells = 6-8 total
+
+**By Service (note: some clients may engage for multiple services):**
+- Development: 13-16 new client engagements + cross-sells
+- Marketing: 9-12 new client engagements + cross-sells
+- Consulting: 4-5 new client engagements + cross-sells
+
+**Strategic Reality Check:**
+While cross-sells have 5-10x higher close rate and 2x faster sales cycle, viable pool reduced from 27 to ~21 targets after excluding clients with past service history, failed attempts, and budget constraints. New client acquisition becomes slightly more important (76% vs 24% of new business).
+
+**Lead Sources for New Clients (21-24 clients):**
+- **Martal Lead Gen:** 8-10 clients (35-40%)
+- **Client Referrals:** 5-8 clients (20-30%) ← NEW PROGRAM
+- **Founder-led Outreach:** 6-8 clients (25-30%)
+- **Inbound (Clutch, Website):** 2-3 clients (10-15%)
+
+**Why Referrals are Critical:**
+- Highest close rate (60-80% vs. 25-35%)
+- Lowest CAC ($500-2,000 vs. $5,000+)
+- Fastest sales cycle (15-30 days vs. 30-60 days)
+- Better client fit (referred by happy clients)
 
 ---
 
@@ -572,7 +719,7 @@ This is still ambitious but achievable. Missing the $280k target by $20k is acce
 
 **Expected End Q1 MRR: $260,000** (vs. $280k aggressive target)
 
-**New Clients Needed: 7-9** (vs. 10-12 aggressive)
+**New Unique Clients Needed: 7-9** (vs. 10-12 aggressive)
 
 **Critical Success Factors:**
 - Martal delivers 4+ closes (67% of expected 3-6)
@@ -597,7 +744,7 @@ This is still ambitious but achievable. Missing the $280k target by $20k is acce
 
 **Expected End Q2 MRR: $289,250**
 
-**New Clients Needed: 3-4**
+**New Unique Clients Needed: 3-4**
 
 ---
 
@@ -613,7 +760,7 @@ This is still ambitious but achievable. Missing the $280k target by $20k is acce
 
 **Expected End Q3 MRR: $322,000**
 
-**New Clients Needed: 5-6**
+**New Unique Clients Needed: 5-6**
 
 ---
 
@@ -629,7 +776,7 @@ This is still ambitious but achievable. Missing the $280k target by $20k is acce
 
 **Expected End Q4 MRR: $364,000**
 
-**New Clients Needed: 6-7**
+**New Unique Clients Needed: 6-7**
 
 ---
 
@@ -638,38 +785,38 @@ This is still ambitious but achievable. Missing the $280k target by $20k is acce
 ### Q1 2026 (January - March)
 
 **January 2026:**
-| Service | Target | New Clients |
-|---------|--------|-------------|
+| Service | Target | New Engagements |
+|---------|--------|-----------------|
 | Development | $15,000 | 2 |
 | Marketing | $7,500 | 1 |
 | Consulting | $7,000 | 1 |
 | **TOTAL** | **$29,500** | **4** |
 
 **February 2026:**
-| Service | Target | New Clients |
-|---------|--------|-------------|
+| Service | Target | New Engagements |
+|---------|--------|-----------------|
 | Development | $15,500 | 2 |
 | Marketing | $8,000 | 1 |
 | Consulting | $7,500 | 1 |
 | **TOTAL** | **$31,000** | **4** |
 
 **March 2026:**
-| Service | Target | New Clients |
-|---------|--------|-------------|
+| Service | Target | New Engagements |
+|---------|--------|-----------------|
 | Development | $16,344 | 2 |
 | Marketing | $9,000 | 1-2 |
 | Consulting | $7,250 | 1 |
 | **TOTAL** | **$32,594** | **4-5** |
 
-**Q1 Total: $93,094** (10-12 new clients)
+**Q1 Total: $93,094** (10-12 new unique clients, may include some multi-service engagements)
 
 ---
 
 ### Q2 2026 (April - June)
 
 **April 2026:**
-| Service | Target | New Clients |
-|---------|--------|-------------|
+| Service | Target | New Engagements |
+|---------|--------|-----------------|
 | Development | $4,500 | 0-1 |
 | Marketing | $3,500 | 0-1 |
 | Consulting | $1,000 | 0 |
@@ -678,82 +825,82 @@ This is still ambitious but achievable. Missing the $280k target by $20k is acce
 *Note: Lower target due to Satechi retainer starting (+$6,250 automatic)*
 
 **May 2026:**
-| Service | Target | New Clients |
-|---------|--------|-------------|
+| Service | Target | New Engagements |
+|---------|--------|-----------------|
 | Development | $4,500 | 0-1 |
 | Marketing | $4,000 | 0-1 |
 | Consulting | $1,250 | 0 |
 | **TOTAL** | **$9,750** | **1** |
 
 **June 2026:**
-| Service | Target | New Clients |
-|---------|--------|-------------|
+| Service | Target | New Engagements |
+|---------|--------|-----------------|
 | Development | $4,750 | 0-1 |
 | Marketing | $4,000 | 0-1 |
 | Consulting | $1,250 | 0 |
 | **TOTAL** | **$10,000** | **1-2** |
 
-**Q2 Total: $28,750** (3-4 new clients)
+**Q2 Total: $28,750** (3-4 new unique clients)
 
 ---
 
 ### Q3 2026 (July - September)
 
 **July 2026:**
-| Service | Target | New Clients |
-|---------|--------|-------------|
+| Service | Target | New Engagements |
+|---------|--------|-----------------|
 | Development | $7,500 | 1 |
 | Marketing | $4,000 | 0-1 |
 | Consulting | $1,000 | 0 |
 | **TOTAL** | **$12,500** | **1-2** |
 
 **August 2026:**
-| Service | Target | New Clients |
-|---------|--------|-------------|
+| Service | Target | New Engagements |
+|---------|--------|-----------------|
 | Development | $7,500 | 1 |
 | Marketing | $4,500 | 0-1 |
 | Consulting | $1,500 | 0 |
 | **TOTAL** | **$13,500** | **1-2** |
 
 **September 2026:**
-| Service | Target | New Clients |
-|---------|--------|-------------|
+| Service | Target | New Engagements |
+|---------|--------|-----------------|
 | Development | $8,000 | 1 |
 | Marketing | $5,000 | 1 |
 | Consulting | $1,500 | 0 |
 | **TOTAL** | **$14,500** | **2** |
 
-**Q3 Total: $40,500** (5-6 new clients)
+**Q3 Total: $40,500** (5-6 new unique clients)
 
 ---
 
 ### Q4 2026 (October - December)
 
 **October 2026:**
-| Service | Target | New Clients |
-|---------|--------|-------------|
+| Service | Target | New Engagements |
+|---------|--------|-----------------|
 | Development | $8,500 | 1 |
 | Marketing | $5,000 | 1 |
 | Consulting | $1,500 | 0 |
 | **TOTAL** | **$15,000** | **2** |
 
 **November 2026:**
-| Service | Target | New Clients |
-|---------|--------|-------------|
+| Service | Target | New Engagements |
+|---------|--------|-----------------|
 | Development | $9,000 | 1 |
 | Marketing | $5,250 | 1 |
 | Consulting | $1,750 | 0 |
 | **TOTAL** | **$16,000** | **2** |
 
 **December 2026:**
-| Service | Target | New Clients |
-|---------|--------|-------------|
+| Service | Target | New Engagements |
+|---------|--------|-----------------|
 | Development | $9,500 | 1 |
 | Marketing | $5,250 | 1 |
 | Consulting | $1,750 | 0 |
 | **TOTAL** | **$16,500** | **2** |
 
-**Q4 Total: $47,500** (6-7 new clients)
+**Q4 Total: $47,500** (6-7 new unique clients)
 
 ---
 
@@ -779,7 +926,7 @@ This is still ambitious but achievable. Missing the $280k target by $20k is acce
 | **Average MRR** | $258,000 | $320,000 | +$62,000 (+24%) |
 | **New Business** | ~$100,000 | $209,844 | +$109,844 (+110%) |
 | **Churn Rate** | 35% | 20% (target) | -15% (improvement) |
-| **Active Clients** | 36 | 50-55 (target) | +14-19 (+39%) |
+| **Active Clients (Unique)** | 30 | 43-48 (target) | +13-18 (+43-60%) |
 
 ### Service Mix Evolution
 
@@ -888,6 +1035,12 @@ This is still ambitious but achievable. Missing the $280k target by $20k is acce
 ## Immediate Action Items (Next 30 Days)
 
 ### Week 1-2 (Late November 2025)
+
+**Cross-Sell Program Setup:**
+- [ ] Finalize account manager incentive program (5% commission structure)
+- [ ] Create cross-sell playbook and distribute to team
+- [ ] Announce program to account managers
+- [ ] Each AM identifies top 3 cross-sell opportunities
 
 **Critical Outreach - Expiring Contracts:**
 - [ ] Great Star Tools (expired 11/1) - $16k combined - **URGENT**
@@ -1035,10 +1188,10 @@ This is still ambitious but achievable. Missing the $280k target by $20k is acce
 - [ ] Average revenue per client
 
 ### Client Metrics (Track Monthly)
-- [ ] Active clients (total count)
-- [ ] New clients added
-- [ ] Clients lost
-- [ ] Logo retention rate
+- [ ] Active unique clients (total count)
+- [ ] New unique clients added
+- [ ] Unique clients lost
+- [ ] Logo retention rate (unique clients)
 - [ ] Revenue retention rate
 - [ ] Client health scores
 - [ ] Contracts expiring next 90 days
