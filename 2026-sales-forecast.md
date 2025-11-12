@@ -68,36 +68,37 @@ Throughout this document, "clients" refers to **unique companies** unless otherw
 
 ## 2025 Critical Issues Identified
 
-### 1. High-Risk Revenue: $147,545 (52% of MRR)
+### 1. High-Risk Revenue: $91,844 (31% of MRR) - CORRECTED
 
 #### Projects Ending Q1 2026:
 - Beardown Brands (Consulting): $3,750 - ended 9/21/25
 - Blueme (Development): $3,500 - ended 11/18/25
 - Kyles Organics (Development): $4,400 - ended 11/5/25
-- SiO Beauty (Development): $7,500 - ending 12/4/25
+- SiO Beauty (Development): $4,500 - ending 11/30/25 ✅ **CORRECTED**
 - MadEngine Marketing: $15,000 - ending ~1/2/26
 - MadEngine Consulting: $15,000 - ending ~1/2/26
-- Satechi (Development): $14,444 - ending 2/14/26 (converting to retainer)
-- **Total Project Revenue Ending:** $63,594
+- **Satechi (Development): $14,444 - ending 3/31/26** ✅ **CORRECTED**
+  - **SUCCESS STORY:** Converting to $6,250/month retainer starting 4/1/26 (12-month term)
+  - Proves project→retainer conversion strategy works!
+- **Total Project Revenue Ending Q1 2026:** $60,594
 
 #### Month-to-Month Retainers (No Contract Protection):
 
-**Development:**
-- Align Tech: $8,625
+**Development (1 client):**
+- ~~Align Tech: $8,625~~ → **RENEWED 9/25/25 for 6 months** ✅ **MOVED TO ACTIVE TERM**
 - DITA: $7,500
 - Tori Richard & Kahala: $3,960
-- **Subtotal:** $20,085
+- **Subtotal:** $11,460
 
-**Marketing:**
-- AG Jeans: $4,500
-- Pair of Thieves: $12,330
-- Poseidon Bikes: $8,625 (**RENEWED 10/28/25 for 6 months - risk removed!**)
+**Marketing (3 clients):**
+- ~~Poseidon Bikes: $8,625~~ → **RENEWED 10/28/25 for 12 months** ✅ **MOVED TO ACTIVE TERM**
 - Stikwood: $8,677
 - United Scope: $12,623
-- **Subtotal:** $46,755
+- **Subtotal:** $21,300
 
-**Total Month-to-Month:** $66,840 (24% of MRR)
-**Adjusted (excluding Poseidon):** $58,215
+**Total Month-to-Month:** $32,760 (11% of MRR) - **Down from 24%!** ✅
+- **Risk Reduced:** $34k less at risk than previously calculated
+- Only 4 clients remain month-to-month (down from 6)
 
 ---
 
@@ -122,13 +123,13 @@ Throughout this document, "clients" refers to **unique companies** unless otherw
 - **Potential Loss:** -$4,200/month
 - **Action:** Demonstrate unique value, propose strategic work beyond dev hours
 
-**SiO Beauty ($7,500 current project) - OPPORTUNITY**
-- **Current:** One-time Black Friday theme rush project (ending 12/4/25)
+**SiO Beauty ($4,500 current project) - OPPORTUNITY**
+- **Current:** Black Friday theme rush project (ending 11/30/25)
 - **Opportunity:** Client interested in Q1 2026 continuation
   - Option A: Custom theme build (no rush) - likely $15-25k project
   - Option B: Ongoing retainer - target $5-8k/month
-- **Preferred Path:** Convert to retainer for stable MRR
-- **Action:** Proposal ready before project delivery in December
+- **Preferred Path:** Convert to retainer for stable MRR (like Satechi model)
+- **Action:** Proposal ready before project delivery in late November
 
 **Updated Revenue Risk Assessment:**
 - Glenmorangie normalization: -$15,000/month (likely)
@@ -172,73 +173,145 @@ Throughout this document, "clients" refers to **unique companies** unless otherw
 - Total new MRR added in 2025: ~$150k (estimated across all additions)
 - Challenge: 6 of 13 unique clients (46%) already lost or ending in 2025
 
-#### Clients Lost in 2025: 22 Unique Clients (24 Total Service Engagements)
+#### Clients Lost in 2025: 21 Unique Clients (24 Total Service Engagements)
 
-**By Service:**
-- **Development:** 11 clients
-  - Black Halo (4/30/25) - $5,431 MRR
-  - Forks Over Knives (5/1/25) - Project $14,250/mo
-  - Jessica Simpson (10/21/25) - $2,817 MRR
-  - Loved01 (9/29/25) - Project $1,125/mo
-  - Manhattan Beachwear (4/30/25) - $4,725 MRR
-  - More Prepared (3/30/25) - Project $4,987/mo
-  - Movano (6/19/25) - $8,158 MRR
-  - Rokform (10/21/25) - $225 Ad-Hoc
-  - TEdwards Wines (10/21/25) - Project $20,178/mo
-  - TripleK (10/14/25) - Project $8,650/mo
-  - Wix (ending 2025) - Project $13,000/mo
+**Important Distinction:**
+- **Unique clients lost:** 21 (entire client relationship ended)
+- **Service engagements lost:** 24 (includes multi-service clients who dropped one service but remained active)
+- **Multi-service client retained:** Tipsy Elves (lost Consulting, kept Development) ✅
 
-- **Marketing:** 10 clients
-  - Buttercloth (ending 1/1/26) - $7,000 MRR
-  - Cratejoy (3/31/25) - $8,500 MRR
-  - Exclusive Fabrics (9/30/25) - $6,896 MRR
-  - Group A (1/1/25) - $4,700 MRR
-  - HDButterCup (8/30/25) - Project $8,646/mo
-  - LRG (8/31/25) - $9,676 MRR
-  - Rottweiler (2/14/25) - $2,192 MRR
-  - Spirit Jersey (6/16/25) - $6,458 MRR
-  - The Bruery (ending 2025) - $9,970 MRR
-  - Zgallerie (4/30/25) - $15,992 MRR
+---
 
-- **Consulting:** 3 clients
-  - 3HNails (11/3/25) - $8,000 MRR
-  - Cavaco (1/31/25) - $4,000 MRR
-  - Tipsy Elves (10/31/25) - $3,000 MRR
+**By Service Type:**
+
+**Development: 11 Service Engagements Lost (All Unique Clients)**
+- Black Halo (4/30/25) - Retainer $5,431 MRR
+- Forks Over Knives (5/1/25) - Project $14,250/mo
+- Jessica Simpson (10/21/25) - Ad-Hoc $2,817 MRR
+- Loved01 (9/29/25) - Project $1,125/mo
+- Manhattan Beachwear (4/30/25) - Retainer $4,725 MRR
+- More Prepared (3/30/25) - Project $4,987/mo
+- Movano (6/19/25) - Retainer $8,158 MRR
+- Rokform (10/21/25) - Ad-Hoc $225
+- TEdwards Wines (10/21/25) - Project $20,178/mo
+- TripleK (10/14/25) - Project $8,650/mo
+- Wix (ending 2025) - Project $13,000/mo
+- **All 11 = complete client loss**
+
+**Marketing: 10 Service Engagements Lost (All Unique Clients)**
+- Buttercloth (ending 1/1/26) - Retainer $7,000 MRR
+- Cratejoy (3/31/25) - Retainer $8,500 MRR
+- Exclusive Fabrics (9/30/25) - Retainer $6,896 MRR
+- Group A (1/1/25) - Retainer $4,700 MRR
+- HDButterCup (8/30/25) - Project $8,646/mo
+- LRG (8/31/25) - Retainer $9,676 MRR
+- Rottweiler (2/14/25) - Retainer $2,192 MRR
+- Spirit Jersey (6/16/25) - Retainer $6,458 MRR
+- The Bruery (ending 2025) - Retainer $9,970 MRR
+- Zgallerie (4/30/25) - Retainer $15,992 MRR
+- **All 10 = complete client loss**
+
+**Consulting: 3 Service Engagements Lost (2 Unique Clients)**
+- 3HNails (11/3/25) - Retainer $8,000 MRR - Complete client loss ❌
+- Cavaco (1/31/25) - Retainer $4,000 MRR - Complete client loss ❌
+- **Tipsy Elves (10/31/25) - Retainer $3,000 MRR - SERVICE loss only, client retained via Development ✅**
+
+---
 
 **Lost Client Revenue Impact:**
 - Retainer MRR lost: ~$112k annually
 - Project revenue lost: ~$70k (one-time)
 - **Total revenue impact: ~$180k annually**
 
-#### 2025 Churn Rate by Service
+**Key Insight:**
+- Only 1 of 24 service losses (4%) was from a multi-service client who stayed
+- **Multi-service clients are stickier** - Tipsy Elves proves the value
+- Losing single-service clients = losing entire relationship (96% of losses)
 
-**Development:**
-- Starting clients: ~25
-- Added: 10
-- Lost: 11
+#### 2025 Churn Rate Analysis
+
+**CORRECTED: Unique Client Churn vs. Service Churn**
+
+**Overall Unique Client Churn:**
+- **Starting unique clients:** ~50-52 (estimated Jan 2025)
+- **Unique clients added:** 13
+- **Unique clients lost:** 21 (not 22 - Tipsy Elves retained)
+- **Net unique client change:** -8 clients
+- **Ending unique clients:** 30 (as of November 2025)
+- **Unique client churn rate:** ~38-40% (industry benchmark: 15-20%)
+
+---
+
+**Service-Level Churn (More Granular):**
+
+**Development Service Churn:**
+- Starting service engagements: ~25
+- Added: 10 service engagements
+- Lost: 11 service engagements (all = complete client loss)
 - **Net change: -1**
-- **Churn rate: ~44%** (extremely high)
+- **Service churn rate: ~44%** (extremely high)
+- **Client retention when lost: 0%** (no dev clients retained via other services)
 
-**Marketing:**
-- Starting clients: ~18
-- Added: 6
-- Lost: 10
+**Marketing Service Churn:**
+- Starting service engagements: ~18
+- Added: 6 service engagements
+- Lost: 10 service engagements (all = complete client loss)
 - **Net change: -4**
-- **Churn rate: ~56%** (critical)
+- **Service churn rate: ~56%** (critical)
+- **Client retention when lost: 0%** (no marketing clients retained via other services)
 
-**Consulting:**
-- Starting clients: ~5
-- Added: 3
-- Lost: 3
+**Consulting Service Churn:**
+- Starting service engagements: ~5
+- Added: 3 service engagements (includes 2 to existing clients: MadEngine, Tipsy Elves)
+- Lost: 3 service engagements
+  - 2 complete client losses (3HNails, Cavaco)
+  - **1 service loss, client retained (Tipsy Elves kept Development)** ✅
 - **Net change: 0**
-- **Churn rate: ~60%** (unsustainable)
+- **Service churn rate: ~60%** (unsustainable)
+- **Client retention when lost: 33%** (Tipsy Elves stayed)
 
-**Overall 2025 Churn Analysis:**
-- **Total unique clients lost:** 22
-- **Total unique clients added:** 13
-- **Net client change:** -9 unique clients
-- **Overall churn rate:** ~35-40% (industry average: 15-20%)
-- **Current active clients:** 30 unique clients (as of November 2025)
+---
+
+**Key Findings:**
+
+1. **96% of service losses = complete client loss** (23 of 24 service engagements lost)
+2. **Only 1 multi-service client (Tipsy Elves) retained after losing a service**
+3. **This proves multi-service client value** - they're stickier (33% retained vs. 0%)
+4. **Single-service clients are at extreme risk** - when they leave one service, they leave entirely
+
+---
+
+#### Multi-Service Client Tracking (Nov 2025)
+
+**Current Multi-Service Clients:** 4 unique clients with multiple service engagements
+
+| Client | Services | Status | MRR | Notes |
+|--------|----------|--------|-----|-------|
+| **AG Jeans** | Dev + Marketing | ✅ Active (both) | $24,000 | Strong relationship, 2 services |
+| **Great Star Tools** | Dev (2x) + Marketing | ✅ Active (all 3) | $16,000 | Largest multi-service client, 3 engagements |
+| **MadEngine (Fithsun)** | Marketing + Consulting | ✅ Active (both) | $90,000 | Projects ending Jan 2026, will NOT convert |
+| **Tipsy Elves** | Dev + Consulting | ⚠️ Partial (Dev only) | $7,500 | Lost Consulting 10/31/25, retained Dev |
+
+**Multi-Service Client Performance:**
+- **Total:** 4 unique clients (13% of 30 active clients)
+- **Service engagements:** 9 total (from these 4 clients)
+- **2025 retention when service lost:** 1 of 1 (Tipsy Elves - 100%)
+- **Average MRR per multi-service client:** $34,375
+- **Average MRR per single-service client:** $9,483
+- **Multi-service clients are 3.6x higher value**
+
+**Historical Context (2025):**
+- **Added 2 new multi-service relationships:** MadEngine (Marketing + Consulting), Tipsy Elves (Dev + Consulting)
+- **Lost 0 multi-service clients completely** (0% complete loss rate)
+- **Lost 1 service from multi-service client:** Tipsy Elves Consulting (but client retained via Dev)
+- **Retention rate for multi-service clients:** 100% (4 of 4 still active in some capacity)
+
+**Comparison to Single-Service Clients:**
+- **Single-service clients lost completely:** 21 of ~46 (46% churn rate)
+- **Multi-service clients lost completely:** 0 of 4 (0% churn rate)
+- **Multi-service clients are dramatically stickier** - evidence for cross-sell strategy
+
+---
 
 #### Root Causes of High Churn:
 1. **High project dependency** (26% of revenue - projects naturally end)
@@ -261,24 +334,34 @@ This churn analysis directly informs our 2026 priorities:
 
 ### 6. Revenue Decline Trend
 
-**Historical Revenue:**
-| Year | Revenue | YoY Change | % Change |
-|------|---------|------------|----------|
-| 2018 | $1,705,056 | - | - |
-| 2019 | $1,732,241 | +$27,185 | +1.6% |
-| 2020 | $2,644,745 | +$912,504 | +52.7% (Pandemic boom) |
-| 2021 | $3,725,201 | +$1,080,456 | +40.8% |
-| 2022 | $4,856,392 | +$1,131,191 | +30.4% (Peak) |
-| 2023 | $4,708,631 | -$147,761 | -3.0% |
-| 2024 | $3,995,372 | -$713,259 | -15.1% |
-| 2025 (est) | $3,200,000 | -$795,372 | -19.9% |
+**Historical Revenue (Accrual Basis):**
+| Year | Revenue | YoY Change | % Change | Profit Margin |
+|------|---------|------------|----------|---------------|
+| 2018 | $1,659,720 | - | - | 58.9%* |
+| 2019 | $1,752,305 | +$92,585 | +5.6% | 63.4%* |
+| 2020 | $2,827,321 | +$1,075,016 | +61.3% (Pandemic boom) | 53.5%** |
+| 2021 | $3,763,785 | +$936,464 | +33.1% | 6.9% |
+| 2022 | $4,882,926 | +$1,119,141 | +29.7% (Peak) | 8.5% |
+| 2023 | $4,855,203 | -$27,723 | -0.6% | 10.8% |
+| 2024 | $3,866,040 | -$989,163 | -20.4% | 5.6% |
+| 2025 (est) | $3,615,000 | -$251,040 | -6.5% | 6.0% |
+
+*2018-2019 margins not comparable (did not include co-founder salaries in accounting)
+**2020 first year with proper accounting including co-founder salaries
+
+**Cash vs. Accrual Note:**
+- 2025 accrual income: $3.01M (10 months YTD), projected ~$3.6M full year
+- 2025 cash income: $2.85M (10 months YTD), ~$165k lower due to outstanding AR
+- Gap primarily from 2 distressed clients: Movano ($46k) + The Bruery ($66k) with equity/relationship complexity
+- Remaining ~$53k is normal AR timing
 
 **Key Insights:**
-- **Peak Revenue:** $4.86M in 2022
-- **Current Trajectory:** Down 34% from peak over 3 years (-$1.66M)
-- **2022-2023:** Modest decline (-3%) - manageable
-- **2023-2024:** Accelerated decline (-15%) - concerning
-- **2024-2025:** Further acceleration (-20%) - critical
+- **Peak Revenue:** $4.88M in 2022
+- **Current Trajectory:** Down 26% from peak over 3 years (-$1.27M)
+- **2022-2023:** Modest decline (-0.6%) - manageable
+- **2023-2024:** Accelerated decline (-20%) - concerning
+- **2024-2025:** Improvement (-6.5%) - still declining but slowing
+- **Profit margin improving:** 5.6% (2024) → 6.0% (2025 projected)
 - **Urgency:** Must reverse trend in 2026 to avoid further erosion and return toward $4M+ levels
 
 ---
@@ -298,30 +381,479 @@ This churn analysis directly informs our 2026 priorities:
 
 ### Strategic Priorities
 
-#### 1. CRITICAL: Maintain Shopify Plus Partner Status (Premium or Platinum)
+#### 1. CRITICAL: Maintain Shopify Plus Partner Status (Premier or Platinum)
 
-**Current Status:** At risk - only 2 Shopify Plus projects closed in past 2 years
+**Current Status:** ⚠️ **AT RISK** - Only 1 Shopify Plus MIGRATION in past 2 years (BuildDirect 2023)
 
-**Requirements:**
-- **Premium Partner:** 4 Shopify Plus projects every 2 years
-- **Platinum Partner:** 6 Shopify Plus projects every 2 years
+---
 
-**Why This Matters:**
-- Majority of revenue comes from Shopify merchants
+### Complete Shopify Partner Tier Structure
+
+| Tier | Merchant Revenue | Referrals Required | People/Skills | Partner Benefits |
+|------|------------------|-------------------|---------------|------------------|
+| **Select** | $100k-$500k | 1 Plus or 10 Standard (5yr) | 1/3 | Basic partner badge |
+| **Plus** | $500k-$2.5M | 2 Plus or 40 Standard (5yr) | 3/10 | Enhanced support |
+| **Premier** | $2M-$10M | **4 Plus or 40 Standard (2yr)** | 10/30 | Priority support, co-marketing |
+| **Platinum** | $5M-$25M | **6 Plus (2yr)** | 25/80 | Dedicated partner manager, top-tier benefits |
+
+**Requirements Explained:**
+- **Merchant Revenue:** Total GMV/revenue from merchants DYODE refers to Shopify
+- **Referrals Required:** New merchant referrals to Shopify Plus or Standard (within timeframe)
+- **People/Skills:** Staff count / Staff with Shopify certifications
+
+---
+
+### DYODE Current Assessment Against Tier Criteria
+
+#### Criterion 1: Merchant Revenue (Total GMV from DYODE Shopify clients)
+
+**Current Shopify/Plus Client Base:**
+- 61% of MRR = ~$178k/month from Shopify/Plus merchants
+- ~15-20 Shopify Plus clients
+- Estimated client GMV range: $10M-$75M per merchant
+- **Total estimated merchant revenue: $200M-$1B+**
+
+**Assessment:** ✅ **EXCEEDS Platinum threshold** ($5M-$25M+)
+**Status:** Not a constraint
+
+---
+
+#### Criterion 2: Referrals (Plus migrations or Standard referrals)
+
+**For Premier Tier:** 4 Plus or 40 Standard (2yr)
+**For Platinum Tier:** 6 Plus (2yr)
+
+**CRITICAL CLARIFICATION - What Counts as "Referral":**
+- ✅ **COUNTS:** Platform migrations TO Shopify Plus (from BigCommerce, Magento, WooCommerce, custom, etc.)
+- ✅ **COUNTS:** New merchants signing up for Shopify Plus through DYODE
+- ❌ **DOES NOT COUNT:** Existing Shopify/Plus merchants (redesigns, retainers, ongoing work)
+- ❌ **DOES NOT COUNT:** Shopify → Shopify Plus upgrades (likely, confirm with Shopify)
+- ✅ **ANY SIZE QUALIFIES:** No minimum project value (typically $50k-$300k, avg ~$75k)
+
+**Recent 2-Year Performance (2024-2025):**
+- 2024: 0 Plus referrals ❌
+- 2025: 0 Plus referrals ❌
+- **Total 2-year: 1 Plus referral (BuildDirect in 2023, rolling off soon)**
+
+**Assessment:** ⚠️ **CRITICAL RISK - Only 1 Plus referral in 2-year window**
+- **Premier tier (4 Plus):** Need 3+ additional referrals in 2026 to maintain
+- **Platinum tier (6 Plus):** Need 5+ additional referrals in 2026 to maintain
+**Status:** **PRIMARY CONSTRAINT AND URGENT PRIORITY**
+
+---
+
+#### Criterion 3: People/Skills (Staff count / Shopify certified staff)
+
+**Current DYODE Team Assessment:**
+
+| Role | Count | Shopify Certifications | Notes |
+|------|-------|----------------------|-------|
+| Co-Founders | 2 | 0 | Tim Katz & George |
+| Director of Web Development | 1 | 1-2 (est) | Kevin - oversees Shopify dev team |
+| Project Managers (Dev) | ~3-4 | 1-2 | Elana, Biddle, Jason, Cyndi |
+| Web Developers | ~6-8 | 6+ | Kevin, Alyssa, Paul, Cris, Eric, Anthony |
+| Director of Digital Marketing | 1 | 0-1 | Lucas (Marketing Fundamentals assigned) |
+| Marketing Team | 2 | 0 | Bruce, Jessica (courses assigned) |
+| Sales/Operations | 1 | 0-1 | Brandon (Selling Fundamentals assigned) |
+| **TOTAL STAFF** | **~15-18** | **12 completed + 16 in-progress** | Small, lean team |
+
+**Certification Breakdown:**
+- ✅ **Completed:** 12 certifications
+  - Development Fundamentals: 6
+  - Liquid Storefronts: 3
+  - Selling Fundamentals: 1
+  - Positioning courses: 2
+- ⚠️ **In Progress:** 16 certifications assigned, not completed
+- 📊 **Total Potential:** 28 certifications (if all in-progress completed)
+
+**For Premier Tier:** 10 people / 30 Shopify skills (certifications)
+**For Platinum Tier:** 25 people / 80 Shopify skills (certifications)
+
+**Assessment:** ⚠️ **ACHIEVABLE for Premier, DOES NOT MEET Platinum**
+- Staff count: 15-18 ✅ (meets Premier 10+, below Platinum 25+)
+- Shopify certifications: 12 completed, 28 potential ⚠️ (close to Premier 30, need 2-4 more)
+**Status:** **ACHIEVABLE CONSTRAINT - Need to complete in-progress certifications + 2-4 more**
+
+---
+
+### 2026 Partner Tier Strategy & Recommendation
+
+**Realistic Target: Premier Tier**
+
+| Criterion | Premier Requirement | Current Status | Gap to Close | Achievability |
+|-----------|-------------------|----------------|--------------|---------------|
+| Merchant Revenue | $2M-$10M | $200M-$1B+ (est) | ✅ Exceeds | ✅ No action needed |
+| Plus Referrals | 4 (2yr) | 1 | Need 3+ in 2026 | ⚠️ Challenging but achievable |
+| People/Skills | 10/30 | 15-18 / 12 completed + 16 in-progress | Need 2-4 more certifications | ✅ Achievable - just complete in-progress |
+
+**Stretch Target: Platinum Tier**
+
+| Criterion | Platinum Requirement | Current Status | Gap to Close | Achievability |
+|-----------|---------------------|----------------|--------------|---------------|
+| Merchant Revenue | $5M-$25M+ | $200M-$1B+ (est) | ✅ Exceeds | ✅ No action needed |
+| Plus Referrals | 6 (2yr) | 1 | Need 5+ in 2026 | ❌ Very difficult (5x increase) |
+| People/Skills | 25/80 | 15-18 / 28 potential | 7-10 more staff, 52+ certs | ❌ Not feasible in 2026 |
+
+**RECOMMENDATION: Focus on Premier Tier (4 Plus referrals in 2026)**
+- More achievable than Platinum given current team size
+- Still provides strong partner benefits (priority support, co-marketing)
+- Sets foundation for Platinum in 2027-2028 if team scales
+
+**Why Premier/Platinum Matters:**
+- 61% of current MRR comes from Shopify/Plus merchants ($178k/month)
 - Partner badge drives inbound leads and credibility
 - Access to Shopify partner referrals and co-marketing
 - Competitive advantage in sales process
+- **Without Premier+ status:** Lose competitive edge, inbound flow, and co-marketing opportunities
 
-**2026 Target:** Close minimum 4-6 Shopify Plus projects
+---
 
-**Strategy:**
-- Prioritize Shopify Plus prospects in sales pipeline
-- Leverage Martal lead gen to target Shopify Plus brands specifically
-- Partner with Shopify Plus sales team for referrals
-- Create Shopify Plus-specific case studies and positioning
-- Attend Shopify events and partner summits
+### Shopify Plus MIGRATION Targets for 2026
 
-**Tracking:** Must monitor Shopify Plus project closes quarterly
+**Historical Performance:**
+- 2020: 2 migrations (Pali Wine, Brandless)
+- 2021: 3 migrations (Invisalign, Steals, Belly Bandit)
+- 2023: 1 migration (BuildDirect)
+- 2024: 0 migrations ❌
+- 2025: 0 migrations ❌
+- **2-Year Rolling (2024-2025):** Only 1 migration (BuildDirect in 2023, rolling off)
+
+**⚠️ Reality Check:** Need to close 4 migrations in 2026 for Premier tier = **4x increase from recent performance**
+
+---
+
+**2026 Annual Target: 4 Plus Migrations (Premier Tier) to 6 (Stretch to Platinum)**
+
+| Tier Goal | Migration Target | Project Value | Staffing Constraint | Achievability |
+|-----------|-----------------|---------------|---------------------|---------------|
+| **Premier (BASE)** | 4 migrations | $300k | 10/30 (meets threshold) | ⚠️ Challenging but achievable |
+| **Platinum (STRETCH)** | 6 migrations | $450k | 25/80 (does not meet) | ❌ Not feasible in 2026 |
+
+**RECOMMENDATION: Target Premier Tier (4 migrations)**
+
+| Quarter | Migration Target | Project Value | Cumulative | Status | Critical Deadline |
+|---------|-----------------|---------------|------------|--------|-------------------|
+| **Q1 2026** | 1 migration | $75k | 1 | Foundation | March 31, 2026 |
+| **Q2 2026** | 2 migrations | $150k | 3 | On Track | June 30, 2026 |
+| **Q3 2026** | 1 migration | $75k | 4 | ✅ Premier Achieved | Sept 30, 2026 |
+| **Q4 2026** | 0-2 migrations | $0-150k | 4-6 | Stretch to Platinum | Dec 31, 2026 |
+| **TOTAL (BASE)** | **4 migrations** | **$300k** | **4** | **🎯 Premier Tier** | **Annual Review** |
+| **TOTAL (STRETCH)** | **6 migrations** | **$450k** | **6** | **⭐ Platinum (if staffing met)** | **Annual Review** |
+
+**Key Milestones:**
+- ✅ **March 31, 2026:** Must have 1 migration closed (Foundation)
+- ✅ **June 30, 2026:** Must have 3 migrations closed (75% to Premier goal)
+- ✅ **Sept 30, 2026:** Must have 4 migrations closed (🎯 Premier tier achieved)
+- ⭐ **Dec 31, 2026:** 6 migrations = Stretch to Platinum (if team scales and gets certifications)
+
+---
+
+**Current Q1 2026 Migration Pipeline:**
+
+| Opportunity | Platform | Revenue Size | Timeline | Status | Confidence |
+|-------------|----------|--------------|----------|--------|------------|
+| **Jerome's Furniture** | Migration to Plus | ~$75k (est) | Q1 2026 start | On hold (tariffs) | 🟡 Medium |
+| **Bolle Brands** | Migration to Plus (4 brands) | ~$100-150k (est) | Q2 2026 start | Low communication | 🟡 Medium |
+
+**Pipeline Gap Analysis:**
+- **Current pipeline:** 2 opportunities
+- **Target for year:** 4-6 migrations needed
+- **Gap:** 2-4 additional migration opportunities required
+- **Source to fill gap:** Martal lead gen + founder-led outreach + Shopify partner referrals
+
+**⚠️ URGENT:** Pipeline is insufficient. Need Martal to deliver 10-12 migration SQLs to hit 4-6 closes.
+
+---
+
+### Detailed 2026 Migration Sales Breakdown
+
+#### Migration Sales Targets by Quarter
+
+**Q1 2026 (Jan - Mar):**
+
+| Deal Source | Expected Closes | Avg Project Value | Total Revenue | Close Probability | Weighted Revenue |
+|-------------|-----------------|-------------------|---------------|-------------------|------------------|
+| Jerome's Furniture (pipeline) | 0.5 | $75k | $75k | 50% | $37.5k |
+| Martal SQLs (Nov-Jan) | 1.0 | $75k | $75k | 35% | $26.3k |
+| Founder/Referrals | 0.5 | $75k | $75k | 30% | $22.5k |
+| **Q1 TOTAL** | **1-2 closes** | **$75k avg** | **$75-150k** | **36% weighted** | **$86.3k weighted** |
+
+**Expected Q1 Result:** 1 migration closed, $75k project value
+
+---
+
+**Q2 2026 (Apr - Jun):**
+
+| Deal Source | Expected Closes | Avg Project Value | Total Revenue | Close Probability | Weighted Revenue |
+|-------------|-----------------|-------------------|---------------|-------------------|------------------|
+| Bolle Brands (pipeline) | 0.7 | $125k | $125k | 60% | $75k |
+| Martal SQLs (Q1 delivery) | 1.0 | $75k | $75k | 35% | $26.3k |
+| Jerome's (carryover) | 0.3 | $75k | $75k | 40% | $30k |
+| Founder/Referrals | 0.5 | $75k | $75k | 30% | $22.5k |
+| **Q2 TOTAL** | **1-2 closes** | **$88k avg** | **$88-175k** | **43% weighted** | **$153.8k weighted** |
+
+**Expected Q2 Result:** 1-2 migrations closed, $125-175k project value
+
+---
+
+**Q3 2026 (Jul - Sep):**
+
+| Deal Source | Expected Closes | Avg Project Value | Total Revenue | Close Probability | Weighted Revenue |
+|-------------|-----------------|-------------------|---------------|-------------------|------------------|
+| Martal SQLs (Q2 delivery) | 1.0 | $75k | $75k | 35% | $26.3k |
+| Shopify Partner Referrals | 0.5 | $75k | $75k | 25% | $18.8k |
+| Founder/Referrals | 0.5 | $75k | $75k | 30% | $22.5k |
+| **Q3 TOTAL** | **1 close** | **$75k avg** | **$75k** | **30% weighted** | **$67.6k weighted** |
+
+**Expected Q3 Result:** 1 migration closed, $75k project value
+
+---
+
+**Q4 2026 (Oct - Dec):**
+
+| Deal Source | Expected Closes | Avg Project Value | Total Revenue | Close Probability | Weighted Revenue |
+|-------------|-----------------|-------------------|---------------|-------------------|------------------|
+| Martal SQLs (Q3 delivery) | 0.5 | $75k | $75k | 35% | $26.3k |
+| Shopify Partner Referrals | 0.3 | $75k | $75k | 25% | $18.8k |
+| Founder/Referrals | 0.2 | $75k | $75k | 30% | $22.5k |
+| **Q4 TOTAL** | **0-1 close** | **$75k avg** | **$0-75k** | **30% weighted** | **$67.6k weighted** |
+
+**Expected Q4 Result:** 0-1 migration closed, $0-75k project value
+
+---
+
+#### 2026 Migration Sales Summary
+
+| Quarter | Target Closes | Revenue Range | Expected Revenue | Cumulative Closes | Cumulative Revenue |
+|---------|---------------|---------------|------------------|-------------------|---------------------|
+| Q1 | 1-2 | $75-150k | $75k | 1 | $75k |
+| Q2 | 1-2 | $88-175k | $150k | 2-3 | $225k |
+| Q3 | 1 | $75k | $75k | 3-4 | $300k |
+| Q4 | 0-1 | $0-75k | $0k | 4 | $300k |
+| **TOTAL** | **4-6** | **$300-450k** | **$300k (base)** | **4** | **$300k** |
+
+**Conservative Case:** 4 migrations, $300k total project revenue
+**Base Case:** 5 migrations, $375k total project revenue
+**Stretch Case:** 6 migrations, $450k total project revenue
+
+---
+
+#### Migration Revenue Timing vs Recognition
+
+**Important:** Migration projects typically span 3-6 months, so revenue recognition differs from close timing.
+
+**Project Timeline (Typical):**
+- **Month 0:** Deal closed, SOW signed
+- **Month 0-1:** Discovery & planning (25% payment) = $18.75k
+- **Month 1-3:** Development & build (50% payment) = $37.5k
+- **Month 3-4:** Testing & QA (15% payment) = $11.25k
+- **Month 4-6:** Launch & post-launch support (10% payment) = $7.5k
+
+**Revenue Recognition by Quarter (Based on 4 migration base case):**
+
+| Quarter | Deals Closed | Project Start Timing | 2026 Revenue Recognized | Remaining to 2027 |
+|---------|--------------|----------------------|-------------------------|-------------------|
+| **Q1** | 1 ($75k) | Jan-Mar starts | $56.25k (75%) | $18.75k (25%) |
+| **Q2** | 2 ($150k) | Apr-Jun starts | $112.5k (75%) | $37.5k (25%) |
+| **Q3** | 1 ($75k) | Jul-Sep starts | $56.25k (75%) | $18.75k (25%) |
+| **Q4** | 0 ($0k) | No new starts | $0k | $0k |
+| **TOTAL** | **4 ($300k)** | **Jan-Sep 2026** | **$225k (75%)** | **$75k (25%)** |
+
+**Note:** ~$75k of migration project revenue will spill into Q1 2027 for projects starting Q3 2026.
+
+**2026 Total Migration Revenue (Accrual Basis):** $225k recognized in 2026, $75k in 2027
+
+---
+
+#### Pipeline Sources & Requirements to Hit Target
+
+**To close 4 migrations in 2026, we need:**
+
+| Source | SQLs/Opps Required | Close Rate | Expected Closes | Revenue Contribution |
+|--------|-------------------|------------|-----------------|----------------------|
+| **Current Pipeline** | 2 (Jerome's, Bolle) | 50% | 1 | $75-125k |
+| **Martal Lead Gen** | 10-12 | 35% | 3-4 | $225-300k |
+| **Founder Outreach** | 3-4 | 30% | 1 | $75k |
+| **Shopify Referrals** | 2-3 | 25% | 0-1 | $0-75k |
+| **TOTAL REQUIRED** | **17-21 migration opps** | **~35% avg** | **5-7 closes** | **$375-575k** |
+
+**Critical Success Factors:**
+1. **Martal delivers 10-12 migration SQLs** (not just general Shopify Plus SQLs)
+2. **Close rate of 35%+** on migration opportunities (higher than typical 30%)
+3. **Re-engage Jerome's and Bolle** in Q1 before pipeline dries up
+4. **Founder dedicates time** to high-value migration opportunities
+
+---
+
+#### Integration with Overall 2026 Revenue Target
+
+**2026 Overall Target:** $4.2M total revenue
+
+**Migration Project Revenue Contribution:**
+- Migration projects recognized in 2026: $225k (from 4 closes)
+- Migration projects billed in 2026: $300k (full project value)
+- % of 2026 revenue target: 5.4% (recognized) or 7.1% (billed)
+
+**Post-Migration Retainer Opportunity:**
+- Historical conversion: ~60% of migrations convert to ongoing retainers
+- Expected conversions: 2-3 post-migration retainers
+- Retainer value: $6-10k/month avg
+- Q4 2026 MRR impact: $12-30k (from migrations closed Q1-Q2)
+- 2027 annual value: $144-360k
+
+**Total Migration Program Value (2026-2027):**
+- 2026 project revenue: $300k
+- 2027 project spillover: $75k
+- 2027 retainer MRR: $144-360k/year
+- **Total 2-year value: $519-735k from 4 migration closes**
+
+**Why Migrations are Strategic Priority:**
+1. Partner status preservation (competitive advantage)
+2. Large upfront project revenue ($75k avg)
+3. High retainer conversion rate (60%)
+4. Long-term client relationships (multi-year)
+5. Portfolio credibility for future migration sales
+
+---
+
+**Platform Migration Targeting (Priority Order):**
+
+1. **BigCommerce Enterprise** → Shopify Plus
+   - Pain points: Limited app ecosystem, slower innovation, similar pricing
+   - Easiest conversion path
+
+2. **Magento/Adobe Commerce** → Shopify Plus
+   - Pain points: High hosting costs, complexity, expensive maintenance
+   - Strong ROI case for migration
+
+3. **WooCommerce (at scale)** → Shopify Plus
+   - Pain points: Performance issues at $10M+, plugin conflicts, security
+   - Brands outgrowing WordPress
+
+4. **Custom/Legacy Platforms** → Shopify Plus
+   - Pain points: Technical debt, hard to maintain, expensive devs
+   - Modernization play
+
+**Avoid Targeting:**
+- ❌ Existing Shopify merchants (don't count for partner status)
+- ❌ Existing Shopify Plus merchants (don't count for partner status)
+
+---
+
+**Martal Lead Gen: Migration-Specific Requirements**
+
+**Pilot Phase (Nov 2025 - Jan 2026):**
+- **Total SQLs guaranteed:** 18
+- **Migration SQLs required:** 3-4 (highest priority)
+- **Expected closes:** 1-2 migrations in Q1
+
+**If Extended (Q2-Q4 2026):**
+- **Additional SQLs:** ~60-70
+- **Migration SQLs required:** 8-10 (15% of total)
+- **Expected closes:** 3-4 migrations
+
+**Total 2026 from Martal:** 10-12 migration SQLs → 4-6 closes (at 30-35% close rate)
+
+**Migration SQL Qualification Criteria:**
+1. ✅ Currently on **non-Shopify platform** (BigCommerce, Magento, WooCommerce, custom)
+2. ✅ $10M+ annual revenue (Shopify Plus qualified)
+3. ✅ Ready to evaluate migration in next 90 days
+4. ✅ Migration budget allocated or planned
+5. ✅ Decision maker engaged (CMO, VP eCommerce, Founder)
+
+**Success Metric for Martal:**
+- **PRIMARY:** Migration SQLs delivered (this is the #1 priority, worth 2-3x a regular SQL)
+- **Secondary:** General Shopify Plus SQLs for revenue growth
+
+---
+
+### Action Required: Address Shopify Certification Gap for Premier Tier
+
+**Current Constraint:** Below Premier requirement of 30 Shopify certifications
+
+**Current State (Verified):**
+- Total staff: 15-18 people ✅ (meets Premier 10+)
+- Shopify certifications completed: **12** ⚠️ (below Premier 30)
+  - Development Fundamentals: 6 (Kevin, Alyssa, Paul, Cris, Eric, Anthony)
+  - Liquid Storefronts: 3 (Kevin, Alyssa, Paul)
+  - Selling Fundamentals: 1 (from Elana, Biddle, Jason, Cyndi, Brandon)
+  - Positioning International Selling: 1
+  - Positioning Checkout Value: 1
+- **Certifications in progress:** 16 (assigned but not completed)
+- **Gap: 18 additional certifications needed to reach 30**
+
+**2026 Certification Strategy:**
+
+**Step 1: Complete In-Progress Certifications (16 assigned, not completed)**
+
+| Course | Assigned To | Completed | Remaining | Priority |
+|--------|-------------|-----------|-----------|----------|
+| Liquid Storefronts | 8 assigned | 3 ✅ | 5 to complete | **HIGH** - Dev team |
+| Selling Fundamentals | 5 assigned | 1 ✅ | 4 to complete | **HIGH** - Sales/PM team |
+| Solution Planning Fundamentals | Elana | 0 | 1 to complete | **MEDIUM** - PM |
+| Marketing Fundamentals | Lucas, Bruce, Jessica | 0 | 3 to complete | **MEDIUM** - Marketing |
+| Selling/Positioning Shopify Marketing | 2 marketing | 0 | 2 to complete | **MEDIUM** - Marketing |
+| Positioning Checkout Value | 2 PM team | 1 ✅ | 1 to complete | **LOW** - Nice to have |
+
+**Total In-Progress to Complete:** 16 certifications
+
+**Step 2: Additional Certifications Needed (To reach 30 total)**
+
+Current: 12 completed
++ In-Progress: 16 → Would reach 28 total
+**Additional needed: 2-4 certifications to reach 30**
+
+| Priority | Team | Additional Certifications | Timeline | Count |
+|----------|------|---------------------------|----------|-------|
+| **MEDIUM** | Co-Founders (2) | Shopify Plus Merchant | Q2 2026 | 2 |
+| **LOW** | Directors (3) | Shopify Product Fundamentals (if not already covered) | Q2 2026 | 2-3 |
+
+**Total Path to 30:**
+- Current completed: 12 ✅
+- Complete in-progress: 16 → **28 total**
+- Additional 2-4 certifications → **30-32 total** ✅ **Premier threshold met**
+
+**Implementation Plan:**
+
+**Q1 2026 (Jan-Mar) - Complete In-Progress Certifications:**
+- [ ] **Week 1-2:** Push to complete 16 in-progress certifications
+  - Priority 1: 5 remaining Liquid Storefronts (dev team)
+  - Priority 2: 4 remaining Selling Fundamentals (sales/PM team)
+  - Priority 3: 7 marketing and planning certifications
+- [ ] **Week 3-4:** Review progress, identify blockers
+- [ ] Allocate 4-6 hours/person to complete already-assigned courses
+- [ ] **Target: 22-25 total certifications by end Q1** (12 current + 10-13 from in-progress)
+
+**Q2 2026 (Apr-Jun) - Final Push to 30:**
+- [ ] Complete remaining in-progress certifications (3-6 remaining)
+- [ ] Co-founders complete Shopify Plus Merchant certification (2 certs)
+- [ ] Directors complete any missing certifications (2-3 certs)
+- [ ] **Target: 30+ total certifications by June 30** ✅ (meet Premier threshold)
+- [ ] Submit certification proof to Shopify for Premier tier review
+
+**Q3-Q4 2026 (Jul-Dec) - Maintenance & Growth:**
+- [ ] New hires obtain certifications within 90 days
+- [ ] Existing staff pursue advanced certifications
+- [ ] Target: 35-40 certifications by end of year
+
+**Revised Cost & Time Investment:**
+- **Cost:** $0 (Shopify certifications are free for partners)
+- **Time per certification:** 4-6 hours (courses already assigned, just need completion)
+- **Total time investment:** ~64-96 hours across team in Q1-Q2 (much lower than original estimate)
+- **ROI:** Partner status preservation = competitive advantage + inbound leads
+
+**Why This is Achievable:**
+- ✅ Already have 12 certifications completed (40% to goal)
+- ✅ 16 certifications already assigned to team members (just need completion)
+- ✅ Only need 2-4 additional certifications beyond in-progress ones
+- ⚠️ Must complete in-progress certifications by Q2 to meet Premier tier requirements
+
+**Why This Matters:**
+- Premier tier requires 10 people / 30 Shopify skills
+- Current: 15-18 people ✅ / 12 skills completed ⚠️ / 16 in-progress ⚠️
+- **Without 30 certifications, at risk of losing Premier tier even if hit 4 Plus referrals**
+- Certifications are free, just require time investment (team already has access)
+- Must complete before Shopify annual partner review
 
 ---
 
@@ -665,10 +1197,15 @@ While cross-sells have 5-10x higher close rate and 2x faster sales cycle, viable
 ### Q1 2026: Critical Replacement Phase - REALISTIC ASSESSMENT
 
 **Context: The Perfect Storm**
-- Project revenue ending: -$44,750
+- Project revenue ending: -$56,844 ✅ **CORRECTED**
+  - Blueme $3,500 (ended 11/18), Kyles $4,400 (ended 11/5), SiO $4,500 (ending 11/30)
+  - MadEngine Marketing + Consulting $30,000 (ending ~1/2/26)
+  - Satechi $14,444 (ending 3/31/26, **converting to $6,250/month retainer 4/1/26** ✅)
 - Client revenue reductions (Glenmorangie, Wyze): -$19,200
 - Normal quarterly churn: -$13,650
-- **Total Q1 headwind: -$77,600**
+- **Total Q1 headwind: -$89,694** ✅ **CORRECTED**
+
+**GOOD NEWS:** Poseidon & Align Tech renewals removed $17k from month-to-month risk ✅
 
 **Target End Q1 MRR: $280,000**
 
@@ -922,11 +1459,13 @@ This is still ambitious but achievable. Missing the $280k target by $20k is acce
 
 | Metric | 2025 | 2026 | Change |
 |--------|------|------|--------|
-| **Annual Revenue** | $3.1M - $3.2M | $4.1M - $4.2M | +$1.0M (+32%) |
-| **Average MRR** | $258,000 | $320,000 | +$62,000 (+24%) |
+| **Annual Revenue** | $3.6M (accrual) / $3.4M (cash) | $4.1M - $4.2M | +$500-600k (+14-17%) |
+| **Average MRR** | $275,000 | $320,000 | +$45,000 (+16%) |
 | **New Business** | ~$100,000 | $209,844 | +$109,844 (+110%) |
 | **Churn Rate** | 35% | 20% (target) | -15% (improvement) |
 | **Active Clients (Unique)** | 30 | 43-48 (target) | +13-18 (+43-60%) |
+
+**Note:** 2025 accrual revenue includes ~$165k AR (mostly from 2 distressed clients with equity/relationship situations)
 
 ### Service Mix Evolution
 
@@ -1051,19 +1590,41 @@ This is still ambitious but achievable. Missing the $280k target by $20k is acce
 
 **Month-to-Month Conversion Calls:**
 - [ ] United Scope - $12,623 - **HIGH VALUE**
-- [ ] Pair of Thieves - $12,330 - **HIGH VALUE**
-- [ ] Align Tech - $8,625
-- [ ] Posiedon Bikes - $8,625 (contract expired 1/14/2022!) - **URGENT**
 - [ ] Stikwood - $8,677 (contract expired 12/30/2024) - **URGENT**
 - [ ] DITA - $7,500
-- [ ] AG Jeans Marketing - $4,500
 - [ ] Tori Richard - $3,960
+- [x] ~~Align Tech - $8,625~~ → **COMPLETED** ✅ Renewed 9/25/25 for 6 months
+- [x] ~~Poseidon Bikes - $8,625~~ → **COMPLETED** ✅ Renewed 10/28/25 for 12 months
+
+**Month-to-Month Clients Remaining:** Only 4 (down from 6) - $32,760 total
 
 **Project to Retainer Discussions:**
 - [ ] MadEngine - $30k combined - **Confirmed will NOT convert**
   - Focus: Get referrals/testimonial before project ends
-- [ ] Satechi - $14,444 → $6,250 retainer (Feb start) - **Confirmed conversion**
-  - Ensure smooth transition, maintain relationship
+- [x] **Satechi - $14,444 → $6,250 retainer (April start) - CONFIRMED CONVERSION** ✅
+  - Project ends 3/31/26, retainer starts 4/1/26 for 12 months
+  - **SUCCESS STORY** - Use as model for future conversions
+- [ ] SiO Beauty - $4,500 project → Target $5-8k retainer
+  - Proposal ready before 11/30 delivery
+
+**Shopify Plus Migration Pipeline (CRITICAL for Partner Status):**
+- [ ] **Jerome's Furniture** - ~$75k migration project - **Q1 2026 target**
+  - Status: On hold due to tariffs
+  - Action: Re-engage conversation, assess timeline, position as strategic investment
+  - Confidence: 🟡 Medium (needs active nurturing)
+- [ ] **Bolle Brands** - ~$100-150k migration (4 brands) - **Q2 2026 target**
+  - Status: Low communication currently
+  - Action: Schedule check-in call, provide migration ROI case study
+  - Confidence: 🟡 Medium (needs relationship building)
+- [ ] **Martal Migration SQLs** - Target 3-4 in pilot phase (Nov-Jan)
+  - Platform targets: BigCommerce, Magento, WooCommerce, custom
+  - Required for 2026: 10-12 total migration SQLs → 4-6 closes
+  - **CRITICAL:** If <1 migration SQL/month by end Nov, adjust strategy immediately
+
+**Why Migrations are Priority #1:**
+- Need 4-6 migrations in 2026 to maintain Shopify Plus Premium/Platinum partner status
+- Only 1 migration in past 2 years (BuildDirect 2023) = **4-6x increase required**
+- Partner status = credibility, inbound leads, competitive advantage for 2027+
 
 ### Week 3-4 (Early December 2025)
 

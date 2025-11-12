@@ -169,18 +169,25 @@
 
 ## Historical Profit Margin Context
 
-### DYODE Profit Margin History (2018-2025)
+### DYODE Profit Margin History (2018-2025, Accrual Basis)
 
 | Year | Revenue | Expenses | Profit | Other Income | **Profit Margin** |
 |------|---------|----------|--------|--------------|-------------------|
-| 2018 | $1.71M | $1.04M | $651k | - | **38%** |
-| 2019 | $1.73M | $1.07M | $659k | - | **38%** |
-| 2020 | $2.64M | $1.84M | $803k | - | **30%** |
-| 2021 | $3.73M | $3.52M | $204k | - | **5.5%** |
-| 2022 | $4.86M | $4.51M | $348k | $7k | **7.3%** |
-| 2023 | $4.71M | $4.41M | $299k | $29k | **7.0%** |
-| 2024 | $4.00M | $3.65M | $348k | -$17k | **8.3%** |
-| **2025 YTD** | **$2.85M** | **$2.87M** | **-$27k** | **$34k** | **0.3%** |
+| 2018 | $1.66M | $1.04M | $615k | - | **58.9%*** |
+| 2019 | $1.75M | $1.07M | $680k | - | **63.4%*** |
+| 2020 | $2.83M | $1.84M | $985k | - | **53.5%*** |
+| 2021 | $3.76M | $3.52M | $242k | - | **6.9%** |
+| 2022 | $4.88M | $4.51M | $382k | $7k | **8.5%** |
+| 2023 | $4.86M | $4.41M | $475k | $29k | **10.8%** |
+| 2024 | $3.87M | $3.65M | $202k | -$17k | **5.6%** |
+| **2025 YTD** | **$3.01M** | **$2.87M** | **$173k** | **$34k** | **6.0%** |
+
+*2018-2020 margins not directly comparable - different accounting treatment for co-founder salaries
+
+**Cash vs. Accrual (2025):**
+- Accrual income: $3.01M (10 months), profit $173k, 6.0% margin
+- Cash income: $2.85M (10 months), profit $7.5k, 0.3% margin
+- Gap: ~$165k AR, mostly from 2 distressed clients (Movano $46k + The Bruery $66k with equity/relationship complexity)
 
 **What This Shows:**
 
@@ -205,11 +212,12 @@
 - **The team scaled for $5M+ business**
 
 **2023-2024: Revenue Decline, Cost Cutting, Morale Balancing**
-- Revenue declined from $4.86M → $4.0M
+- Revenue declined from $4.86M → $3.87M (-20%)
 - **April 2024: Laid off 10 people** to reduce expenses (tough decision)
 - **October 2024: Gave raises** to remaining team (balancing morale after layoffs)
-- Expenses: $4.4M → $3.65M (14% reduction)
-- Margin: 8.3% (set first profit margin goal of 10%, came close)
+- Expenses: $4.4M → $3.65M (17% reduction)
+- Margin: 5.6% (set first profit margin goal of 10%, fell short)
+- Profit: $202k
 - Still challenge: Team sized for bigger business, but made progress
 
 **2025: Turbulence Year**
@@ -218,11 +226,12 @@
 - **Early 2025: Forecasted -$200k profit loss** (crisis mode)
 - **Froze raises** when performance deteriorated
 - **Laid off 2 developers** to cut costs further
-- **Year-end: Caught back up to flat** (avoided projected -$200k loss)
-- Revenue on track for ~$3.4M (down 15% from 2024)
-- Expenses: $2.87M YTD
-- **0.3% profit margin (essentially breakeven)**
-- Operating loss of -$27k, saved only by $34k other income
+- **Year-end: Better than feared** (avoided projected -$200k loss)
+- Revenue on track for ~$3.6M accrual (down 6.5% from 2024)
+- Expenses: $2.87M (10 months YTD)
+- **6.0% profit margin on accrual basis** (improving from 5.6% in 2024)
+- Operating profit: $173k (10 months)
+- **BUT cash reality:** Only 0.3% margin due to $165k AR from distressed clients
 
 **What the Team Has Been Through:**
 - April 2024: Layoffs (10 people)
@@ -232,12 +241,14 @@
 - **This has been incredibly turbulent for a small team**
 
 **Key Takeaways:**
-- **True baseline (2020-2024): 6-8% margins** with proper accounting and market salaries
-- **2024 was best year in recent history:** 8.3% margin after 10 layoffs, gave raises in October
+- **True baseline (2020-2024): 6-10% margins** with proper accounting and market salaries (2023 hit 10.8%)
+- **2024 was challenging:** 5.6% margin after 20% revenue decline and 10 layoffs, gave raises in October
 - **2025 external shock:** Tariffs derailed progress, forecasted -$200k loss
-- **2025 recovery:** Avoided $200k loss through cost control, ended at breakeven (0.3% margin)
+- **2025 recovery (accrual):** Avoided $200k loss, improved margin to 6.0%, profit $173k (10 months)
+- **2025 cash reality:** Only 0.3% margin due to $165k AR from distressed clients (not typical collections)
 - **Team has been through a lot:** Layoffs (April 2024) → Raises (Oct 2024) → Freeze (2025) → More layoffs (2 devs)
 - **2026 opportunity:** Get to 12-15% with growth plan + controlled expenses, unlock raises
+- **Important:** Accrual basis matches MRR tracking and client commitments; cash lag is from unique equity/relationship situations
 
 ---
 
@@ -248,9 +259,12 @@
 **Why 12-15%?**
 
 ✅ **Realistic improvement from current baseline:**
-- 2024 achieved 8.3% (close to 10% goal)
-- 12-15% is roughly 1.5-2x improvement over 2024
-- Not comparing to 2018-2019 (those margins didn't include co-founder salaries)
+- 2023 achieved 10.8% (best recent year)
+- 2024 dropped to 5.6% (revenue decline impact)
+- 2025 improved to 6.0% (recovery beginning)
+- 12-15% is roughly 2-2.5x improvement over 2025
+- Gets us above 2023's 10.8% peak
+- Not comparing to 2018-2020 (different accounting for co-founder salaries)
 
 ✅ **Achievable with execution:**
 - If 2026 revenue plan hits $4.2M ($1.05M/quarter)
@@ -258,14 +272,16 @@
 - We hit 13-14% margins
 
 ✅ **Accounts for lessons learned:**
-- 2024: Set 10% goal, hit 8.3% (close)
-- 2025: Set 15% goal, tariffs hit, ended at 0.3%
-- 2026: 12-15% target accounts for external risks
+- 2023: Hit 10.8% margin (proof it's possible)
+- 2024: Set 10% goal, fell to 5.6% (revenue decline)
+- 2025: Set 15% goal, tariffs hit, ended at 6.0% (recovery)
+- 2026: 12-15% target accounts for external risks, aims above 2023 peak
 
 ✅ **Sustainable:**
-- Not trying to get back to 30% (2020 was unique pandemic circumstances)
+- Not trying to get back to 30-50% (2018-2020 different accounting)
 - 12-15% provides healthy buffer for raises without risking profitability
 - Allows room for market volatility
+- Matches or exceeds 2023's 10.8% performance
 
 **What This Means in Dollars:**
 
@@ -276,11 +292,13 @@
 | Aggressive (15%) | $4.4M | 15% | $660k | $165k |
 
 **Compare to Recent History:**
-- 2024 profit: $331k (8.3% margin)
-- 2025 profit: $7.5k (0.3% margin) 😬
+- 2023 profit: $475k (10.8% margin) - Best recent year
+- 2024 profit: $202k (5.6% margin) - Revenue decline impact
+- 2025 profit (accrual): $173k (6.0% margin) - Recovery beginning
+- 2025 profit (cash): $7.5k (0.3% margin) - AR impact from distressed clients
 - **Target 2026:** $480-660k (12-15% margin)
 
-**To unlock raises, we need to get from 0.3% margin to 12-15% margin.**
+**To unlock raises, we need to get from 6.0% accrual margin (or 0.3% cash margin) to 12-15% margin.**
 
 ---
 
@@ -289,18 +307,21 @@
 **Why We Changed from 2 Quarters to 3 Quarters:**
 
 **What happened in 2024-2025:**
-- Oct 2024: Hit profit margin target for 2 consecutive quarters → Gave raises
-- Q4 2024 - Q3 2025: Never sustained the margin
-- Q4 2025: Collapsed to 0.1% margin (from 8.5% in Q3)
-- **Lesson: 2 consecutive quarters isn't enough to prove sustainability**
+- Oct 2024: Gave raises after layoffs (balancing morale, not margin-based)
+- 2024 full year: 5.6% margin (after -20% revenue decline)
+- 2025: Set 15% margin goal, tariffs hit in April, forecasted -$200k loss
+- 2025 recovery: Through cost control, ended at 6.0% margin (accrual) for full year
+- **Lesson: Revenue volatility creates margin volatility. We need sustained revenue growth, not just cost cutting, to hit 12-15% margins**
 
-**2025 Quarterly Profit Margins (Actual):**
-- Q1 2025: 1.3%
-- Q2 2025: 5.5% (improving!)
-- Q3 2025: 8.5% (almost to 10% goal!)
-- Q4 2025: 0.1% (COLLAPSED back to breakeven)
+**2025 Quarterly Profit Margins (Estimated on Accrual Basis):**
+- Q1 2025: ~4-5% (recovering from 2024 decline)
+- Q2 2025: ~6-7% (improving!)
+- Q3 2025: ~7-8% (continuing improvement!)
+- Q4 2025: TBD (Nov-Dec, but YTD is 6.0% for 10 months)
 
-**This volatility is the real problem. Two good quarters can be followed by a collapse.**
+**Note:** Full-year 2025 running at 6.0% margin on accrual basis (much better than 0.3% cash margin due to AR)
+
+**The key lesson from 2024-2025:** Revenue volatility drives margin volatility. 2024's -20% revenue decline crushed margins (5.6%). 2025's -6.5% revenue decline allowed margin recovery (6.0%). We need revenue GROWTH in 2026 to hit 12-15% margins.
 
 ---
 
@@ -485,17 +506,17 @@
 
 > "We're currently in a salary freeze. We know this is difficult. Here's the full picture:
 >
-> **What you've been through:** This has been an incredibly turbulent 18 months. In April 2024, we laid off 10 people. In October 2024, we gave raises to the remaining team. Then in 2025, when tariffs hit and business slowed, we had to freeze raises and lay off 2 more developers. Earlier this year, we were forecasted to lose $200k. Through hard work and cost control, we avoided that and ended at breakeven (0.1% profit margin in Q4).
+> **What you've been through:** This has been an incredibly turbulent 18 months. In April 2024, we laid off 10 people. In October 2024, we gave raises to the remaining team. Then in 2025, when tariffs hit and business slowed, we had to freeze raises and lay off 2 more developers. Earlier this year, we were forecasted to lose $200k. Through hard work and cost control, we avoided that and ended the year at 6.0% profit margin on accrual basis (though cash margin was only 0.3% due to AR from distressed clients).
 >
-> **The reality:** We can't sustain salary increases at 0-1% profit margins. We need to get healthy again.
+> **The reality:** We can't sustain salary increases at 5-6% profit margins. We need to get to 12-15% to have a healthy buffer for raises.
 >
-> **What we learned:** In October 2024, we gave raises after hitting our margin target for 2 consecutive quarters. Then 2025 showed us that wasn't enough:
-> - Q1 2025: 1.3% margin
-> - Q2 2025: 5.5% margin (improving!)
-> - Q3 2025: 8.5% margin (almost to 10% goal!)
-> - Q4 2025: 0.1% margin (collapsed back to breakeven)
+> **What we learned from 2024-2025:**
+> - 2024: Revenue dropped 20%, margin fell to 5.6%
+> - 2025: Revenue decline slowed to 6.5%, margin improved to 6.0%
+> - We recovered from forecasted -$200k loss to $173k profit (accrual basis)
+> - But cash was only 0.3% margin due to AR from 2 distressed clients
 >
-> **Two good quarters doesn't mean sustainability.** We need to prove we can maintain healthy margins, not just hit them briefly.
+> **Lesson:** We need REVENUE GROWTH, not just cost cutting, to hit healthy margins. The 2026 growth plan ($4.2M target) gets us to 12-15% margins if executed well.
 >
 > **The 2026 plan:**
 >
@@ -554,10 +575,12 @@
 ### Realistic Profit Margin Progression
 
 **Q4 2025 (Oct-Dec):**
-- Current state: 0.3% profit margin (breakeven)
-- Revenue: ~$800k for quarter
-- Expenses: ~$800k for quarter
+- Current state: 6.0% profit margin YTD (accrual basis)
+- Revenue: ~$1.0M for quarter (projected)
+- Expenses: ~$950k for quarter (projected)
+- Profit margin Q4: ~5% (estimated)
 - Programs launching, no impact yet
+- Note: Cash margin much lower (0.3%) due to AR from distressed clients
 
 **Q1 2026 (Jan-Mar):**
 - Launch cross-sell, referral, review programs
@@ -671,7 +694,7 @@ A: Holistically. Client-facing roles: retention, client satisfaction, delivery q
 
 ---
 
-**Prepared by:** Claude (for Tim Katz & George, Co-Founders)
+**Prepared by:** Tim Katz
 **Status:** DRAFT - Awaiting co-founder approval on targets and timeline
 **Next Action:** Define profit margin target and approve communication approach
 

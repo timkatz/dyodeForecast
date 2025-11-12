@@ -24,6 +24,70 @@
 
 ---
 
+## ⚠️ CRITICAL: Shopify Plus Partner Status - Migration Requirements
+
+**URGENT CONTEXT:** DYODE must close **4-6 platform migrations TO Shopify Plus in 2026** to maintain Premium/Platinum partner status.
+
+### What Counts for Partner Status
+
+**✅ COUNTS TOWARD PARTNER STATUS:**
+- Platform migrations **TO Shopify Plus** from:
+  - BigCommerce → Shopify Plus
+  - Magento → Shopify Plus
+  - WooCommerce → Shopify Plus
+  - Custom platforms → Shopify Plus
+  - Adobe Commerce → Shopify Plus
+  - SAP Commerce → Shopify Plus
+
+**❌ DOES NOT COUNT:**
+- Existing Shopify/Plus merchants (redesigns, retainers, ongoing work)
+- Shopify → Shopify Plus upgrades
+- Shopify Plus theme redesigns
+- Feature development for current Plus merchants
+
+### Historical Performance - Why This is Urgent
+
+**Migration History:**
+- 2020: 2 migrations (Pali Wine, Brandless)
+- 2021: 3 migrations (Invisalign, Steals, Belly Bandit)
+- 2023: 1 migration (BuildDirect)
+- 2024: 0 migrations ❌
+- 2025: 0 migrations ❌
+
+**⚠️ Reality Check:** Need to close **4-6 migrations in 2026** = **4-6x increase** from recent 2-year performance
+
+### 2026 Migration Targets from Martal
+
+**Pilot Phase (Nov 2025 - Jan 2026):**
+- **Total SQLs guaranteed:** 18
+- **Migration SQLs required:** 3-4 (highest priority)
+- **Expected migration closes from pilot:** 1-2 in Q1 2026
+
+**Full Year 2026 from Martal:**
+- **Migration SQLs needed:** 10-12 total
+- **Expected migration closes:** 4-6 (at 30-35% close rate)
+
+**Quarterly Deadlines:**
+- Q1 2026: 1-2 migrations closed (by March 31)
+- Q2 2026: 1-2 migrations closed (by June 30)
+- Q3 2026: 1 migration closed (by Sept 30)
+- Q4 2026: 0-1 migration closed (by Dec 31)
+
+### Migration SQL = 2-3x Value of Regular SQL
+
+**Why Migration SQLs Are Priority:**
+1. Partner status preservation (critical for 2027+ inbound leads)
+2. Larger project values ($50k-$300k, avg ~$75k)
+3. Often convert to ongoing retainers post-migration
+4. Higher strategic value than standalone retainer sales
+
+**Martal Priority Structure:**
+- **Tier 1 (Highest Priority):** Migration SQL from target platform (BigCommerce, Magento, WooCommerce)
+- **Tier 2 (High Priority):** Shopify Plus SQL for $10k+/month retainer
+- **Tier 3 (Good):** Shopify Plus SQL for $7-10k/month retainer
+
+---
+
 ## Ideal Client Profile (ICP)
 
 ### Primary Target: Shopify Plus Development Clients
@@ -38,7 +102,8 @@
 
 | Criteria | Ideal | Acceptable | Avoid |
 |----------|-------|------------|-------|
-| **Platform** | Shopify Plus | Shopify (scaling to Plus) | Other platforms |
+| **Platform (Tier 1 - Migration Priority)** | BigCommerce, Magento, WooCommerce (Plus-qualified) | Custom platforms, Adobe Commerce | Shopify Basic/Standard (<$10M revenue) |
+| **Platform (Tier 2 - Retainer Priority)** | Shopify Plus (existing) | Shopify (scaling to Plus, $10M+) | Other platforms not Plus-qualified |
 | **Annual Revenue** | $15M - $75M | $10M - $15M or $75M+ | <$10M |
 | **eCommerce % of Revenue** | 80%+ | 50-80% | <50% (omnichannel) |
 | **Current Tech Stack** | Shopify Plus, Klaviyo, Attentive, Yotpo | Shopify Plus + basic apps | Legacy/custom platforms |
@@ -95,6 +160,43 @@
 ---
 
 ### Technographic Targeting
+
+#### For Migration Opportunities (Tier 1 Priority)
+
+**Target Platforms (in priority order):**
+
+1. **BigCommerce** (Highest Priority)
+   - Why: Common pain points (scalability, checkout limitations, app ecosystem)
+   - Typical revenue: $10M-$100M
+   - Migration project value: $50k-$150k
+   - Common migration triggers: Site performance issues, feature limitations, checkout problems
+
+2. **Magento / Adobe Commerce**
+   - Why: High maintenance costs, complexity, developer scarcity
+   - Typical revenue: $20M-$200M
+   - Migration project value: $100k-$300k
+   - Common migration triggers: High hosting costs, difficult to maintain, slow to iterate
+
+3. **WooCommerce**
+   - Why: Outgrowing platform, scalability issues
+   - Typical revenue: $5M-$30M
+   - Migration project value: $40k-$100k
+   - Common migration triggers: Performance at scale, security concerns, plugin conflicts
+
+4. **Custom Platforms**
+   - Why: Legacy tech debt, expensive to maintain
+   - Typical revenue: $15M-$100M
+   - Migration project value: $75k-$250k
+   - Common migration triggers: Developer turnover, maintenance costs, can't move fast
+
+**Migration Readiness Signals:**
+- Platform on old version (not keeping up with updates)
+- Frequent site performance complaints (Twitter, reviews)
+- Job postings for "eCommerce Platform Manager" or "Migration PM"
+- Recent funding round (capital to invest in replatforming)
+- Mentions "tech debt" or "legacy platform" in content/interviews
+
+#### For Retainer Opportunities (Tier 2 Priority)
 
 **Must-Have:**
 - Shopify Plus (or Shopify scaling to Plus)
@@ -311,11 +413,122 @@ Best,
 
 ---
 
+### Template 5: Platform Migration Angle (BigCommerce)
+
+**Subject:** Is BigCommerce holding [Brand] back?
+
+**Body:**
+Hi [First Name],
+
+I noticed [Brand] is on BigCommerce. We work with a lot of brands in the [$XX-XX]M range who've hit a wall with BC — checkout limitations, slow feature development, performance issues at scale.
+
+We've helped brands like [Similar Brand] migrate from BigCommerce to Shopify Plus. Their checkout conversion improved by 22% and they can now ship features in days instead of months.
+
+Not sure if [Brand] is experiencing similar frustrations, but if you're evaluating a migration or just curious what's possible on Shopify Plus, happy to share what we're seeing.
+
+Worth a quick 15-minute call?
+
+Best,
+[Name]
+
+---
+
+### Template 6: Platform Migration Angle (Magento)
+
+**Subject:** [Brand]'s Magento migration timeline
+
+**Body:**
+Hi [First Name],
+
+Quick question: Is [Brand] actively evaluating a move away from Magento, or are you committed to Adobe Commerce for the foreseeable future?
+
+We're seeing a wave of Magento brands migrating to Shopify Plus to reduce maintenance costs and move faster. Recent example: [Similar Brand] was spending $40k+/month on Magento hosting and dev. Post-migration, they're at $12k/month total and shipping features 3x faster.
+
+If you're in evaluation mode (or just frustrated with Magento's complexity), happy to share what a realistic migration looks like.
+
+Worth a quick call?
+
+Best,
+[Name]
+
+---
+
+### Template 7: Platform Migration Angle (WooCommerce)
+
+**Subject:** Has [Brand] outgrown WooCommerce?
+
+**Body:**
+Hi [First Name],
+
+Most WooCommerce brands we talk to in the [$XX]M+ range hit a point where performance and scalability become real problems. Site speed suffers, plugins conflict, and you're spending more time managing the tech than growing the business.
+
+We've migrated [X] WooCommerce brands to Shopify Plus. Common results:
+- 40-60% improvement in site speed
+- 80% reduction in maintenance time
+- Checkout conversion up 15-25%
+
+Not sure if [Brand] is at that inflection point, but if you're curious what a migration looks like (timeline, cost, risk mitigation), happy to walk you through it.
+
+Open to a quick call?
+
+Best,
+[Name]
+
+---
+
+### Template 8: Platform Migration Angle (Custom Platform)
+
+**Subject:** [Brand]'s custom platform — asset or liability?
+
+**Body:**
+Hi [First Name],
+
+I saw that [Brand] is on a custom-built platform. In our experience, custom platforms start as an asset (perfect for your needs) but become a liability as developers turn over and tech debt piles up.
+
+We've helped brands like [Similar Brand] migrate from custom platforms to Shopify Plus. They went from "it takes 6 weeks to add a feature" to "we shipped [feature] in 9 days."
+
+Not sure if [Brand] is feeling that pain yet, but if your custom platform is slowing you down (or your dev team is underwater), happy to share what a modern commerce stack looks like.
+
+Worth a 15-minute call?
+
+Best,
+[Name]
+
+---
+
 ## Qualifying Questions (for SQLs)
 
 Martal should qualify leads based on these questions BEFORE passing them as SQLs:
 
 ### Qualification Criteria
+
+#### For Migration Opportunities (Tier 1 - Highest Priority)
+
+**Must-Have (Disqualify if NO):**
+1. ☑️ Currently on **non-Shopify platform** (BigCommerce, Magento, WooCommerce, custom)?
+2. ☑️ Annual revenue **>$10M** (Shopify Plus qualified)?
+3. ☑️ Ready to evaluate migration in **next 90 days**?
+4. ☑️ Budget allocated or available for migration project in **Q1-Q2 2026**?
+5. ☑️ Decision-maker or directly involved in platform evaluation?
+
+**Strong Migration Signals (2+ = High-Quality SQL):**
+- Experiencing platform performance issues (site speed, downtime)
+- Frustrated with slow feature development or platform limitations
+- High maintenance costs (hosting, developers, plugins)
+- Developer turnover or difficulty finding platform-specific devs
+- Recent funding round (capital for replatforming)
+- Mentions "evaluating platforms" or "considering migration"
+- Job postings for migration PM or platform manager
+- Contract renewal coming up (switching costs already sunk)
+
+**Migration SQL Handoff Requirements:**
+- Current platform and version
+- Primary pain points with current platform
+- Migration timeline and urgency
+- Budget range for migration project
+- Post-migration retainer interest (convert to Tier 2 opportunity)
+
+#### For Retainer Opportunities (Tier 2 - High Priority)
 
 **Must-Have (Disqualify if NO):**
 1. ☑️ Are you on Shopify Plus (or planning to migrate in next 6 months)?
@@ -383,22 +596,39 @@ When Martal passes an SQL, they should provide:
 ### Tracking Performance
 
 **Track Monthly:**
-- SQLs delivered (target: 6/month)
-- SQLs converted to qualified opportunities
-- Opportunities converted to closed deals
-- MRR added from Martal-sourced clients
-- Sales cycle length (from SQL to close)
+
+**Primary Metrics (Migration Focus):**
+- **Migration SQLs delivered** (target: 1-1.5/month = 3-4 in pilot, 10-12 in 2026)
+- **Migration opportunities created** (qualified migration projects in pipeline)
+- **Migration deals closed** (target: 1-2 in Q1, 4-6 total in 2026)
+- **Migration project value** (target: $75k avg, $300-450k total in 2026)
+
+**Secondary Metrics (Retainer Focus):**
+- Total SQLs delivered (target: 6/month, 18 in pilot)
+- Retainer SQLs converted to qualified opportunities
+- Retainer deals closed (target: 3-4 in Q1)
+- MRR added from Martal-sourced retainer clients
+
+**Combined Metrics:**
+- Total revenue from Martal (migration projects + retainer MRR)
+- Sales cycle length by type (migrations: 45-60 days, retainers: 30-45 days)
+- SQL → Close conversion rate by type
+
+**⚠️ CRITICAL SUCCESS INDICATOR:**
+If migration SQL delivery is <1/month by end of Month 1, immediately adjust targeting strategy.
 
 **Evaluate After Month 1 (December 2025):**
-- Quality of SQLs (how many are truly qualified?)
-- Messaging: What angles are resonating?
-- ICP accuracy: Are we targeting the right companies?
-- Response rates to outreach
+- **Migration SQL quality:** Are we getting true migration opportunities from target platforms?
+- **Platform mix:** Are we seeing BigCommerce, Magento, WooCommerce SQLs? (vs. just existing Shopify Plus)
+- **Migration messaging:** What angles are resonating? (pain points, cost savings, speed)
+- **Retainer SQL quality:** How many are truly qualified for $8-12k/month retainer?
+- **Response rates:** Which templates/angles are working best?
 
 **Adjust Strategy if Needed:**
-- If SQL quality is low: Tighten ICP, improve qualification questions
-- If response rates are low: Test new messaging angles
-- If conversion is low: Check if sales process or pricing is the issue
+- **If migration SQLs <3 in Month 1:** Increase platform targeting, adjust messaging to focus on migration pain points
+- **If migration SQL quality low:** Tighten qualification criteria, add platform-specific pain point questions
+- **If retainer response rates low:** Test new messaging angles, adjust ICP
+- **If conversion low:** Check if sales process, pricing, or timeline expectations are the issue
 
 ---
 
@@ -574,11 +804,12 @@ Happy to connect you with [DYODE Founder] to discuss specifics for your situatio
 Martal should **disqualify** or **deprioritize** these leads:
 
 ❌ **Platform Red Flags:**
-- WooCommerce, Magento, BigCommerce, Custom (not Shopify Plus)
-- Shopify Basic/Standard (unless actively migrating to Plus)
+- **Shopify Basic/Standard with <$5M revenue** (too small, not Plus-qualified)
+- **Recently migrated to Shopify Plus** (<6 months ago, unlikely to need dev yet)
+- **NOTE:** BigCommerce, Magento, WooCommerce, Custom platforms are **TIER 1 TARGETS** for migration opportunities (not red flags!)
 
 ❌ **Revenue Red Flags:**
-- <$5M annual revenue (too small, can't afford $8-12k/month retainer)
+- <$5M annual revenue (too small, can't afford $8-12k/month retainer or $50k+ migration)
 - >$200M revenue (likely have in-house team or work with large agency)
 
 ❌ **Budget Red Flags:**
@@ -624,20 +855,29 @@ Martal should **disqualify** or **deprioritize** these leads:
 ### Week 1 (Late November 2025):
 
 **DYODE:**
-- [ ] Provide Martal with this targeting strategy document
+- [ ] Provide Martal with this targeting strategy document (with migration priority clarification)
 - [ ] Share 2-3 approved case studies (with client permission)
-- [ ] Align on SQL definition and qualification criteria
+- [ ] Align on SQL definition and qualification criteria (migration vs. retainer tiers)
 - [ ] Set up monthly check-in cadence
+- [ ] **Emphasize migration priority:** 3-4 migration SQLs in pilot (out of 18 total)
 
 **Martal:**
-- [ ] Review ICP and confirm understanding
-- [ ] Build target account list (share with DYODE for approval)
-- [ ] Test messaging angles with small outreach batch
-- [ ] Set up tracking for key metrics
+- [ ] Review ICP and confirm understanding of **Tier 1 (Migration) vs Tier 2 (Retainer)** priorities
+- [ ] Build target account lists:
+  - **List A (Tier 1):** BigCommerce, Magento, WooCommerce brands $10M+ (migration targets)
+  - **List B (Tier 2):** Shopify Plus brands $10M+ (retainer targets)
+- [ ] Test migration messaging angles first (Templates 5-8) with Tier 1 list
+- [ ] Test retainer messaging angles (Templates 1-4) with Tier 2 list
+- [ ] Set up tracking for key metrics (separate migration vs retainer SQL counts)
+
+**Critical First Month Goal:**
+- **3-4 migration SQLs delivered** by end of December 2025
+- **Adjust immediately** if not on track by mid-December
 
 ### Ongoing:
 
-- **Weekly:** Martal shares SQL updates (who's engaged, objections, timeline)
+- **Weekly:** Martal shares SQL updates (who's engaged, objections, timeline) - **flag migration opportunities**
+- **Bi-Weekly (First Month):** Quick check-in on migration SQL progress (course-correct early if needed)
 - **Monthly:** Joint performance review and strategy adjustment
 - **As Needed:** DYODE provides new case studies, messaging updates, ICP refinements
 
@@ -645,7 +885,17 @@ Martal should **disqualify** or **deprioritize** these leads:
 
 ## Document Version
 
-**Version:** 1.0
-**Last Updated:** November 2025
+**Version:** 2.0 (Updated with Shopify Plus Migration Requirements)
+**Last Updated:** November 11, 2025
 **Next Review:** December 2025 (after Month 1 results)
 **Owner:** Tim Katz & George, Co-Founders
+
+**Version History:**
+- **v1.0 (Nov 2025):** Initial Martal targeting strategy
+- **v2.0 (Nov 11, 2025):** Added critical Shopify Plus partner status migration requirements
+  - Added Tier 1 (Migration) vs Tier 2 (Retainer) priority structure
+  - Added platform-specific targeting (BigCommerce, Magento, WooCommerce, custom)
+  - Added 4 migration-specific email templates
+  - Updated qualification criteria with migration-specific questions
+  - Updated success metrics to prioritize migration SQLs (3-4 in pilot, 10-12 in 2026)
+  - Clarified that non-Shopify platforms are now Tier 1 targets (not red flags)

@@ -33,7 +33,7 @@ This summary includes **full revenue details, MRR figures, and strategic financi
 
 **Team,**
 
-2025 was a tough year. We're down 20% in revenue, sitting at $3.2M vs. $4M in 2024. After three years of decline from our $4.86M peak, we're at a critical juncture.
+2025 was a tough year. We're down in revenue, sitting at $3.6M (accrual) vs. $3.9M in 2024. After three years of decline from our $4.88M peak, we're at a critical juncture. The decline rate slowed (from -20% to -6.5%), showing progress, but we're still not growing.
 
 **But here's the good news:** We have a clear, executable plan for 2026 that will reverse the trend.
 
@@ -58,15 +58,17 @@ Let's make 2026 our turnaround year.
 **Current State (November 2025):**
 - MRR: $292,946
 - Active Clients: 30 unique clients
-- Projected 2025 Revenue: $3.1-3.2M
+- Projected 2025 Revenue: $3.6M (accrual) / $3.4M (cash)
 
 **3-Year Decline:**
-- 2022: $4.86M (peak)
-- 2023: $4.71M (-3%)
-- 2024: $4.00M (-15%)
-- 2025: $3.2M (-20%)
+- 2022: $4.88M (peak) - 8.5% profit margin
+- 2023: $4.86M (-0.6%) - 10.8% profit margin
+- 2024: $3.87M (-20%) - 5.6% profit margin
+- 2025: $3.6M (-6.5%) - 6.0% profit margin (accrual)
 
-**We've lost $1.66M in revenue over 3 years.**
+**We've lost $1.28M in revenue over 3 years, but the decline slowed significantly in 2025.**
+
+**Important Note:** Accrual revenue ($3.6M) reflects what clients owe us and matches our MRR tracking. Cash revenue ($3.4M) is ~$165k lower due to outstanding AR from 2 distressed clients with equity/relationship situations (not typical collections issues).
 
 ---
 
@@ -78,9 +80,10 @@ Let's make 2026 our turnaround year.
 - **We're churning clients at 2x the normal rate**
 
 **2025 Churn:**
-- Clients added: 13
-- Clients lost: 22
-- **Net: -9 clients**
+- Unique clients added: 13
+- Unique clients lost: 21 (24 service engagements)
+- **Net: -8 unique clients**
+- Multi-service client retention: 100% (Tipsy Elves lost Consulting, kept Development)
 
 **2. No Systematic Lead Generation**
 - Relied on organic/referrals only until Nov 2025
@@ -203,9 +206,16 @@ We're not relying on one silver bullet. We're building a diversified growth engi
 **What:** Account managers earn 5% commission on contract value for cross-selling additional services to existing clients
 
 **The Opportunity:**
-- 27 of 30 clients (90%) only use ONE service
+- 26 of 30 clients (87%) only use ONE service
+- Only 4 multi-service clients currently (13%)
 - ~20 viable cross-sell targets
-- Multi-service clients have 50-70% higher retention
+
+**Proven Value (2025 Data):**
+- **Multi-service client loss rate: 0%** (0 of 4 lost completely)
+- **Single-service client loss rate: 46%** (21 of ~46 lost completely)
+- **Multi-service clients = 3.6x higher value** ($34k avg vs. $9.5k)
+- **Real example:** Tipsy Elves lost Consulting but kept Development
+- **Multi-service clients are dramatically stickier**
 
 **How It Works:**
 1. AM identifies cross-sell opportunity
@@ -256,6 +266,87 @@ We're not relying on one silver bullet. We're building a diversified growth engi
 - Delivery teams: Create review-worthy results
 
 **Launch:** Jan 2026
+
+---
+
+#### **Strategic Priority: Maintain Shopify Plus Premier Partner Status**
+
+**Current Status:** ⚠️ **AT RISK** - Only 1 Plus migration in past 2 years
+
+**Why This Matters:**
+- 61% of our MRR ($178k/month) comes from Shopify/Plus clients
+- Partner badge drives inbound leads and credibility
+- Without Premier status: Lose competitive edge and co-marketing opportunities in 2027+
+
+**What's Required:** We must meet **ALL THREE** criteria to maintain Premier tier:
+
+| Criterion | Requirement | Current Status | 2026 Goal |
+|-----------|-------------|----------------|-----------|
+| **1. Merchant Revenue** | $2M-$10M | ✅ $200M-$1B+ | ✅ Already exceeds |
+| **2. Plus Migrations** | 4 (2-year rolling) | ⚠️ Only 1 | Need 3+ more in 2026 |
+| **3. Team Certifications** | 30 Shopify certs | ⚠️ 12 completed, 16 in-progress | Complete in-progress + 2-4 more |
+
+**2026 Migration Targets (To Meet Criterion 2):**
+
+| Quarter | Target | Cumulative | Project Revenue |
+|---------|--------|------------|-----------------|
+| Q1 | 1 migration | 1 | $75k |
+| Q2 | 2 migrations | 3 | $150k |
+| Q3 | 1 migration | 4 ✅ Premier | $75k |
+| Q4 | 0-2 migrations | 4-6 | $0-150k |
+
+**Current Pipeline:**
+- Jerome's Furniture: ~$75k (Q1, re-engaging)
+- Bolle Brands: ~$100-150k (Q2, rebuilding relationship)
+- **Critical:** Martal must deliver 10-12 migration SQLs (not just general Shopify Plus leads)
+
+**Platform Targets (What Counts as Migration):**
+- ✅ BigCommerce → Shopify Plus
+- ✅ Magento/Adobe Commerce → Shopify Plus
+- ✅ WooCommerce → Shopify Plus
+- ✅ Custom platforms → Shopify Plus
+- ❌ Existing Shopify/Plus merchants (don't count)
+
+---
+
+**Certification Action Plan (To Meet Criterion 3):**
+
+**Your Team Has Already Been Assigned Courses - We Just Need Completion!**
+
+**Current Status:**
+- ✅ **12 certifications completed** (40% to goal)
+- ⚠️ **16 certifications in-progress** (assigned but not completed)
+- 📊 **28 potential** (if all in-progress completed)
+- **Gap: Just 2-4 more certifications needed to reach 30**
+
+**Q1 2026 Action (Jan-Mar):**
+
+All team members with assigned Shopify courses: **Complete your in-progress certifications**
+
+| Team | Course | People | Priority |
+|------|--------|--------|----------|
+| **Dev Team** | Liquid Storefronts | 5 remaining | **HIGH** |
+| **PM/Sales Team** | Selling Fundamentals | 4 remaining | **HIGH** |
+| **Marketing Team** | Marketing Fundamentals | 3 (Lucas, Bruce, Jessica) | **MEDIUM** |
+| **Marketing Team** | Selling/Positioning Marketing | 2 team members | **MEDIUM** |
+| **PM Team** | Solution Planning | 1 (Elana) | **MEDIUM** |
+
+**Time Required:** 4-6 hours per certification (courses are free)
+
+**Q1 Target:** Complete 10-13 in-progress → 22-25 total certifications by March 31
+
+**Q2 Target:** Complete remaining in-progress + co-founders/directors obtain 2-4 more → 30+ total certifications by June 30 ✅
+
+**Why Both Matter:**
+Even if we close 4 Plus migrations, we can still lose Premier tier if we don't reach 30 certifications by June 30, 2026. **Both requirements must be met.**
+
+**Your Role:**
+- **Sales Team:** Prioritize migration opportunities from Martal (BigCommerce, Magento, WooCommerce)
+- **All Team Members with Assigned Courses:** Complete your Shopify certifications in Q1-Q2
+- **Account Managers:** When prospecting/referring, prioritize platform migration opportunities
+- **Management:** Track quarterly progress on both migrations closed and certifications completed
+
+**Tracking:** Monthly updates on migration pipeline and certification completion
 
 ---
 
@@ -525,9 +616,18 @@ We're not relying on one silver bullet. We're building a diversified growth engi
 
 **Martal Program:**
 - SQLs delivered
+- **Migration SQLs delivered** (critical for Premier tier)
 - SQLs → Opportunities
 - Opportunities → Closes
+- **Plus migrations closed** (target: 4 in 2026)
 - MRR from Martal
+
+**Shopify Premier Partner Status:**
+- **Plus migrations closed quarterly** (target: 1 in Q1, 2 in Q2, 1 in Q3)
+- **Shopify certifications completed** (target: 30 by June 30)
+  - Q1 target: 22-25 certifications (12 current + 10-13 completed)
+  - Q2 target: 30+ certifications
+- Pipeline of migration opportunities (BigCommerce, Magento, WooCommerce)
 
 ---
 
@@ -550,6 +650,11 @@ We're not relying on one silver bullet. We're building a diversified growth engi
 - Clutch reviews collected
 - Martal SQL quality
 - Inbound leads generated
+
+**All Team Members (with assigned Shopify courses):**
+- Shopify certifications completed (individual tracking)
+- Target: Complete all assigned courses by March 31
+- Company-wide target: 30 certifications by June 30
 
 ---
 
@@ -612,20 +717,56 @@ We're not relying on one silver bullet. We're building a diversified growth engi
 ## Q1 2026: The Critical Quarter
 
 **Why Q1 is Make-or-Break:**
-- $64k in projects ending
-- $39k in contracts expiring
-- Need to close 7-9 new clients (aggressive)
+- $60k in projects ending (but Satechi converting to retainer April!) ✅
+- $39k in contracts expiring (Dec expirations need renewal focus)
+- Need to close 7-9 new clients (aggressive but achievable)
+- **Shopify certifications:** Must complete 10-13 in-progress courses to stay on track for Premier tier
 - Sets momentum for entire year
+
+**Recent Wins Going Into Q1:**
+- ✅ Poseidon Bikes renewed for 12 months (10/28/25)
+- ✅ Align Tech renewed for 6 months (9/25/25)
+- ✅ Satechi confirmed converting to retainer 4/1/26
+- ✅ 12 Shopify certifications completed (40% to Premier goal)
+- **$23k MRR risk removed** - Q1 is more achievable than originally forecast!
+
+**Q1 Critical Actions:**
+
+**Week 1-2 (Late November/Early December):**
+- [ ] Launch cross-sell, referral, and review programs
+- [ ] **All team members: Begin completing assigned Shopify certifications**
+- [ ] Sales: Re-engage Jerome's Furniture migration opportunity
+- [ ] Sales: Schedule Bolle Brands check-in (Q2 migration)
+
+**January:**
+- [ ] First Martal SQLs arrive - prioritize migration opportunities
+- [ ] Account managers: Identify top 3 cross-sell opportunities each
+- [ ] **Dev team: Complete 5 remaining Liquid Storefronts certifications (HIGH PRIORITY)**
+- [ ] **PM/Sales team: Complete 4 remaining Selling Fundamentals certifications (HIGH PRIORITY)**
+
+**February:**
+- [ ] Close 1st Plus migration (Q1 target)
+- [ ] First cross-sells close
+- [ ] First referrals submitted
+- [ ] First Clutch reviews go live
+- [ ] **Marketing team: Complete Marketing Fundamentals certifications (3 people)**
+
+**March:**
+- [ ] Push to close Q1 deals
+- [ ] Review Martal pilot results (renew decision)
+- [ ] **Complete remaining in-progress certifications → 22-25 total by March 31**
 
 **If Q1 fails:**
 - Start Q2 behind target
 - Harder to catch up
 - Morale impact
+- **Risk losing Premier tier if certifications fall behind schedule**
 
 **If Q1 succeeds:**
 - Momentum builds
 - Team confidence
 - Easier path to year-end goal
+- **On track for 30+ certifications by June 30** ✅
 
 **All hands on deck for Q1.**
 
@@ -651,7 +792,8 @@ We're not relying on one silver bullet. We're building a diversified growth engi
 
 4. **Proven models**
    - Referrals: 60-80% close rate (industry standard)
-   - Cross-sells: Existing happy clients, natural expansion
+   - Cross-sells: Multi-service clients have 0% loss rate vs. 46% for single-service
+   - Project→Retainer: Satechi converting (our model works!)
    - Reviews: Standard agency growth tactic
 
 5. **We have a plan AND resources**
@@ -665,11 +807,11 @@ We're not relying on one silver bullet. We're building a diversified growth engi
 
 **Honest answer:** If we execute and still miss, at least we'll know we tried everything.
 
-**But here's the reality:** If we do NOTHING different in 2026, we'll continue declining at 20%/year. That puts us at $2.5M by end of 2026.
+**But here's the reality:** If we do NOTHING different in 2026, we'll continue declining. That puts us at $3.2-3.3M by end of 2026, with cash flow increasingly tight.
 
 **This plan gives us a fighting chance.**
 
-And even if we hit $3.8M instead of $4.2M, that's still better than $2.5M.
+And even if we hit $3.9M instead of $4.2M, that's still better than continued decline.
 
 ---
 
@@ -858,7 +1000,7 @@ Use management meetings (not town halls) to discuss:
 
 ## Final Thoughts
 
-**We're not going to sugarcoat it:** 2025 was rough. Three years of decline has put us in a tough spot.
+**We're not going to sugarcoat it:** 2025 was rough. Three years of decline from $4.88M to $3.6M has put us in a tough spot. The good news: the decline slowed from -20% to -6.5%, and profit margins improved from 5.6% to 6.0%.
 
 **But we're not giving up.** We have a plan, we have resources, and we have a team capable of executing.
 
@@ -880,7 +1022,7 @@ Let's go make it happen.
 
 ---
 
-**Prepared by:** Tim Katz & George, Co-Founders
+**Prepared by:** Tim Katz
 **Date:** November 2025
 **Next Update:** January 2026 (Q1 kickoff)
 
