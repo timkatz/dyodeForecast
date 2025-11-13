@@ -557,12 +557,15 @@ Recent client losses revealed a validation gap in the deal structuring phase:
 - **Current active portfolio:** 3 marketing (MadEngine $45k, United Scope $12.6k, Poseidon $8.6k) + 2 Development (Tipsy Elves $7.5k, L*Space $5k) = $82.1k MRR from 7 clients
 
 - **2026 Goals to hit $19.5-55k new MRR:**
-  - Marketing clients: 2-4 at $8-20k each (primary team focus)
-  - Development clients: 1-3 at $5-8k each (secondary, complements marketing)
+  - Marketing retainers: 2-4 at $8-20k each (primary team focus)
+  - Development retainers: 1-3 at $5-8k each (secondary, complements marketing)
   - Consulting engagements: 1-2 at $3-8k/month for 1-6 months (high-margin profit + pipeline to Dev/Marketing)
-  - **Total path to target:** Mix of recurring + consulting, with consulting driving margin while staffing yourself out
-  - **Churn improvement target:** Reduce from 53% to 45% by better expectation-setting on consulting (explicit 6-month exit plan, salary referral fee) and validating marketing scope upfront
-  - **Key metric:** Grow portfolio from 7 to 11-14 clients by Q4 2026 (4-7 new), with 1-2 consulting engagements in rotation
+  - **Consulting upsells target:** 40% conversion rate (historical) = 1 consulting engagement should upsell to dev/marketing
+    - Expected: 1-2 new consulting engagements → 0.4-0.8 dev/marketing upsells at $5-12k each = $5-10k additional MRR
+    - Timeline: Upsells typically happen during or within 30 days of consulting exit
+  - **Total path to target:** Base recurring (2-4 marketing + 1-3 dev) + consulting margin + consulting upsells
+  - **Churn improvement target:** Reduce from 53% to 45% by better expectation-setting on consulting (explicit 6-month exit plan, salary referral fee, clear scope) and validating marketing scope upfront
+  - **Key metric:** Grow portfolio from 7 to 12-15 clients by Q4 2026 (5-8 new), including 1-2 consulting engagements + 1-2 consulting-driven upsells
 
 - **Outreach:** 12-15 personalized messages/month, target eCommerce decision-makers (CMOs, marketing directors, Chief eCommerce Officers) in your network
 
@@ -604,11 +607,13 @@ Recent client losses revealed a validation gap in the deal structuring phase:
 - **Conversion targets:** 6-10 SQLs per partner per year, ~50% conversion rate
 
 **Expected Performance by Service Type:**
-- **Development:** 3-7 new clients (Tim primary 2-4 at $8-18k, George secondary 1-3 at $5-8k) = likely 73%+ retention
+- **Development:** 3-7 new clients (Tim primary 2-4 at $8-18k, George secondary 1-3 at $5-8k) + 1-2 consulting-driven upsells at $5-12k = 4-9 total dev clients, likely 73%+ retention
 - **Marketing:** 2-4 new clients (George primary 2-4 at $8-20k, Tim secondary 0-1) = improve from 62% churn through better scope validation and explicit expectations
 - **Consulting:** 1-2 high-margin engagements per partner (1-6 month duration) as profit driver + upsell pipeline
   - Expected "churn": Intentional; structured exit when client hires internally
   - Revenue model: Monthly fees ($3-8k/month) + 10% of new hire salary as referral fee
+  - **Upsell conversion rate:** 40% historical (George's data: 2 of 5 consulting engagements upsold to dev/marketing)
+  - **2026 projection:** 1-2 consulting engagements → 0.4-0.8 dev/marketing upsells at $5-12k each = $5-10k additional MRR
 
 **Overachievement Tracking:**
 - If George hits $60k (vs. $19.5-55k target): +$5k tracked as upside (recurring or consulting mix)
@@ -642,8 +647,10 @@ Recent client losses revealed a validation gap in the deal structuring phase:
   - For consulting deals: Validate upfront that client understands 6-month max, internal hiring plan, and salary referral fee structure
   - For marketing deals: Validate scope upfront (success metrics, team capacity, realistic timeline) to prevent 62% churn repeat
   - For all deals: Flag any BUNDLED promises (marketplace access, client referrals, etc.) that go beyond core service scope
-- Monthly partner review to track results, churn patterns, overachievement, and consulting exit/staffing outcomes
-- Implement CRM or simple spreadsheet tracking to monitor progress against target (separate by partner, by service type: recurring vs. consulting)
+- Monthly partner review to track results, churn patterns, overachievement, consulting exit/staffing outcomes, and upsell conversions
+  - Specific tracking: Consulting engagement → client hires internally → upsell to dev/marketing (track timing and MRR value)
+  - Goal: Monitor 40% upsell conversion rate and adjust approach if underperforming
+- Implement CRM or simple spreadsheet tracking to monitor progress against target (separate by partner, by service type: recurring vs. consulting, plus consulting-driven upsells)
 
 ---
 
