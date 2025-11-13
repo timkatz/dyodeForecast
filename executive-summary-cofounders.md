@@ -507,24 +507,53 @@ Recent client losses revealed a validation gap in the deal structuring phase:
 - This isn't about rejecting deals (revenue matters too), but surfacing scope issues early
 - Goal: Prevent expectation misalignment that naturally leads to churn
 
-**2. Set Clear Individual Goals:**
+**2. Set Clear Individual Goals (Based on Portfolio Analysis):**
 
 **TIM'S 2026 FOUNDER-LED TARGETS:**
-- Outreach: 10-12 personalized outreach messages/month (2-3/week)
-- SQLs: 6-8 per year (0.5-0.7/month)
-- Closes: 3-4 new clients
-- Target MRR: $24-48k new MRR
-- Deal focus: Development-focused, $7-15k MRR size, ICP-fit
-- Time commitment: 1.5-2 hours/week
+*Current portfolio: 21 active clients ($315k MRR), 32% churn, strength in Development*
+
+- **Service focus:** Development retainer clients ($8-18k MRR range)
+  - Why: Tim retains Development clients at 73% rate (only 27% churn); best results in $5-18k range
+  - Leverage: Satechi, AG Jeans, Glenmorangie, Wyze, Align Tech model
+  - Secondary: Marketing $5-12k (5 active, 44% churn, $8.3k average)
+
+- **Target profile:** Mid-market eCommerce brands ($10M-50M revenue), Shopify Plus/Advanced migrations, ongoing optimization retainers
+
+- **2026 Goals:**
+  - New Development clients: 3-4 (target $8-18k each = $24-72k new MRR)
+  - New Marketing clients: 0-1 (secondary focus)
+  - Total new MRR target: $24-78k
+  - **Churn target:** Maintain 30-35% (currently 32%)
+
+- **Outreach:** 12-15 personalized messages/month, focus on Development decision-makers
+
+- **Time commitment:** 2 hours/week
+
+---
 
 **GEORGE'S 2026 FOUNDER-LED TARGETS:**
-- Outreach: 10-12 personalized outreach messages/month (2-3/week)
-- SQLs: 6-8 per year (0.5-0.7/month)
-- Closes: 3-4 new clients
-- Target MRR: $24-48k new MRR
-- Deal focus: Development + Network-sourced preferred, $7-15k MRR size, validated scope
-- Time commitment: 1.5-2 hours/week
-- **Churn improvement:** Work with Tim on expectation-setting; target reducing from 53% to 40% churn on portfolio
+*Current portfolio: 7 active clients ($127k MRR), 53% churn, strength in Development (100% retention) but only 2 clients*
+
+- **Service focus:** Development retainer clients ONLY ($5-8k MRR range)
+  - Why: George's Development deals have ZERO churn (perfect 100% retention on Tipsy Elves $7.5k, L*Space $5k)
+  - **AVOID:** Consulting deals (60% churn: 3HNails, Cavaco, Tipsy Elves consulting all failed)
+  - **DEPRIORITIZE:** Marketing (62% churn: lost Zgallerie, LRG, Cratejoy, Buttercloth, Exclusive Fabrics)
+  - Opportunity: Rebuild Development portfolio from 2 to 5-6 clients (currently underweight)
+
+- **Target profile:** Mid-market eCommerce brands, network-sourced referrals preferred, Development retainers (smaller, stickier deals)
+
+- **2026 Goals:**
+  - New Development clients: 3-4 (target $5-8k each = $15-32k new MRR)
+  - New Consulting/Marketing: 0 (focus solely on Development to improve retention)
+  - Total new MRR target: $15-32k
+  - **Churn improvement target:** Reduce from current 53% to 40% by avoiding low-retention service types
+  - **Key metric:** Get Development portfolio from 2 to 6-7 clients by Q4 2026
+
+- **Outreach:** 12-15 personalized messages/month, focus on Development decision-makers in your network
+
+- **Time commitment:** 2 hours/week
+
+- **CRITICAL:** Validation checkpoint focuses on Development deals only. No consulting deals under $10k. No marketing deals promising referral pipeline.
 
 **3. Build Process:**
 - **ICP targeting list:** Each partner maintains rolling list of 30-50 target companies
@@ -546,17 +575,26 @@ Recent client losses revealed a validation gap in the deal structuring phase:
 - Monthly review: What's working, what's not (partner call to discuss trends)
 - Quarterly adjustment: Refine messaging, targeting, churn patterns
 
-**2026 Combined Targets:**
-- 240 personalized outreach messages (120 per partner, 10/month each)
-- 12-16 SQLs generated (6-8 per partner)
-- 6-8 client conversions (3-4 per partner)
-- $48-96k new MRR (combined impact)
+**2026 Combined Targets (Tim + George):**
+- **Development focus:** 6-8 new Development clients (primary growth lever)
+- **Service discipline:** Tim adds Dev + Marketing mix; George adds Dev only
+- **MRR target:** Tim $24-78k new MRR (Dev focused) + George $15-32k new MRR (Dev only) = **$39-110k total new MRR**
+- **Monthly outreach:** 24-30 personalized messages (12-15 each partner)
+- **Conversion targets:** 6-8 SQLs per partner per year, closing at ~50% rate = 6-8 new clients
+
+**Expected Performance by Service Type:**
+- **Development:** 6-7 new clients (Tim 3-4 at $8-18k, George 3-4 at $5-8k) = likely 73%+ retention (based on current performance)
+- **Marketing:** 0-1 new client (Tim secondary only) = offset by current 44% churn
+- **Consulting:** 0 new clients (George's practice has 60% churn; avoid)
 
 **Investment:** Minimal ($2-5k for CRM, tools, templates)
 
-**Expected Return:** $576-1,152k revenue (6-8 clients at $8k avg MRR over full year)
+**Expected Return:** $468-1,320k revenue over 12 months (6-8 clients at blended $6.5-15k avg MRR)
+- Conservative (6 clients × $78k annual): $468k
+- Base case (7 clients × $100k annual): $700k
+- Optimistic (8 clients × $165k annual): $1,320k
 
-**ROI:** 115-230x (time is primary cost; negligible cash)
+**ROI:** 94-264x (time is primary cost; negligible cash)
 
 **Critical Success Factor:** Partner validation calls to prevent 3HNails/Cavaco-style expectation misalignment (not deal rejection, just early scope vetting)
 
@@ -579,7 +617,7 @@ Recent client losses revealed a validation gap in the deal structuring phase:
 | **Reviews** | $5-7.5k (credits) | $50-100k revenue | 10-20x | New program |
 | **Tradeshows** | $40-65k (cash)** | $0-300k revenue | 0-7x | Unproven*** |
 | **Paid Ads*** | $120-240k (cash) | $540-900k revenue | 4.5-7.5x | Google proven, LinkedIn/Meta new |
-| **Founder-Led** | $2-5k (tools) | $576-1,152k revenue (6-8 clients) | 115-230x | Peer-validation process |
+| **Founder-Led** | $2-5k (tools) | $468-1,320k revenue (6-8 Dev clients) | 94-264x | Tim Dev $8-18k + George Dev $5-8k |
 | **TOTAL** | **$269-430.5k** | **$2.57-3.81M revenue** | **7-9x** | Mixed risk profile |
 
 *Paid Ads = Multi-channel (Google $72-120k + LinkedIn $36-72k + Meta $12-48k)
