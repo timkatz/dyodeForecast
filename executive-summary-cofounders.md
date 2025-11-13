@@ -30,6 +30,92 @@
 
 ---
 
+## 2026 Critical Path: What Must Happen
+
+**Three interconnected business imperatives for 2026 — all must succeed:**
+
+### 🎯 **IMPERATIVE 1: FOUNDER-LED SALES (Make or Break)**
+**Why it's critical:** Only reliable revenue source if Martal fails (like SDRs + Cleverly); feeds both revenue growth AND Shopify Plus migrations
+
+**2026 Targets:**
+- **Tim:** $19.5-55k new MRR (Development primary, marketing secondary)
+- **George:** $19.5-55k new MRR (Marketing primary, development + consulting secondary)
+- **Combined:** $39-110k new MRR + 0.4-0.8 consulting upsells
+- **Time commitment:** 2 hours/week per founder
+- **Success metric:** Monthly pipeline tracking, scope validation calls, overachievement visibility
+
+**Direct connection to Shopify Plus:** Founder-led deals should include migration opportunities; if Bolle re-engages or founder outreach generates Plus migration leads, this directly supports partner tier goal.
+
+---
+
+### 🏗️ **IMPERATIVE 2: EXECUTE JEROME'S PROJECT (Q1-Q2 2026)**
+**Why it's critical:** Locks in 1 of 4+ Shopify Plus migrations needed for Premier tier; $250-278k revenue; creates resource demand that tests team capacity
+
+**2026 Targets:**
+- Contract signed: December 2025 ✅ (on track)
+- Project start: January 2026
+- Successful delivery: June 2026 (6 months)
+- Budget/scope: $250-278k (revised from $360-390k)
+- Concurrent execution: Great Star Tools Shop-Vac project + regular retainers
+
+**Critical dependencies:**
+- Resource planning (dev team capacity for overlapping projects)
+- Governance setup (milestones, timeline, communication)
+- Success feeds confidence for Shopify Plus tier credibility
+
+---
+
+### ⭐ **IMPERATIVE 3: HIT 4+ SHOPIFY PLUS MIGRATIONS FOR PREMIER TIER (Q1-Q3 2026)**
+**Why it's critical:** Business continuity; without Premier/Platinum badge, lose competitive edge and inbound lead flow in 2027+; 61% of MRR ($178k) comes from Shopify merchants
+
+**2026 Migration Targets:**
+- **Q1:** Jerome's ($250-278k) ✅ LOCKED IN
+- **Q2:** Bolle Brands ($100-150k) or Martal close 🔴 LOW CONFIDENCE
+- **Q3:** Martal + Founder-Led ($75-150k) **← DEPENDS ON FOUNDER-LED EXECUTION**
+- **Total needed:** 3 additional after Jerome's to hit 4+ for Premier tier
+
+**Migration sources (in order of reliability):**
+1. **Founder-led sales** (Tim + George) — 1-2 expected migrations from $39-110k in new deals
+2. **Martal migration SQLs** (10-12 opps) — 2-3 closes at 35% conversion (UNPROVEN, 3rd attempt)
+3. **Bolle Brands re-engagement** (if they come back in Q1) — 1 close
+4. **Shopify referrals** — 0-1 close (upside)
+
+**Critical dependency:** If founder-led sales doesn't execute, losing 1-2 potential migrations makes hitting 4+ very difficult (would need Martal + Bolle + Shopify to all work perfectly).
+
+---
+
+### **PRIORITY ORDERING (What Gets Attention First)**
+
+| Priority | Program | Investment | Reason |
+|----------|---------|-----------|--------|
+| **🔴 1** | **Founder-Led Sales** | $0 (time only) | Lowest cost, highest reliability, feeds both revenue AND Shopify migrations |
+| **🔴 2** | **Jerome's Execution** | $0 (already sold) | Already committed, must succeed, locks in 1 Plus migration + $250k revenue |
+| **🔴 3** | **Churn Reduction** | Minimal (process) | Losing 37% MRR annually; retention worth 2-3x acquisition |
+| **🟡 4** | **Martal Migration Focus** | $72k/year | Unproven but only scalable source for remaining 2-3 migrations; needs explicit Plus migration focus |
+| **🟡 5** | **Paid Ads (Google only)** | $72k/year | Proven channel (Google); hold LinkedIn/Meta for 2027 if proven |
+| **🟡 6** | **Bolle Re-engagement** | $0 | Upside; reach out in Jan 2026 if silent through year-end |
+| **🟢 7** | **Cross-Sells/Referrals/Reviews** | $35-58k | Nice upside ($50-100k+ potential) but secondary to new client acquisition |
+| **🟢 8** | **Tradeshows** | $40-65k | High risk (0 clients 2025), high cost; deprioritize unless clear ROI in Q1 |
+
+---
+
+### **2026 Success Definition**
+
+**You succeed if:**
+- ✅ Jerome's project delivers successfully (Q1-Q2)
+- ✅ Founder-led sales hits $39-110k new MRR target (Tim + George)
+- ✅ Hit 4+ Shopify Plus migrations by Q3 for Premier tier
+- ✅ Retain 65%+ of retainers (reduce from 63% to 65% churn rate)
+- ✅ End 2026 at $381k+ MRR accrued ($4.2M revenue target)
+
+**You're in trouble if:**
+- ❌ Jerome's slips or fails (impacts both revenue and Premier tier)
+- ❌ Founder-led sales underperforms (backup plan gone + 1-2 fewer migrations)
+- ❌ Bolle + Martal both disappoint (only Jerome's counts, need 3 more with limited sources)
+- ❌ Churn continues at 37%+ (revenue growth gets washed away)
+
+---
+
 ## 2025: What Happened
 
 ### The Decline Accelerated (Accrual Basis)
