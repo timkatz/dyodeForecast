@@ -541,27 +541,38 @@ Recent client losses revealed a validation gap in the deal structuring phase:
 **GEORGE'S 2026 FOUNDER-LED STRATEGY:**
 *Current portfolio: 7 active clients ($127k MRR), 53% churn, organizes Marketing team (Director of Digital Marketing, Marketing Manager)*
 
-- **Service focus:** Marketing retainer clients ($8-45k MRR range) — PLUS secondary Development
-  - Why: George's team (marketing org) manages marketing clients; he should source for his team capacity
-  - Current active: 3 marketing clients (MadEngine $45k, United Scope $12.6k, Poseidon $8.6k), plus 2 Development (Tipsy Elves $7.5k, L*Space $5k)
-  - Marketing churn is 62%, BUT that includes some mis-structured deals (consulting bundled with marketing, referral promises, etc.)
-  - Development deals have 100% retention (2 for 2)
-  - **AVOID:** Consulting deals under $10k (60% churn: 3HNails, Cavaco, Tipsy Elves consulting all failed due to scope misalignment)
+- **Service focus:**
+  - **Primary:** Marketing retainers ($8-20k) for team capacity
+  - **Secondary:** Development retainers ($5-8k) to complement marketing
+  - **High-margin:** Consulting engagements (1-2 month audit/strategy + fractional VP roles) as profit driver + pipeline to Dev/Marketing
 
-- **Target profile:** Mid-market eCommerce brands, network-sourced referrals preferred, mix of marketing ($8-20k) + development ($5-8k) retainers
+- **Consulting model (high-margin, intentional churn):**
+  - Structure: 1-2 month audit + strategy engagement OR ongoing fractional VP of eCommerce (max 6 months)
+  - Why: High margin (you deliver, no hiring needed), drives upsells to Development/Marketing services
+  - Expected outcome: Explicit agreement upfront that engagement ends when you staff internally (e.g., they hire full-time CMO/eCommerce VP)
+  - Monetization: 10% of new hire's salary as referral fee when they staff the role
+  - Current active: MadEngine consulting $45k (this is the model working correctly)
+  - Failed examples: 3HNails ($8k) and Cavaco ($4k) failed due to OTHER promises bundled in (marketplace access, referral commitments), not the consulting structure itself
+
+- **Current active portfolio:** 3 marketing (MadEngine $45k, United Scope $12.6k, Poseidon $8.6k) + 2 Development (Tipsy Elves $7.5k, L*Space $5k) = $82.1k MRR from 7 clients
 
 - **2026 Goals to hit $19.5-55k new MRR:**
-  - Marketing clients: 2-4 clients at $8-20k each (primary focus, your team's domain)
-  - Development clients: 1-3 clients at $5-8k each (secondary, complements your marketing portfolio)
-  - Consulting: 0 (avoid entirely; focus on delivery-able services)
-  - **Churn improvement target:** Reduce from current 53% to 40% by avoiding consulting scope issues and validating marketing expectations upfront
-  - **Key metric:** Grow active portfolio from 7 to 10-12 clients by Q4 2026 (3-5 new)
+  - Marketing clients: 2-4 at $8-20k each (primary team focus)
+  - Development clients: 1-3 at $5-8k each (secondary, complements marketing)
+  - Consulting engagements: 1-2 at $3-8k/month for 1-6 months (high-margin profit + pipeline to Dev/Marketing)
+  - **Total path to target:** Mix of recurring + consulting, with consulting driving margin while staffing yourself out
+  - **Churn improvement target:** Reduce from 53% to 45% by better expectation-setting on consulting (explicit 6-month exit plan, salary referral fee) and validating marketing scope upfront
+  - **Key metric:** Grow portfolio from 7 to 11-14 clients by Q4 2026 (4-7 new), with 1-2 consulting engagements in rotation
 
-- **Outreach:** 12-15 personalized messages/month, focus on eCommerce decision-makers (CMOs, marketing directors) in your network
+- **Outreach:** 12-15 personalized messages/month, target eCommerce decision-makers (CMOs, marketing directors, Chief eCommerce Officers) in your network
 
 - **Time commitment:** 2 hours/week
 
-- **CRITICAL:** Validation checkpoint focuses on clear scope for marketing + dev mix. No consulting deals. Validate marketing expectations upfront (what success looks like, team size, timeline to results).
+- **CRITICAL Validation checkpoint:**
+  - For consulting: Explicit discussion of 6-month timeline, internal staffing plan, 10% salary referral fee structure
+  - For marketing: Validate scope upfront (success metrics, team capacity, timeline to results)
+  - For all deals: NO bundled promises (marketplace access, client referrals, etc.) beyond the core service
+  - 3HNails/Cavaco failed because of BUNDLED promises, not because consulting is bad
 
 **3. Build Process:**
 - **ICP targeting list:** Each partner maintains rolling list of 30-50 target companies
@@ -584,23 +595,25 @@ Recent client losses revealed a validation gap in the deal structuring phase:
 - Quarterly adjustment: Refine messaging, targeting, churn patterns
 
 **2026 Combined Targets (Tim + George - EQUAL TARGETS):**
-- **Combined MRR target:** **$39-110k new MRR** ($19.5-55k per partner)
+- **Combined MRR target:** **$39-110k new recurring MRR** ($19.5-55k per partner from recurring + consulting)
 - **Org-aligned service focus:**
-  - Tim (leads Development team): Primary Development, secondary Marketing
-  - George (leads Marketing team): Primary Marketing, secondary Development
-- **Service discipline:** AVOID Consulting entirely (60% churn, scope misalignment issues)
+  - Tim (leads Development team): Primary Development (73% retention), secondary Marketing
+  - George (leads Marketing team): Primary Marketing, secondary Development + high-margin Consulting
+- **Consulting strategy:** Intentional short-term engagements (1-2 month audits + fractional VP roles, max 6 months) as profit driver + pipeline to Dev/Marketing, with 10% salary referral fee monetization
 - **Monthly outreach:** 24-30 personalized messages (12-15 each partner)
-- **Conversion targets:** 6-8 SQLs per partner per year, ~50% conversion rate
+- **Conversion targets:** 6-10 SQLs per partner per year, ~50% conversion rate
 
 **Expected Performance by Service Type:**
 - **Development:** 3-7 new clients (Tim primary 2-4 at $8-18k, George secondary 1-3 at $5-8k) = likely 73%+ retention
-- **Marketing:** 2-4 new clients (George primary 2-4 at $8-20k, Tim secondary 0-1) = improve from 62% churn through better scope validation
-- **Consulting:** 0 new clients (eliminated; focus on core delivery services)
+- **Marketing:** 2-4 new clients (George primary 2-4 at $8-20k, Tim secondary 0-1) = improve from 62% churn through better scope validation and explicit expectations
+- **Consulting:** 1-2 high-margin engagements per partner (1-6 month duration) as profit driver + upsell pipeline
+  - Expected "churn": Intentional; structured exit when client hires internally
+  - Revenue model: Monthly fees ($3-8k/month) + 10% of new hire salary as referral fee
 
 **Overachievement Tracking:**
-- If George hits $60k (vs. $19.5-55k target): +$5k tracked as upside
+- If George hits $60k (vs. $19.5-55k target): +$5k tracked as upside (recurring or consulting mix)
 - If Tim hits $60k: +$5k tracked as upside
-- Goal: Transparent tracking of who delivers above-target MRR by service type
+- Goal: Transparent tracking of who delivers above-target MRR by service type and deal quality
 
 **Investment:** Minimal ($2-5k for CRM, tools, templates)
 
@@ -612,23 +625,25 @@ Recent client losses revealed a validation gap in the deal structuring phase:
 **ROI:** 94-264x (time is primary cost; negligible cash)
 
 **Critical Success Factors:**
-- Partner validation calls to prevent 3HNails/Cavaco-style expectation misalignment (not deal rejection, just early scope vetting)
-- Org-aligned sourcing: Tim sources for Development team (his direct reports), George sources for Marketing team (his direct reports) — each partner aligns with team capacity
-- Service discipline: Eliminate Consulting entirely (60% churn pattern); focus on core Development + Marketing services where delivery is proven
-- Marketing scope validation: George's marketing churn (62%) was driven by scope misalignment (3HNails/Cavaco bundled consulting, referral promises). Better upfront validation = improved retention.
-- Transparent overachievement tracking: If either partner exceeds $19.5-55k target, that upside is tracked separately by service type
+- **Expectation-setting over deal type:** The issue with 3HNails/Cavaco wasn't consulting itself—it was BUNDLED promises (marketplace access, client referrals) that aren't realistic. Clear scope = success even for consulting.
+- **Consulting model clarity:** Both partners should use structured consulting (1-2 month audit + strategy OR 6-month fractional VP max) with explicit exit plan. Current working model: MadEngine ($45k consulting working correctly because expectations are clear).
+- **Org-aligned sourcing:** Tim sources for Development team capacity, George sources for Marketing team capacity + consulting for margin. Each partner aligns with their delivery model.
+- **Marketing scope validation:** George's marketing churn (62%) improves with upfront scope validation (success metrics, team capacity, timeline) and clear expectations about what the team can deliver.
+- **Consulting monetization:** 10% salary referral fee when clients hire internal staff keeps consulting profitable beyond the engagement period.
+- **Transparent overachievement tracking:** If either partner exceeds target, upside tracked separately by service type (recurring vs. consulting mix)
 
 **Decision Needed:**
-- Approve **equal $19.5-55k MRR targets for both Tim and George** (same expectation, org-aligned service focus)
-  - Tim: Primary Development sourcing (2-4 new clients) + secondary Marketing (0-1)
-  - George: Primary Marketing sourcing (2-4 new clients) + secondary Development (1-3)
-  - Both: ZERO Consulting (eliminate entirely due to 60% churn pattern)
+- Approve **equal $19.5-55k MRR targets for both Tim and George** (same expectation, org-aligned service focus + consulting)
+  - Tim: Primary Development (2-4 new clients at $8-18k) + secondary Marketing (0-1 at $5-12k)
+  - George: Primary Marketing (2-4 at $8-20k) + secondary Development (1-3 at $5-8k) + high-margin Consulting (1-2 engagements)
+  - Consulting model: 1-2 month audits + 6-month fractional VP roles max, with explicit exit plan + 10% salary referral fee
 - Commit to 2 hours/week systematic outreach (each partner)
 - Institute 30-minute scope validation call before finalizing any deal over $5k MRR
-  - For George's marketing deals: Validate scope upfront (success metrics, team capacity, timeline) to prevent repeat of 62% churn
-  - For both: Flag any consulting scope promises (marketplace access, referrals, etc.)
-- Monthly partner review to track results, churn patterns, and overachievement
-- Implement CRM or simple spreadsheet tracking to monitor progress against target (separate by partner, by service type)
+  - For consulting deals: Validate upfront that client understands 6-month max, internal hiring plan, and salary referral fee structure
+  - For marketing deals: Validate scope upfront (success metrics, team capacity, realistic timeline) to prevent 62% churn repeat
+  - For all deals: Flag any BUNDLED promises (marketplace access, client referrals, etc.) that go beyond core service scope
+- Monthly partner review to track results, churn patterns, overachievement, and consulting exit/staffing outcomes
+- Implement CRM or simple spreadsheet tracking to monitor progress against target (separate by partner, by service type: recurring vs. consulting)
 
 ---
 
@@ -644,7 +659,7 @@ Recent client losses revealed a validation gap in the deal structuring phase:
 | **Reviews** | $5-7.5k (credits) | $50-100k revenue | 10-20x | New program |
 | **Tradeshows** | $40-65k (cash)** | $0-300k revenue | 0-7x | Unproven*** |
 | **Paid Ads*** | $120-240k (cash) | $540-900k revenue | 4.5-7.5x | Google proven, LinkedIn/Meta new |
-| **Founder-Led** | $2-5k (tools) | $468-1,320k revenue | 94-264x | Tim Dev + George Marketing |
+| **Founder-Led** | $2-5k (tools) | $468-1,320k revenue | 94-264x | Tim Dev + George Marketing/Consulting |
 | **TOTAL** | **$269-430.5k** | **$2.57-3.81M revenue** | **7-9x** | Mixed risk profile |
 
 *Paid Ads = Multi-channel (Google $72-120k + LinkedIn $36-72k + Meta $12-48k)
