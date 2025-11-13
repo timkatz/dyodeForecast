@@ -690,15 +690,19 @@ Recent client losses revealed a validation gap in the deal structuring phase:
 ### 1. Q1 2026 Execution (Make or Break)
 
 **Why Q1 is Critical:**
+- **Jerome's Furniture project starts January** ($250-278k over 6 months, ~$42-46k/month billable) ✅ Major revenue driver
 - $64k in projects ending (Satechi converting to retainer 4/1, partially offsets)
-- $39k contracts expiring (likely renewals: Glenmorangie, Wyze, others)
+- $39k contracts expiring (likely renewals: Glenmorangie $18k, Wyze $11.6k, others)
 - $3.75k MRR reduction from Great Star Tools (budget cut, retained client with expansion pipeline)
-- **Total headwind: ~$77k MRR loss, offset by Satechi conversion + Great Star Tools Shop-Vac project**
+- **Total: Jerome's project offsets headwinds + adds significant project revenue**
 
 **Must-Dos:**
+- **Execute Jerome's project successfully** (starts Jan, 6-month delivery, sets Shopify Plus tier credential)
+  - Finalize resource plan (overlaps with Great Star Tools Shop-Vac; team has bandwidth process in place)
+  - Set up project governance and timeline milestones
 - Renew all expiring contracts (especially Glenmorangie $18k, Wyze $11.6k)
 - Convert month-to-month to terms (4 clients at risk)
-- Close 7-9 new clients (aggressive target)
+- Close 7-9 new recurring clients (aggressive target for founder-led + Martal + paid ads)
 - Launch all growth programs (cross-sell, referral, reviews)
 - **Secure Great Star Tools Shop-Vac project** ($19-23k Q1-Q2 billable) + map 2026 brand roadmap
 
@@ -786,16 +790,23 @@ Recent client losses revealed a validation gap in the deal structuring phase:
 
 | Quarter | Target | Cumulative | Milestone | Project Revenue |
 |---------|--------|------------|-----------|-----------------|
-| Q1 2026 | 1 migration | 1 | Foundation | $75k |
-| Q2 2026 | 2 migrations | 3 | 75% to Premier | $150k |
-| Q3 2026 | 1 migration | 4 | 🎯 **Premier Achieved** | $75k |
+| Q1 2026 | 1 migration (Jerome's) | 1 | Foundation | **$250-278k** |
+| Q2 2026 | 1 migration (Bolle or Martal) | 2 | 50% to Premier | $100-150k |
+| Q3 2026 | 1-2 migrations (Martal/Founder) | 3-4 | 🎯 **Premier Achieved** | $75-150k |
 | Q4 2026 | 0-2 migrations | 4-6 | Stretch to Platinum | $0-150k |
-| **TOTAL** | **4-6 migrations** | **4-6** | **Premier/Platinum** | **$300-450k** |
+| **TOTAL** | **4-6 migrations** | **4-6** | **Premier/Platinum** | **$525-728k** |
+
+*Note: Jerome's Furniture ($250-278k) runs Jan-Jun 2026 (6 months), with billable revenue spanning Q1-Q2 (~$42-46k/month). Total project revenue includes full contract value.*
 
 **Current Pipeline:**
 
 *Plus Migrations (count toward 4+ Premier requirement):*
-- Jerome's Furniture: ~$75k (Q1, on hold due to tariffs) 🟡 Medium confidence
+- **Jerome's Furniture: $250-278k** (Revised Dec 2025)
+  - **Status:** Contract signing expected December 2025, project start January 2026 (6 months)
+  - Revised from original $360-390k proposal (March 2025) due to client descoping ERP/data migration in-house
+  - **Confidence: ✅ HIGH** (executive review pending, but very likely to close in December)
+  - **Plus migration credit:** YES, counts toward 4+ Premier requirement
+  - **Team capacity:** Can overlap with Great Star Tools Shop-Vac project; team has process to evaluate bandwidth and hire as needed
 - Bolle Brands: ~$100-150k (Q2, low communication, came from founder cold outreach) 🟡 Medium confidence
 
 *Advanced Migrations (don't count toward Plus requirement but valuable revenue):*
@@ -803,12 +814,13 @@ Recent client losses revealed a validation gap in the deal structuring phase:
   - Note: Currently wholesale-only; could become Plus candidate if they launch online like Great Star Tools
 
 *Migration Gap:*
-- **Need 2-4 Plus migrations minimum** to hit 4+ Premier requirement by Q3 2026
+- **Need 3+ Plus migrations minimum** to hit 4+ Premier requirement by Q3 2026 (Jerome's counts as 1)
 - Martal should be targeting Plus-specific prospects (unproven, but intent is there)
 
-**Migration Sources to Hit 4 Closes (if Martal works):**
-- Current pipeline (Jerome's, Bolle): 1 expected close
-- Martal migration SQLs (10-12 opps): 3-4 expected closes (35% close rate) **← UNPROVEN**
+**Migration Sources to Hit 4 Closes (Jerome's confirmed, need 3 more):**
+- Current pipeline (Jerome's): 1 confirmed (signing Dec, starting Jan)
+- Bolle Brands: 1 expected close (Q2, medium confidence)
+- Martal migration SQLs (10-12 opps): 2-3 expected closes (35% close rate) **← UNPROVEN**
 - Founder outreach (3-4 opps): 0-1 close
 - Shopify referrals (2-3 opps): 0-1 close
 
