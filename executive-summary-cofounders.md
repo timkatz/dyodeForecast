@@ -569,21 +569,23 @@
 ### 1. Q1 2026 Execution (Make or Break)
 
 **Why Q1 is Critical:**
-- $64k in projects ending
-- $39k contracts expiring
-- $19k client reductions likely
-- **Total headwind: ~$77k MRR loss (accrued)**
+- $64k in projects ending (Satechi converting to retainer 4/1, partially offsets)
+- $39k contracts expiring (likely renewals: Glenmorangie, Wyze, others)
+- $3.75k MRR reduction from Great Star Tools (budget cut, retained client with expansion pipeline)
+- **Total headwind: ~$77k MRR loss, offset by Satechi conversion + Great Star Tools Shop-Vac project**
 
 **Must-Dos:**
-- Renew all expiring contracts
-- Convert month-to-month to terms
-- Close 7-9 new clients (aggressive)
-- Launch all growth programs
+- Renew all expiring contracts (especially Glenmorangie $18k, Wyze $11.6k)
+- Convert month-to-month to terms (4 clients at risk)
+- Close 7-9 new clients (aggressive target)
+- Launch all growth programs (cross-sell, referral, reviews)
+- **Secure Great Star Tools Shop-Vac project** ($19-23k Q1-Q2 billable) + map 2026 brand roadmap
 
 **If Q1 fails:**
 - Start Q2 at $220-245k MRR accrued (vs. target $260-280k)
 - Need to make up $20-30k/month extra in Q2-Q4
 - May not hit year-end target
+- **Note:** Great Star Tools MRR reduction is manageable if Shop-Vac project books; becomes critical only if project delays
 
 ---
 
@@ -728,9 +730,15 @@
 **Q1 2026 Action Items:**
 - [ ] **Week 1:** Re-engage Jerome's Furniture (migration opportunity, on hold)
 - [ ] **Week 1:** Schedule Bolle Brands check-in (4-brand migration, Q2 target)
+- [ ] **Week 1:** Schedule Great Star Tools strategy call (Shop-Vac project, brand roadmap, expansion timeline)
 - [ ] **Week 1-2:** Push team to complete 16 in-progress Shopify certifications
 - [ ] **Week 3:** Review Martal November performance - verify migration SQL delivery
 - [ ] **Monthly:** Track migration pipeline and certification progress
+
+**Confirmed Pipeline for Q1-Q2 2026:**
+- **Great Star Tools - Shop-Vac:** $19-23k (Q1-Q2 billable project) - Quote already provided, expect confirmation by end Jan 2026
+- **Jerome's Furniture:** ~$75k (on hold due to tariffs, follow up in Jan)
+- **Bolle Brands:** ~$100-150k (low communication, follow up for Q2 commitment)
 
 **Tracking:** Quarterly reporting to co-founders on both migration pipeline and certification completion progress.
 
@@ -774,6 +782,8 @@
 
 **Risk:** Depends heavily on Martal working. Paid Ads already proven (delivered 4 clients in 2025 at $1,310 CPL); 2026 focus is on identifying which ad group (migrations, CRO, site speed) converts best, not dramatically reducing CPL. Scaling with realistic $1,000-1,100 CPL is achievable.
 
+**Great Star Tools Impact:** MRR loss of $3.75k/mo is offset by confirmed Shop-Vac project ($19-23k Q1-Q2) + future brand additions. This is NOT a churn risk but a budget-constrained retention with major expansion runway.
+
 ---
 
 ### Aggressive Scenario (Martal Exceeds + Everything Works)
@@ -792,6 +802,8 @@
 - **Beat target by $100-400k**
 
 **Risk:** Very optimistic. Requires Martal to outperform AND paid ads' best-performing ad groups (likely migrations or CRO) to significantly outweigh underperformers AND all other channels to hit high end. CPL stays $1,000-1,100, but volume and conversion rates improve.
+
+**Upside Not Captured:** Great Star Tools could add 3-5 additional brands in 2026 (beyond Shop-Vac) if roadmap accelerates. Each brand = $15-25k project + retainer opportunity. Could add $75-125k+ in project revenue if execution is fast.
 
 ---
 
@@ -821,12 +833,22 @@
 - ✅ Poseidon Bikes renewed 12 months (10/28/25) - $8,625 secured
 - ✅ Align Tech renewed 6 months (9/25/25) - $8,625 secured
 - ✅ Satechi converting to retainer 4/1/26 - $6,250 secured
+- ✅ Great Star Tools renewed 12 months (11/25) - Dev hours reduced $7.5k → $3.75k, Marketing stable $8.5k (see expansion opportunity below)
 - **$23k MRR risk removed** since original assessment
+
+**Great Star Tools Context - NOT A CHURN RISK:**
+- **Why hours reduced:** Finance department mandated expense cuts (Amazon sales down, wholesale orders down - external factors)
+- **Quality signal:** Client explicitly praised DYODE's website launch and digital marketing work
+- **Expansion opportunity:** Website launched with 2 brands (Primeline Parts, Arrow Fastener); plan to add 98+ more brands in 2026, starting with Shop-Vac
+- **Pipeline:** Shop-Vac brand migration already quoted at $19-23k (expect Q1-Q2 2026 billable)
+- **Long-term runway:** Each brand addition = $15-25k project + ongoing retainer potential
+- **MRR impact:** $3.75k reduction in Jan, but offset by Shop-Vac project + multi-brand expansion pipeline
 
 **Remaining Mitigation:**
 - Aggressive renewal outreach for Dec expirations (Glenmorangie, Wyze, Kindred, Beach Riot)
 - Personal calls to 4 remaining month-to-month clients
 - Front-load new client acquisition in Jan
+- **Schedule Q1 Great Star Tools strategy call** to map 2026 brand roadmap and confirm Shop-Vac timeline
 
 **Contingency:** Accept lower Q1 MRR, make up in Q2-Q4
 
