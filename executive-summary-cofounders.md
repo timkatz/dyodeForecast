@@ -480,56 +480,90 @@
 
 ---
 
-### 7. Founder-Led Sales Systematization
+### 7. Founder-Led Sales Systematization (Tim & George Partnership)
 
 **Current State:**
-- **Works when done:** Closed 3 clients in 2025 (Pair of Thieves, 3HNails, Tipsy Elves)
-- **Also works:** Bolle Brands pipeline (~$100-150k) came from founder cold outreach
-- **Problem:** Ad hoc, no goals, no process, only happens when we remember or business slows
-- **No tracking:** Don't know conversion rates, ideal targets, or time investment
+- **What's working:** Tim and George closed 3 clients in 2025 (Pair of Thieves, 3HNails, Tipsy Elves) plus Bolle Brands pipeline (~$100-150k)
+- **Why it works:** Founder credibility, direct decision-maker access, personal relationships close deals that SDRs/agencies can't
+- **Current performance (2025 closures):**
+  - Tim: 21 active clients managed, 30% churn, $144.5k MRR
+  - George: 7 active clients managed, 53% churn, $33.7k MRR
+- **Main problem:** Ad hoc, no goals, no process, only happens when we remember or business slows
 
-**Why This Matters:**
-- Founder credibility and expertise close deals that SDRs can't
-- Direct access to decision-makers vs. gatekeepers
-- Personal relationships build trust faster
-- Already proven to work (4 deals/opportunities in 2025)
+**Current Issue: Expectation Misalignment**
+
+Recent client losses revealed a validation gap in the deal structuring phase:
+- **3HNails:** George promised "easy access to 30 new marketplaces" as value prop; client expected DYODE to provide vendor access (unrealistic scope, natural churn)
+- **Cavaco:** Promise to "refer 10 clients" from our network; unrealistic for a consulting firm with limited referral relationships (expectation misalignment)
+
+**Root cause:** Great deals get sourced, but scope expectations don't get validated upfront. When partners source different deals, adding mutual vetting early prevents downstream churn.
 
 **What Needs to Change:**
 
-**1. Set Clear Goals:**
-- Monthly outreach targets: 20 personalized outreach messages/month (5/week)
-- Quarterly conversion goals: 2-3 SQLs/quarter, 1-2 closes/quarter
-- Track: Outreach → Response → Meeting → SQL → Close
+**1. Partnership Validation Process (50/50 founders, peer-review model):**
+- When either partner sources a deal, brief the other before finalizing scope
+- Joint 30-minute call to review: ICP fit, delivery scope clarity, realistic success metrics
+- **Specific focus:** Does the client understand what we can/can't do? Are there unrealistic scope promises? (marketplace access, referral commitments, etc.)
+- This isn't about rejecting deals (revenue matters too), but surfacing scope issues early
+- Goal: Prevent expectation misalignment that naturally leads to churn
 
-**2. Build Process:**
-- **ICP targeting list:** Maintain rolling list of 50-100 target companies
-- **Outreach cadence:** Block 2 hours/week for outreach (Tuesday/Thursday mornings)
+**2. Set Clear Individual Goals:**
+
+**TIM'S 2026 FOUNDER-LED TARGETS:**
+- Outreach: 10-12 personalized outreach messages/month (2-3/week)
+- SQLs: 6-8 per year (0.5-0.7/month)
+- Closes: 3-4 new clients
+- Target MRR: $24-48k new MRR
+- Deal focus: Development-focused, $7-15k MRR size, ICP-fit
+- Time commitment: 1.5-2 hours/week
+
+**GEORGE'S 2026 FOUNDER-LED TARGETS:**
+- Outreach: 10-12 personalized outreach messages/month (2-3/week)
+- SQLs: 6-8 per year (0.5-0.7/month)
+- Closes: 3-4 new clients
+- Target MRR: $24-48k new MRR
+- Deal focus: Development + Network-sourced preferred, $7-15k MRR size, validated scope
+- Time commitment: 1.5-2 hours/week
+- **Churn improvement:** Work with Tim on expectation-setting; target reducing from 53% to 40% churn on portfolio
+
+**3. Build Process:**
+- **ICP targeting list:** Each partner maintains rolling list of 30-50 target companies
+- **Outreach cadence:** Block 2 hours/week for outreach (suggested: Tim Tue/Thu mornings, George Mon/Wed mornings)
 - **Personalization framework:** Use recent news, mutual connections, specific pain points
 - **Follow-up sequence:** 3-touch sequence (initial, +5 days, +10 days)
+- **Scope validation checkpoint:** Before finalizing any deal, partner review on 3 questions:
+  1. Does client understand what we do (and don't do)?
+  2. Are there any unrealistic scope promises (marketplace access, referral commitments, etc.)?
+  3. Is this a retainer we'll realistically keep for 12+ months?
 
-**3. Leverage Existing Network:**
-- LinkedIn connections: Warm intros vs. cold outreach
-- Industry events: Follow up with tradeshow connections
-- Client referrals: Ask for intros to peers
+**4. Leverage Existing Network:**
+- LinkedIn connections: Warm intros vs. cold outreach (track by partner)
+- Industry events: Follow up with tradeshow connections (each partner owns their connections)
+- Client referrals: Ask for intros to peers (both partners ask their networks)
 
-**4. Track & Optimize:**
-- CRM tracking: All outreach logged with results
-- Monthly review: What's working, what's not
-- Quarterly adjustment: Refine messaging, targeting, timing
+**5. Track & Optimize:**
+- CRM tracking: All outreach logged with results (separate columns for each partner)
+- Monthly review: What's working, what's not (partner call to discuss trends)
+- Quarterly adjustment: Refine messaging, targeting, churn patterns
 
-**2026 Targets:**
-- 240 personalized outreach messages (20/month x 12)
-- 8-12 SQLs generated
-- 4-6 client conversions
-- $30-45k new MRR
+**2026 Combined Targets:**
+- 240 personalized outreach messages (120 per partner, 10/month each)
+- 12-16 SQLs generated (6-8 per partner)
+- 6-8 client conversions (3-4 per partner)
+- $48-96k new MRR (combined impact)
 
 **Investment:** Minimal ($2-5k for CRM, tools, templates)
 
-**Expected Return:** $360-540k revenue (4-6 clients at $7.5k avg MRR)
+**Expected Return:** $576-1,152k revenue (6-8 clients at $8k avg MRR over full year)
 
-**ROI:** 100-150x (essentially free besides time)
+**ROI:** 115-230x (time is primary cost; negligible cash)
 
-**Decision Needed:** Commit to blocking 2 hours/week for systematic founder-led outreach
+**Critical Success Factor:** Partner validation calls to prevent 3HNails/Cavaco-style expectation misalignment (not deal rejection, just early scope vetting)
+
+**Decision Needed:**
+- Commit to 2 hours/week systematic outreach (each partner)
+- Institute 30-minute scope validation call before finalizing any deal over $5k MRR
+- Monthly partner review to track results and discuss churn patterns
 
 ---
 
@@ -545,7 +579,7 @@
 | **Reviews** | $5-7.5k (credits) | $50-100k revenue | 10-20x | New program |
 | **Tradeshows** | $40-65k (cash)** | $0-300k revenue | 0-7x | Unproven*** |
 | **Paid Ads*** | $120-240k (cash) | $540-900k revenue | 4.5-7.5x | Google proven, LinkedIn/Meta new |
-| **Founder-Led** | $2-5k (tools) | $360-540k revenue | 100-150x | Systematize existing |
+| **Founder-Led** | $2-5k (tools) | $576-1,152k revenue (6-8 clients) | 115-230x | Peer-validation process |
 | **TOTAL** | **$269-430.5k** | **$2.57-3.81M revenue** | **7-9x** | Mixed risk profile |
 
 *Paid Ads = Multi-channel (Google $72-120k + LinkedIn $36-72k + Meta $12-48k)
