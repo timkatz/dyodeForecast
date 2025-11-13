@@ -803,7 +803,7 @@
 
 **Risk:** Very optimistic. Requires Martal to outperform AND paid ads' best-performing ad groups (likely migrations or CRO) to significantly outweigh underperformers AND all other channels to hit high end. CPL stays $1,000-1,100, but volume and conversion rates improve.
 
-**Upside Not Captured:** Great Star Tools could add 3-5 additional brands in 2026 (beyond Shop-Vac) if roadmap accelerates. Each brand = $15-25k project + retainer opportunity. Could add $75-125k+ in project revenue if execution is fast.
+**Note on Great Star Tools:** While they have potential to add more brands beyond Shop-Vac (100+ brands in portfolio), given their 2025 financial performance, we're conservatively forecasting only Shop-Vac for 2026. Additional brand migrations would be upside, not baseline expectations.
 
 ---
 
