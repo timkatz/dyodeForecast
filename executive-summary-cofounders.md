@@ -807,7 +807,9 @@ Recent client losses revealed a validation gap in the deal structuring phase:
   - **Confidence: ✅ HIGH** (executive review pending, but very likely to close in December)
   - **Plus migration credit:** YES, counts toward 4+ Premier requirement
   - **Team capacity:** Can overlap with Great Star Tools Shop-Vac project; team has process to evaluate bandwidth and hire as needed
-- Bolle Brands: ~$100-150k (Q2, low communication, came from founder cold outreach) 🟡 Medium confidence
+- Bolle Brands: ~$100-150k (Q2, no recent communication) 🔴 Low confidence
+  - Status: Stopped responding; may be Q4 busy season or lost interest
+  - Could re-engage in Q1 2026 if they circle back
 
 *Advanced Migrations (don't count toward Plus requirement but valuable revenue):*
 - Instinct Pet Foods: $50k (Q1-Q2, WordPress → Shopify Advanced) ✅ Confirmed
@@ -818,13 +820,13 @@ Recent client losses revealed a validation gap in the deal structuring phase:
 - Martal should be targeting Plus-specific prospects (unproven, but intent is there)
 
 **Migration Sources to Hit 4 Closes (Jerome's confirmed, need 3 more):**
-- Current pipeline (Jerome's): 1 confirmed (signing Dec, starting Jan)
-- Bolle Brands: 1 expected close (Q2, medium confidence)
-- Martal migration SQLs (10-12 opps): 2-3 expected closes (35% close rate) **← UNPROVEN**
-- Founder outreach (3-4 opps): 0-1 close
+- Current pipeline (Jerome's): 1 confirmed (signing Dec, starting Jan) ✅
+- Bolle Brands: 0-1 close (Q2, low confidence - no recent communication) 🔴
+- **Martal migration SQLs (10-12 opps):** 2-3 expected closes (35% close rate) **← UNPROVEN but critical**
+- Founder outreach (3-4 opps): 1-2 close (need 1-2 if Bolle doesn't close)
 - Shopify referrals (2-3 opps): 0-1 close
 
-**Risk:** Martal is unproven after 2 failed lead gen attempts (SDRs, Cleverly). If Martal fails, hitting 4 migrations becomes very difficult.
+**Risk:** Jerome's is locked in, but Bolle is silent. Need Martal + founder outreach to reliably hit 4-migration goal. Martal is unproven after 2 failed lead gen attempts (SDRs, Cleverly). If Bolle doesn't re-engage AND Martal fails, hitting 4 migrations becomes very difficult.
 
 **Platform Targeting Priority:**
 1. BigCommerce → Shopify Plus (easiest conversion)
