@@ -509,7 +509,14 @@ Recent client losses revealed a validation gap in the deal structuring phase:
 
 **2. Set Clear Individual Goals (Based on Portfolio Analysis):**
 
-**TIM'S 2026 FOUNDER-LED TARGETS:**
+**EQUAL 2026 MRR TARGETS FOR BOTH PARTNERS:**
+- **Tim & George each: $19.5-55k new MRR target** (combined $39-110k)
+- **Same targets, different strategies** (based on what works for each)
+- **Overachievement tracked separately** (e.g., if George hits $60k, that's +$5k upside)
+
+---
+
+**TIM'S 2026 FOUNDER-LED STRATEGY:**
 *Current portfolio: 21 active clients ($315k MRR), 32% churn, strength in Development*
 
 - **Service focus:** Development retainer clients ($8-18k MRR range)
@@ -519,11 +526,11 @@ Recent client losses revealed a validation gap in the deal structuring phase:
 
 - **Target profile:** Mid-market eCommerce brands ($10M-50M revenue), Shopify Plus/Advanced migrations, ongoing optimization retainers
 
-- **2026 Goals:**
-  - New Development clients: 3-4 (target $8-18k each = $24-72k new MRR)
-  - New Marketing clients: 0-1 (secondary focus)
-  - Total new MRR target: $24-78k
+- **2026 Goals to hit $19.5-55k new MRR:**
+  - Development clients: 2-4 clients at $8-18k each
+  - Marketing clients: 0-2 clients at $8-12k each
   - **Churn target:** Maintain 30-35% (currently 32%)
+  - If overachieve: Track secondary Marketing strength
 
 - **Outreach:** 12-15 personalized messages/month, focus on Development decision-makers
 
@@ -531,7 +538,7 @@ Recent client losses revealed a validation gap in the deal structuring phase:
 
 ---
 
-**GEORGE'S 2026 FOUNDER-LED TARGETS:**
+**GEORGE'S 2026 FOUNDER-LED STRATEGY:**
 *Current portfolio: 7 active clients ($127k MRR), 53% churn, strength in Development (100% retention) but only 2 clients*
 
 - **Service focus:** Development retainer clients ONLY ($5-8k MRR range)
@@ -542,12 +549,12 @@ Recent client losses revealed a validation gap in the deal structuring phase:
 
 - **Target profile:** Mid-market eCommerce brands, network-sourced referrals preferred, Development retainers (smaller, stickier deals)
 
-- **2026 Goals:**
-  - New Development clients: 3-4 (target $5-8k each = $15-32k new MRR)
-  - New Consulting/Marketing: 0 (focus solely on Development to improve retention)
-  - Total new MRR target: $15-32k
+- **2026 Goals to hit $19.5-55k new MRR:**
+  - Development clients: 3-7 clients at $5-8k each (wider range due to smaller deal size)
+  - Consulting/Marketing: 0 (focus solely on Development to improve retention)
   - **Churn improvement target:** Reduce from current 53% to 40% by avoiding low-retention service types
   - **Key metric:** Get Development portfolio from 2 to 6-7 clients by Q4 2026
+  - If overachieve: Track if larger Development deals above $8k become feasible
 
 - **Outreach:** 12-15 personalized messages/month, focus on Development decision-makers in your network
 
@@ -575,17 +582,22 @@ Recent client losses revealed a validation gap in the deal structuring phase:
 - Monthly review: What's working, what's not (partner call to discuss trends)
 - Quarterly adjustment: Refine messaging, targeting, churn patterns
 
-**2026 Combined Targets (Tim + George):**
-- **Development focus:** 6-8 new Development clients (primary growth lever)
-- **Service discipline:** Tim adds Dev + Marketing mix; George adds Dev only
-- **MRR target:** Tim $24-78k new MRR (Dev focused) + George $15-32k new MRR (Dev only) = **$39-110k total new MRR**
+**2026 Combined Targets (Tim + George - EQUAL TARGETS):**
+- **Combined MRR target:** **$39-110k new MRR** ($19.5-55k per partner)
+- **Development focus:** Primary growth lever, expect 6-8 new Development clients
+- **Service discipline:** Tim Dev + Marketing mix; George Dev only (strategic service focus, not target reduction)
 - **Monthly outreach:** 24-30 personalized messages (12-15 each partner)
-- **Conversion targets:** 6-8 SQLs per partner per year, closing at ~50% rate = 6-8 new clients
+- **Conversion targets:** 6-8 SQLs per partner per year, ~50% conversion rate
 
 **Expected Performance by Service Type:**
-- **Development:** 6-7 new clients (Tim 3-4 at $8-18k, George 3-4 at $5-8k) = likely 73%+ retention (based on current performance)
-- **Marketing:** 0-1 new client (Tim secondary only) = offset by current 44% churn
-- **Consulting:** 0 new clients (George's practice has 60% churn; avoid)
+- **Development:** 6-8 new clients (Tim 2-4 at $8-18k, George 3-7 at $5-8k) = likely 73%+ retention (based on current performance)
+- **Marketing:** 0-2 new clients (Tim secondary only, potential upside if overachieve)
+- **Consulting:** 0 new clients (George avoids; continue previous elimination strategy)
+
+**Overachievement Tracking:**
+- If George hits $60k (vs. $19.5-55k target): +$5k tracked as upside
+- If Tim hits $60k: +$5k tracked as upside
+- Goal: Transparent tracking of who delivers above-target MRR
 
 **Investment:** Minimal ($2-5k for CRM, tools, templates)
 
@@ -596,12 +608,17 @@ Recent client losses revealed a validation gap in the deal structuring phase:
 
 **ROI:** 94-264x (time is primary cost; negligible cash)
 
-**Critical Success Factor:** Partner validation calls to prevent 3HNails/Cavaco-style expectation misalignment (not deal rejection, just early scope vetting)
+**Critical Success Factors:**
+- Partner validation calls to prevent 3HNails/Cavaco-style expectation misalignment (not deal rejection, just early scope vetting)
+- Service discipline: Tim handles Dev + Marketing; George focuses on Development only (to leverage 100% retention rate)
+- Transparent overachievement tracking: If either partner exceeds $19.5-55k target, that upside is tracked separately
 
 **Decision Needed:**
+- Approve **equal $19.5-55k MRR targets for both Tim and George** (same expectation, different strategies)
 - Commit to 2 hours/week systematic outreach (each partner)
 - Institute 30-minute scope validation call before finalizing any deal over $5k MRR
-- Monthly partner review to track results and discuss churn patterns
+- Monthly partner review to track results, churn patterns, and overachievement
+- Implement CRM or simple spreadsheet tracking to monitor progress against target (separate by partner)
 
 ---
 
@@ -617,7 +634,7 @@ Recent client losses revealed a validation gap in the deal structuring phase:
 | **Reviews** | $5-7.5k (credits) | $50-100k revenue | 10-20x | New program |
 | **Tradeshows** | $40-65k (cash)** | $0-300k revenue | 0-7x | Unproven*** |
 | **Paid Ads*** | $120-240k (cash) | $540-900k revenue | 4.5-7.5x | Google proven, LinkedIn/Meta new |
-| **Founder-Led** | $2-5k (tools) | $468-1,320k revenue (6-8 Dev clients) | 94-264x | Tim Dev $8-18k + George Dev $5-8k |
+| **Founder-Led** | $2-5k (tools) | $468-1,320k revenue | 94-264x | Equal targets: $19.5-55k each |
 | **TOTAL** | **$269-430.5k** | **$2.57-3.81M revenue** | **7-9x** | Mixed risk profile |
 
 *Paid Ads = Multi-channel (Google $72-120k + LinkedIn $36-72k + Meta $12-48k)
