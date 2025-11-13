@@ -672,9 +672,18 @@
 | **TOTAL** | **4-6 migrations** | **4-6** | **Premier/Platinum** | **$300-450k** |
 
 **Current Pipeline:**
+
+*Plus Migrations (count toward 4+ Premier requirement):*
 - Jerome's Furniture: ~$75k (Q1, on hold due to tariffs) 🟡 Medium confidence
 - Bolle Brands: ~$100-150k (Q2, low communication, came from founder cold outreach) 🟡 Medium confidence
-- **Gap:** Need 10-12 migration SQLs from Martal (unproven) or alternative sources
+
+*Advanced Migrations (don't count toward Plus requirement but valuable revenue):*
+- Instinct Pet Foods: $50k (Q1-Q2, WordPress → Shopify Advanced) ✅ Confirmed
+  - Note: Currently wholesale-only; could become Plus candidate if they launch online like Great Star Tools
+
+*Migration Gap:*
+- **Need 2-4 Plus migrations minimum** to hit 4+ Premier requirement by Q3 2026
+- Martal should be targeting Plus-specific prospects (unproven, but intent is there)
 
 **Migration Sources to Hit 4 Closes (if Martal works):**
 - Current pipeline (Jerome's, Bolle): 1 expected close
@@ -736,9 +745,10 @@
 - [ ] **Monthly:** Track migration pipeline and certification progress
 
 **Confirmed Pipeline for Q1-Q2 2026:**
+- **Instinct Pet Foods - WordPress → Shopify Advanced:** $50k (4-6 month project, kicking off January 2026) - Quote provided, timeline Q1-Q2
 - **Great Star Tools - Shop-Vac:** $19-23k (Q1-Q2 billable project) - Quote already provided, expect confirmation by end Jan 2026
-- **Jerome's Furniture:** ~$75k (on hold due to tariffs, follow up in Jan)
-- **Bolle Brands:** ~$100-150k (low communication, follow up for Q2 commitment)
+- **Jerome's Furniture:** ~$75k (Plus migration, on hold due to tariffs, follow up in Jan)
+- **Bolle Brands:** ~$100-150k (Plus migration, low communication, follow up for Q2 commitment)
 
 **Tracking:** Quarterly reporting to co-founders on both migration pipeline and certification completion progress.
 
