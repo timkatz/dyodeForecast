@@ -53,11 +53,11 @@ Cross-selling, generating referrals, and collecting reviews are **expected job r
 - Control operational expenses
 - Support cross-sell and referral pipeline
 
-**Why These Matter:**
-- **Cross-sells** → Higher retention (multi-service clients stay 50-70% longer) → Lower churn → Better margins
-- **Referrals** → Lower acquisition cost → Better margins
-- **Reviews** → Inbound leads → Lower acquisition cost → Better margins
-- **Better margins** → Unlocks raises for everyone
+**Why These Matter (2025 Proof Points):**
+- **Cross-sells** → Multi-service clients have 100% retention vs. 43% for single-service (2.3x difference!)
+- **Referrals** → Lower acquisition cost ($500-2k vs. $5-15k), faster close cycles (15-30 days)
+- **Reviews** → Inbound leads, lower acquisition cost, build competitive advantage
+- **Better margins** → Unlocks raises for everyone in Q2-Q4 2027
 
 ---
 
@@ -218,13 +218,13 @@ After 12 layoffs, the team needs to rally together, not compete with each other.
 ### Scenario 1: Strong Execution (Best Case)
 
 **2026 Performance:**
-- Q1: 6%, Q2: 10%, Q3: 13%, Q4: 14%
-- Full-year average: 10.75%
+- Q1: 5-6%, Q2: 10-11%, Q3: 13-14%, Q4: 14-15%
+- Full-year average: 11-12%
 
 **What You Get:**
-- **January 2027:** $1,250 bonus
-- **Q2 2027:** Raises unlock (Q2+Q3+Q4 all hit 12%+)
-- **Total:** $1,250 + 3-5% annual raise (15 months from last raise)
+- **January 2027:** $1,250-2,000 bonus (depending on exact margin)
+- **Q2 2027 or earlier:** Raises unlock if 3 consecutive quarters hit 12%+
+- **Total:** Bonus + 3-5% annual raise (15+ months from Oct 2024)
 
 ---
 

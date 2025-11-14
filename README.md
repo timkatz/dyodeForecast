@@ -21,10 +21,11 @@ Strategic planning for DYODE, an eCommerce agency specializing in Shopify and Bi
 **What is DYODE?**
 eCommerce agency providing Shopify/BigCommerce development, digital marketing, and consulting services to brands with $10M+ revenue.
 
-**Current State (Nov 2025):**
-- Revenue: ~$3.4M, MRR: $293k, Profit Margin: 0.3% (breakeven)
-- 30 active clients
-- Team in salary freeze after 18 months of turbulence (12 layoffs)
+**Current State (November 2025):**
+- Revenue: $3.6M accrual / $3.4M cash (YTD through October), MRR: $293k, Profit Margin: 0.26% cash basis (breakeven)
+- 30 active unique clients, 53 total clients (30 active unique, 20 lost in 2025)
+- 58 service engagements total (28 service losses in 2025)
+- Team in salary freeze after 18 months of turbulence (12 layoffs in April 2024, 2 additional in 2025)
 
 **Historical Context:**
 Peak revenue of $4.86M (2022) declined to $3.4M (2025) through aggressive hiring, market contraction, tariff impacts, and extreme quarterly profit margin volatility (1.3% → 5.5% → 8.5% → 0.1% in 2025).
@@ -39,37 +40,30 @@ Peak revenue of $4.86M (2022) declined to $3.4M (2025) through aggressive hiring
 
 ## 2026 Strategy Documents
 
-### For Co-Founders
+### Core Strategy (Start Here)
 
-**Start here for strategic overview:**
+1. **executive-summary-cofounders.md** - For co-founders: 2025 recap, 2026 strategy, financial scenarios, key risks
+2. **executive-summary-management.md** - For management team: role-specific responsibilities, KPIs, churn analysis
+3. **2026-sales-forecast.md** - Revenue projections, monthly/quarterly targets, service-specific strategies
+4. **executive-summary-account-managers.md** - For delivery teams: bonus structure, raise unlock criteria, growth playbooks
 
-1. **executive-summary-cofounders.md** - Strategic summary, financial scenarios, decision points
-2. **FINAL-2026-COMPENSATION-PLAN.md** - Year-end bonuses + raise unlock criteria
-3. **sustainable-growth-framework-2026.md** - Complete execution framework and financial guardrails
-4. **raise-unlock-framework.md** - Historical context and rationale for 3-quarter criteria
+### Growth & Client Strategy
 
-### For Management Team
-
-**Operational execution guidance:**
-
-5. **executive-summary-management.md** - Role-specific responsibilities, success metrics, FAQ
-6. **2026-sales-forecast.md** - Revenue targets, MRR projections, growth strategies
-7. **martal-targeting-strategy.md** - Lead generation targeting and messaging
+5. **martal-targeting-strategy.md** - Martal partnership targeting, messaging, and qualification criteria
+6. **past-service-history.md** - Clients to avoid for cross-sell efforts (documented failure points)
 
 ### Data & Reference
 
-8. **client-data.csv** - Master client database (53 clients, 30 active)
-9. **past-service-history.md** - Clients to avoid for cross-sell efforts
-10. **CLAUDE.md** - Repository conventions, team structure, business context
+- **data/client-data.csv** - Master client database (53 total, 30 active, 20 lost in 2025)
+- **data/dyode-profit-accrual.csv** - Accrual basis financials
+- **data/dyode-profit-cash.csv** - Cash basis financials
+- **data/shopify-courses.csv** - Shopify certification tracking
+- **CLAUDE.md** - Repository conventions, team structure, business context
 
-### Planning Evolution (Archive)
+### Historical Context
 
-**archive/** folder contains:
-- Strategic decision rationale
-- Individual incentive program exploration (scrapped approach)
-- Historical reference documents
-
-See **archive/README.md** for details on what was explored and why it was superseded.
+- **next-steps.md** - Current status and immediate action items for January 2026 kickoff
+- **NEXT-STEPS.md** (archived) - Previous planning documents and decision rationale
 
 ## License
 

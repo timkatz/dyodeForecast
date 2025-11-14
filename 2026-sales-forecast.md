@@ -187,7 +187,7 @@ Throughout this document, "clients" refers to **unique companies** unless otherw
 **Development: 11 Service Engagements Lost (All Unique Clients)**
 - Black Halo (4/30/25) - Retainer $5,431 MRR
 - Forks Over Knives (5/1/25) - Project $14,250/mo
-- Jessica Simpson (10/21/25) - Ad-Hoc $2,817 MRR
+- Jessica Simpson (7/4/25) - Ad-Hoc $2,817 MRR
 - Loved01 (9/29/25) - Project $1,125/mo
 - Manhattan Beachwear (4/30/25) - Retainer $4,725 MRR
 - More Prepared (3/30/25) - Project $4,987/mo
@@ -195,11 +195,11 @@ Throughout this document, "clients" refers to **unique companies** unless otherw
 - Rokform (10/21/25) - Ad-Hoc $225
 - TEdwards Wines (10/21/25) - Project $20,178/mo
 - TripleK (10/14/25) - Project $8,650/mo
-- Wix (ending 2025) - Project $13,000/mo
+- Wix (6/4/25) - Project $13,000/mo
 - **All 11 = complete client loss**
 
 **Marketing: 10 Service Engagements Lost (All Unique Clients)**
-- Buttercloth (ending 1/1/26) - Retainer $7,000 MRR
+- Buttercloth (10/30/25) - Retainer $7,000 MRR (early termination)
 - Cratejoy (3/31/25) - Retainer $8,500 MRR
 - Exclusive Fabrics (9/30/25) - Retainer $6,896 MRR
 - Group A (1/1/25) - Retainer $4,700 MRR
@@ -207,21 +207,22 @@ Throughout this document, "clients" refers to **unique companies** unless otherw
 - LRG (8/31/25) - Retainer $9,676 MRR
 - Rottweiler (2/14/25) - Retainer $2,192 MRR
 - Spirit Jersey (6/16/25) - Retainer $6,458 MRR
-- The Bruery (ending 2025) - Retainer $9,970 MRR
-- Zgallerie (4/30/25) - Retainer $15,992 MRR
+- The Bruery (8/14/25) - Retainer $9,970 MRR (last day of service)
+- Zgallerie Marketing (3/31/25) - Retainer $9,000 MRR
 - **All 10 = complete client loss**
 
-**Consulting: 3 Service Engagements Lost (2 Unique Clients)**
+**Consulting: 3 Service Engagements Lost (3 Unique Clients)**
 - 3HNails (11/3/25) - Retainer $8,000 MRR - Complete client loss ❌
 - Cavaco (1/31/25) - Retainer $4,000 MRR - Complete client loss ❌
+- Zgallerie Consulting (4/30/25) - Retainer $15,992 MRR - Complete client loss ❌
 - **Tipsy Elves (10/31/25) - Retainer $3,000 MRR - SERVICE loss only, client retained via Development ✅**
 
 ---
 
 **Lost Client Revenue Impact:**
-- Retainer MRR lost: ~$112k annually
-- Project revenue lost: ~$70k (one-time)
-- **Total revenue impact: ~$180k annually**
+- Retainer MRR lost: ~$121.5k annually (Development $25.1k + Marketing $65.4k + Consulting $31k from losses + Great Star Tools/Tipsy Elves reductions)
+- Project revenue lost: ~$224.5k (one-time)
+- **Total revenue impact: ~$346.5k in potential annual revenue**
 
 **Key Insight:**
 - Only 1 of 24 service losses (4%) was from a multi-service client who stayed
@@ -235,8 +236,8 @@ Throughout this document, "clients" refers to **unique companies** unless otherw
 **Overall Unique Client Churn:**
 - **Starting unique clients:** ~50-52 (estimated Jan 2025)
 - **Unique clients added:** 13
-- **Unique clients lost:** 21 (not 22 - Tipsy Elves retained)
-- **Net unique client change:** -8 clients
+- **Unique clients lost:** 20 (Tipsy Elves retained as multi-service)
+- **Net unique client change:** -7 clients
 - **Ending unique clients:** 30 (as of November 2025)
 - **Unique client churn rate:** ~38-40% (industry benchmark: 15-20%)
 
@@ -263,20 +264,20 @@ Throughout this document, "clients" refers to **unique companies** unless otherw
 **Consulting Service Churn:**
 - Starting service engagements: ~5
 - Added: 3 service engagements (includes 2 to existing clients: MadEngine, Tipsy Elves)
-- Lost: 3 service engagements
-  - 2 complete client losses (3HNails, Cavaco)
+- Lost: 4 service engagements
+  - 3 complete client losses (3HNails, Cavaco, Zgallerie)
   - **1 service loss, client retained (Tipsy Elves kept Development)** ✅
-- **Net change: 0**
-- **Service churn rate: ~60%** (unsustainable)
-- **Client retention when lost: 33%** (Tipsy Elves stayed)
+- **Net change: -1**
+- **Service churn rate: ~80%** (unsustainable)
+- **Client retention when lost: 25%** (Tipsy Elves stayed)
 
 ---
 
 **Key Findings:**
 
-1. **96% of service losses = complete client loss** (23 of 24 service engagements lost)
+1. **95% of service losses = complete client loss** (27 of 28 service engagements lost)
 2. **Only 1 multi-service client (Tipsy Elves) retained after losing a service**
-3. **This proves multi-service client value** - they're stickier (33% retained vs. 0%)
+3. **This proves multi-service client value** - they're stickier (25% retained vs. 0% single-service)
 4. **Single-service clients are at extreme risk** - when they leave one service, they leave entirely
 
 ---

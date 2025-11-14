@@ -8,10 +8,24 @@
 
 ## The Bottom Line
 
-**2025 Reality Check:**
-- Current MRR: **$292,946 accrued** (down from $350k+ peak)
-- Projected 2025 Revenue: **$3.6M accrual** (6% margin) / **$3.4M cash** (0.3% margin)
-  - Gap: ~$165k AR from 2 distressed equity clients ($112k: Movano $46k, The Bruery $66k) + other late-paying clients (~$53k)
+**2025 Reality Check (Forecasted):**
+- Current MRR: **$292,946 accrued** (down from $350k+ peak, as of Nov 2025)
+- **Forecasted 2025 Accrual Revenue:** **$3.597M** (-10.0% YoY, Nov-Dec accrual: $585k)
+- **Forecasted 2025 Cash Revenue:** **$3.414M** (-14.2% YoY, Nov: $287k, Dec: $245k)
+- **Accrual-to-Cash Gap:** **$183.5k**
+  - **Primary driver:** $165k distressed AR (Movano $46k, The Bruery $66k, other late payers $53k)
+  - **Secondary driver:** ~$53k accruals in Nov-Dec not yet collected by year-end
+  - **AR Recovery Potential:**
+    - **The Bruery ($66k):** Recently stated they can't pay now but targeting year-end or Q1 — **should push for payment plan to accelerate Dec/Jan collections**
+    - **Movano ($46k):** Held payment due to merger uncertainty, just announced merger this week — **unlikely to pay immediately as a public company with merger complications, but worth pursuing**
+    - **Other late payers ($53k):** Standard collection follow-up needed
+    - **Scenario if Bruery pays in Dec/Q1:** Could swing full year from -$47.7k to near breakeven
+- **Forecasted 2025 Net Profit:**
+  - **Accrual basis:** ~$100-120k (2.8-3.3% margin)
+  - **Cash basis:** -$47.7k (-1.4% margin)
+  - YTD through Oct cash: +$7.5k (barely breakeven)
+  - Q4 operating loss: -$55.2k (Nov: -$4.5k + Dec: -$50.8k)
+    - Driven by revenue cliff (Satechi project end + consulting losses) while expenses remain elevated
 - 3-Year Decline: **Down 26% from $4.88M peak (2022)**
 - Churn Rate: **40% all clients incl. projects/ad-hoc** (21 of 53) / **37% retainer clients** (14 of 38) — Both significantly above 15-20% industry benchmark
 
@@ -30,6 +44,270 @@
 
 ---
 
+## 2025: What Happened
+
+### Historical Decline: Accrual Basis
+
+| Year | Revenue | YoY Change | Net Profit | Profit Margin |
+|------|---------|------------|------------|---------------|
+| 2022 | $4.88M | Peak | $382k | 8.5% |
+| 2023 | $4.86M | -0.6% | $475k | 10.8% |
+| 2024 | $3.99M | -20% | $202k | 5.6% |
+| 2025 (Forecast) | **$3.597M** | **-10.0% (slowing decline)** | **$100-120k** | **2.8-3.3%** |
+
+*Note: Cash basis will be $183.5k lower ($3.414M) due to $165k distressed AR (Movano $46k, The Bruery $66k, other $53k) plus ~$53k in Nov-Dec accruals not yet collected by year-end. The remaining accrual difference of Nov-Dec ($585k accrual vs. $532k cash) represents invoices issued in Q4 but not fully collected within 2025.*
+
+**Cash Basis Reality (Operating Loss Q4):**
+
+| Year | Cash Revenue | YoY Change | Net Profit | Profit Margin |
+|------|---|---|---|---|
+| 2022 | $4.86M | Peak | $383k | 7.89% |
+| 2023 | $4.71M | -3.1% | $350k | 7.45% |
+| 2024 | $3.98M | -15.4% | $362k | 9.09% |
+| 2025 (Forecast) | **$3.414M** | **-14.2% (sharper than accrual)** | **-$47.7k** | **-1.4%** |
+
+**Full Year Cash Basis Forecast (User's Actual Forecast):**
+
+- **YTD through October:** $2.881M net income collected
+  - Profit: +$7.5k (barely breakeven)
+- **November forecast:** $287k cash revenue vs. $292k expenses = **-$4.5k loss**
+  - Satechi project billing ends ($36k/3mo contract Sep-Nov)
+  - $13.5k Satechi revenue deferred to Q1 2026
+- **December forecast:** $245k cash revenue vs. $296k expenses = **-$50.8k loss**
+  - Satechi project revenue completely ends
+  - Consulting client losses: 3HNails ($8k) + Tipsy Elves Consulting ($3k) no longer billable
+- **Full Q4 deficit:** -$55.2k
+
+**2025 Cash Forecast Summary:**
+- Strong profitability through October (+$7.5k)
+- Steep cliff in Q4 due to Satechi project end + consulting client losses (3HNails $8k, Tipsy Elves Consulting $3k)
+- Full year ends at -$47.7k cash loss (-1.4% margin)
+- **Company was on track to be profitable until Q4 revenue cliff**
+
+**Root Causes of 2025 Decline:**
+1. **Unsustainable churn:** 40% overall incl. projects/ad-hoc (37% retainer) vs. 15-20% industry average
+2. **Failed lead generation experiments:** Tried multiple approaches that didn't work (SDRs, Cleverly - details below)
+3. **No scalable lead generation** (Martal just launched Nov 2025, results TBD) - Google Ads and founder-led work but limited scale
+4. **Too many month-to-month contracts:** 24% of MRR has no commitment
+5. **High project dependency:** 26% of revenue ends naturally
+6. **Economic headwinds:** Client budget freezes, tariffs, inflation (Apr 2025 shock)
+
+### Current Client Base (November 2025)
+
+**Active Clients:** 30 unique clients (58 service engagements)
+- Development: 61% of MRR ($179k)
+- Marketing: 29% of MRR ($84k)
+- Consulting: 6% of MRR ($19k)
+- Ad-Hoc: 4% of MRR ($12k)
+
+**Critical Issues:**
+- **$92k MRR at high risk** (31% of total):
+  - $33k month-to-month clients (Posiedon Bikes, Align Tech, DITA, Stikwood, Tori Richard, United Scope) — no contract protection
+  - Glenmorangie: 2025 accrual Q1 $50k, Q2 $46k, Q3 $67k (no Q4 planned) → 2026 forecast $22.5k/quarter minimum (-55% reduction)
+  - Wyze: $11.6k/mo → Risk of in-house dev hiring in 2026 (potential loss of $140k/year)
+- **Additional headwind:**
+  - No net new booked projects in Q4 2025 going into 2026
+- **Mitigating factors:**
+  - Poseidon Bikes renewed 12-month contract (was month-to-month)
+  - Align Tech renewed 6-month contract (was month-to-month)
+  - Satechi confirmed converting to $6.25k/mo retainer 4/1/2026
+
+**2025 Churn Analysis:**
+- Clients added: 13 unique clients
+- Clients lost: 20 unique clients (21 retainer services + 7 projects/ad-hoc = 28 total service losses)
+- **Net: -7 unique clients** (Tipsy Elves retained as multi-service)
+
+**Complete List of 20 Clients Lost in 2025:**
+
+**DEVELOPMENT RETAINERS (4 lost):**
+1. Black Halo - $5,431/mo → Lost 4/30/2025
+2. Manhattan Beachwear - $4,725/mo → Lost 4/30/2025
+3. Movano - $8,158/mo → Lost 6/19/2025 (equity client, AR issues)
+4. Jessica Simpson - $2,817/mo Ad-Hoc → Lost 7/4/2025
+
+**MARKETING RETAINERS (8 lost):**
+5. Cratejoy - $8,500/mo → Lost 3/31/2025
+6. Exclusive Fabrics - $6,896/mo → Lost 9/30/2025
+7. Group A - $4,700/mo → Lost 1/1/2025
+8. LRG - $9,676/mo → Lost 8/31/2025
+9. Rottweiler - $2,192/mo → Lost 2/14/2025
+10. Spirit Jersey - $6,458/mo → Lost 6/16/2025
+11. The Bruery - $9,970/mo → Lost 8/14/2025 (last day of service, distressed client, AR issues)
+12. Buttercloth - $7,000/mo → Lost 10/30/2025 (early termination)
+13. Zgallerie Marketing - $9,000/mo → Lost 3/31/2025
+
+**CONSULTING RETAINERS (3 lost):**
+14. 3HNails - $8,000/mo → Lost 11/3/2025 (scope misalignment: promised marketplace access)
+15. Cavaco - $4,000/mo → Lost 1/31/2025 (scope misalignment: promised client referrals)
+16. Zgallerie Consulting - $15,992/mo → Lost 4/30/2025
+
+**DEVELOPMENT PROJECTS/AD-HOC (7 lost):**
+17. Forks Over Knives - $57,000 project → Lost 5/1/2025
+18. HDButterCup - $25,939 project → Lost 8/30/2025
+19. More Prepared - $14,961 project → Lost 3/30/2025
+20. TEdwards Wines - $60,533 project → Lost 10/21/2025
+21. TripleK - $25,950 project → Lost 10/14/2025
+22. Wix - $39,000 project → Lost 6/4/2025 (no retainer conversion)
+23. Loved01 - $1,125 project → Lost 9/29/2025
+
+**Summary by Type:**
+- **Development Retainers:** 4 lost ($21.1k MRR) + Great Star Tools service reduction ($4k) = **$25.1k total dev impact**
+- **Marketing Retainers:** 8 lost ($65.4k MRR - includes Buttercloth, The Bruery, and Zgallerie Marketing)
+- **Consulting Retainers:** 3 lost ($27.992k MRR: 3HNails $8k + Cavaco $4k + Zgallerie Consulting $15.992k) + Tipsy Elves service reduction ($3k) = **$30.992k total consulting impact**
+- **Projects/Ad-Hoc:** 7 lost (~$224.5k in project revenue - includes Wix at $39k)
+
+**Churn by Client Type:**
+- **All clients (incl. projects & ad-hoc):** 20 of 53 clients lost = **38% churn rate**
+- **Retainer clients only:** 13 of 38 retainer clients lost = **34% churn rate**
+  - Still **2x+ industry benchmark** of 15-20%
+- **Multi-service client retention: 100%** (4 of 4 retained, including Tipsy Elves who lost Consulting but kept Dev)
+
+**Detailed Service-Level Churn (2025):**
+
+**DEVELOPMENT RETAINERS: 7 Lost (including 1 service reduction)**
+- **Lost entirely (4 clients):**
+  - Black Halo - $5,431/mo → Lost 4/30/2025 (6-month retainer)
+  - Manhattan Beachwear - $4,725/mo → Lost 4/30/2025 (first year client)
+  - Movano - $8,158/mo → Lost 6/19/2025 (equity client, AR issues)
+  - Jessica Simpson - $2,817/mo Ad-Hoc → Lost 7/4/2025
+  - **Subtotal: $21,131/mo dev retainer + ad-hoc**
+
+- **Service reduced (1 client):**
+  - Great Star Tools - Reduced from $16k/mo to $12k/mo (Q1 2026): Development $7.5k → $3.5k (-$4k), Marketing stable at $8.5k. Retained relationship with expansion pipeline (98+ brands to migrate)
+  - **Impact: -$4k/mo dev retainer**
+
+- **Development Retainer MRR Lost: ~$32,381/mo**
+
+**MARKETING RETAINERS: 8 Lost (including 1 service reduction)**
+- **Lost entirely (8 clients):**
+  - Cratejoy - $8,500/mo → Lost 3/31/2025 (early-stage client)
+  - Exclusive Fabrics - $6,896/mo → Lost 9/30/2025 (3+ year client)
+  - Group A - $4,700/mo → Lost 1/1/2025 (first year)
+  - LRG - $9,676/mo → Lost 8/31/2025 (2+ year client)
+  - Rottweiler - $2,192/mo → Lost 2/14/2025
+  - Spirit Jersey - $6,458/mo → Lost 6/16/2025
+  - The Bruery - $9,970/mo → Lost 8/14/2025 (last day of service, distressed client, AR issues)
+  - Buttercloth - $7,000/mo → Lost 10/30/2025 (early termination)
+  - Zgallerie Marketing - $9,000/mo → Lost 3/31/2025
+  - **Subtotal: $65,362/mo marketing retainer**
+
+- **Service reduced (0 clients):**
+  - Great Star Tools Marketing - Stable at $8.5k/mo (retained)
+  - **No reduction on marketing side**
+
+- **Marketing Retainer MRR Lost: ~$65,362/mo**
+
+**CONSULTING RETAINERS: 3 Lost (3 lost entirely, 1 service reduction)**
+- **Lost entirely (3 clients):**
+  - 3HNails - $8,000/mo → Lost 11/3/2025 (misaligned expectations: client assumed we could launch 30 marketplaces in 90 days)
+  - Cavaco - $4,000/mo → Lost 1/31/2025 (scope misalignment: promised 10 client referrals)
+  - Zgallerie Consulting - $15,992/mo → Lost 4/30/2025
+  - **Subtotal: $27,992/mo consulting retainer**
+
+- **Service reduced (1 client):**
+  - Tipsy Elves Consulting - $3,000/mo → Lost 10/31/2025 (but Development retained at $7,500/mo)
+  - **Impact: -$3,000/mo consulting**
+
+- **Consulting Retainer MRR Lost: ~$30,992/mo**
+
+**PROJECTS/AD-HOC LOST (7 completions/losses):**
+- Forks Over Knives - $57,000 project → Lost 5/1/2025
+- HDButterCup - $25,939 project → Lost 8/30/2025
+- More Prepared - $14,961 project → Lost 3/30/2025
+- TEdwards Wines - $60,533 project → Lost 10/21/2025
+- TripleK - $25,950 project → Lost 10/14/2025
+- Wix - $39,000 project → Lost 6/4/2025 (no retainer conversion)
+- Loved01 - $1,125 project → Lost 9/29/2025
+- **Total Project Revenue Lost: ~$224,508** (plus SiO Beauty $4,500 partial completion)
+
+**Summary of 2025 Service-Level Losses:**
+- Development Retainers: -$25.1k MRR (4 complete losses + 1 service reduction)
+- Marketing Retainers: -$65.4k MRR (8 complete losses, includes Zgallerie Marketing)
+- Consulting Retainers: -$31k MRR (3 complete losses + 1 service reduction, includes Zgallerie Consulting)
+- **Total Retainer MRR Lost: ~$121.5k MRR**
+- Projects/Ad-Hoc: ~$224.5k in project revenue (natural completions)
+- **Total 2025 Service Loss: ~$346.5k in potential annual revenue**
+
+**Key Pattern — Expectation-Setting Failures:**
+- 3HNails: Client made assumptions (30+ marketplace integrations) that weren't part of the service scope; we didn't promise it but couldn't deliver their expectation
+- Cavaco: Unclear what referral support service would actually deliver
+- Both were founder-led deals where specific outcomes weren't documented before engagement started
+- Tipsy Elves kept Development ($7.5k/mo) when Consulting ended, proving multi-service resilience
+
+### What We Did Right
+
+1. **Launched Martal partnership** (Nov 1, 2025 - just started)
+   - $18k/quarter for 2 SDRs + account manager (3-month pilot)
+   - 18 guaranteed SQLs focused on refined ICP (Shopify Plus, $10M+)
+   - ABM approach with personalized outreach vs. previous batch-and-blast methods
+   - Too early to know results - decision point in Jan 2026
+
+2. **Google Ads delivered some results** (launched March 2025)
+   - $6k/month budget focused on Southern California (LA, OC, SD), recently expanded to all California
+   - 4 clients closed: TripleK, Blueme, Kyles (projects), Nowadays (retainer)
+   - Below ICP but better than nothing; needs optimization for larger targets
+
+3. **Founder-led sales proved effective when done**
+   - Closed 3 clients: Pair of Thieves, 3HNails, Tipsy Elves
+   - Problem: Ad hoc, no goals, only when we remember or business slows
+
+4. **Maintained key client relationships**
+   - AG Jeans, Great Star Tools, Glenmorangie still active
+   - Some clients renewed despite market conditions
+
+5. **Stabilized Q3-Q4**
+   - MRR held around $290k vs. continued decline
+
+### What We Tried But Failed (Lessons Learned)
+
+**Timeline:** SDRs (early-mid 2025) → Cleverly (mid-late 2025) → Martal (Nov 1, 2025 - pilot in progress)
+
+1. **In-house SDRs** (tried sequentially, ~3 months each):
+   - Full-time W2 SDR (~$70k/year)
+   - 1099 offshore contractor ($2.5k/month, Latin America)
+   - Activities: Cold email, LinkedIn outreach, cold calling
+   - Result: **0 meetings, 0 deals** → Let both go
+
+2. **Cleverly agency** (~$2k/month for 3 months, after SDRs failed):
+   - Smaller team, high-volume batch-and-blast approach
+   - Activities: Cold email, LinkedIn outreach, LinkedIn ghost writing for founder profile
+   - No SQL guarantees, less refined targeting
+   - Result: Few meetings but **all below ICP, 0 deals** → Stopped
+
+**What We're Testing Now:**
+
+3. **Martal partnership** ($6.7k/mo = $18k/quarter, launched Nov 1, 2025 - 3-month pilot):
+   - **Key differences from Cleverly:**
+     - Larger team: 2 SDRs + account manager (vs. small team at Cleverly)
+     - Account Based Marketing (ABM) with personalized outreach (vs. batch-and-blast)
+     - Refined ICP targeting: Shopify Plus, $10M+ revenue merchants
+     - **18 guaranteed SQLs** over 3 months (vs. no guarantee)
+   - Activities: Personalized cold email, LinkedIn, cold calls
+   - **Too early to evaluate** - will assess results in Jan 2026
+
+**Lesson:** Cold outbound has failed twice (SDRs, Cleverly). Martal is testing a different approach (ABM vs. batch-and-blast, SQL guarantee, refined ICP), but still unproven. **Must diversify with warmer channels** (referrals, inbound, tradeshows) regardless of Martal outcome - can't rely on one unproven channel.
+
+---
+
+### What We Didn't Do (But Need To)
+
+1. ❌ **Systematic client retention process** (QBRs, renewal outreach, health monitoring)
+   - Lost $96k MRR from 13 retainer clients; many were preventable with better account management
+   - Marketing especially vulnerable (56% churn rate = 6 of ~11 marketing retainers lost)
+
+2. ❌ **Clear expectation-setting for founder-led deals** (3HNails & Cavaco failed due to misaligned expectations)
+   - 3HNails: Client expected 30+ marketplace integrations (unrealistic scope), we didn't promise it but they interpreted it that way ($8k/mo lost)
+   - Cavaco: Unclear what referral support would look like ($4k/mo lost)
+   - Solution: Document and agree on specific deliverables/outcomes before contract signature
+
+3. ❌ **Leverage existing clients** for cross-sells and referrals (30 clients = untapped asset)
+4. ❌ **Build social proof** (Clutch reviews, case studies, testimonials)
+5. ❌ **Enforce minimum contract terms** (too many month-to-month, no commitment)
+6. ❌ **Make founder-led sales systematic** (works when done, but ad hoc with no process/goals)
+7. ❌ **Optimize Google Ads for ICP** (bringing in clients, but below target profile/deal size)
+
+---
+
 ## 2026 Critical Path: What Must Happen
 
 **Three interconnected business imperatives for 2026 — all must succeed:**
@@ -38,9 +316,9 @@
 **Why it's critical:** Only reliable revenue source if Martal fails (like SDRs + Cleverly); feeds both revenue growth AND Shopify Plus migrations
 
 **2026 Targets:**
-- **Tim:** $19.5-55k new MRR (Development primary, marketing secondary)
-- **George:** $19.5-55k new MRR (Marketing primary, development + consulting secondary)
-- **Combined:** $39-110k new MRR + 0.4-0.8 consulting upsells
+- **Tim:** 2-5 deals, $19.5-55k new MRR (~$5-15k avg MRR per deal, Development primary, marketing secondary)
+- **George:** 2-5 deals, $19.5-55k new MRR (~$5-15k avg MRR per deal, Marketing primary, development + consulting secondary)
+- **Combined:** 4-10 deals, $39-110k new MRR (~$5-15k avg MRR per deal) + 0.4-0.8 consulting upsells
 - **Time commitment:** 2 hours/week per founder
 - **Success metric:** Monthly pipeline tracking, scope validation calls, overachievement visibility
 
@@ -113,121 +391,6 @@
 - ❌ Founder-led sales underperforms (backup plan gone + 1-2 fewer migrations)
 - ❌ Bolle + Martal both disappoint (only Jerome's counts, need 3 more with limited sources)
 - ❌ Churn continues at 37%+ (revenue growth gets washed away)
-
----
-
-## 2025: What Happened
-
-### The Decline Accelerated (Accrual Basis)
-
-| Year | Revenue | YoY Change | Profit Margin |
-|------|---------|------------|---------------|
-| 2022 | $4.88M | Peak | 8.5% |
-| 2023 | $4.86M | -0.6% (manageable) | 10.8% |
-| 2024 | $3.87M | -20% (concerning) | 5.6% |
-| 2025 | $3.6M | **-6.5% (improving but still declining)** | **6.0%** |
-
-**Cash Reality:** 2025 cash revenue ~$3.4M (0.3% margin) due to $165k AR from distressed clients
-
-**Root Causes:**
-1. **Unsustainable churn:** 40% overall incl. projects/ad-hoc (37% retainer) vs. 15-20% industry average
-2. **Failed lead generation experiments:** Tried multiple approaches that didn't work (SDRs, Cleverly - details below)
-3. **No scalable lead generation** (Martal just launched Nov 2025, results TBD) - Google Ads and founder-led work but limited scale
-4. **Too many month-to-month contracts:** 24% of MRR has no commitment
-5. **High project dependency:** 26% of revenue ends naturally
-6. **Economic headwinds:** Client budget freezes, tariffs, inflation (Apr 2025 shock)
-
-### Current Client Base (November 2025)
-
-**Active Clients:** 30 unique clients (58 service engagements)
-- Development: 61% of MRR ($179k)
-- Marketing: 29% of MRR ($84k)
-- Consulting: 6% of MRR ($19k)
-- Ad-Hoc: 4% of MRR ($12k)
-
-**Critical Issues:**
-- **$92k MRR at high risk** (31% of total) ✅ **IMPROVED:**
-  - $60k projects ending Q1 (Satechi converting to retainer 4/1/26!)
-  - $33k month-to-month (down from $67k - Poseidon & Align renewed!)
-  - $19k client reductions likely (Glenmorangie, Wyze)
-- **Recent wins:** Poseidon (12mo), Align Tech (6mo), Satechi conversion ✅
-
-**2025 Churn Analysis:**
-- Clients added: 13 unique clients
-- Clients lost: 21 unique clients (24 service engagements)
-- **Net: -8 unique clients**
-
-**Churn by Client Type:**
-- **All clients (incl. projects & ad-hoc):** 21 of 53 clients lost = **40% churn rate**
-  - Breakdown: 14 retainers + 5 projects + 2 ad-hoc clients
-- **Retainer clients only:** 14 of 38 retainer clients lost = **37% churn rate**
-  - Still **2x+ industry benchmark** of 15-20%
-- Service churn by type: Dev 44%, Marketing 56%, Consulting 60%
-- **Multi-service client retention: 100%** (4 of 4 retained, including Tipsy Elves who lost Consulting but kept Dev)
-
-### What We Did Right
-
-1. **Launched Martal partnership** (Nov 1, 2025 - just started)
-   - $18k/quarter for 2 SDRs + account manager (3-month pilot)
-   - 18 guaranteed SQLs focused on refined ICP (Shopify Plus, $10M+)
-   - ABM approach with personalized outreach vs. previous batch-and-blast methods
-   - Too early to know results - decision point in Jan 2026
-
-2. **Google Ads delivered some results** (launched March 2025)
-   - $6k/month budget focused on Southern California (LA, OC, SD), recently expanded to all California
-   - 4 clients closed: TripleK, Blueme, Kyles (projects), Nowadays (retainer)
-   - Below ICP but better than nothing; needs optimization for larger targets
-
-3. **Founder-led sales proved effective when done**
-   - Closed 3 clients: Pair of Thieves, 3HNails, Tipsy Elves
-   - Problem: Ad hoc, no goals, only when we remember or business slows
-
-4. **Maintained key client relationships**
-   - AG Jeans, Great Star Tools, Glenmorangie still active
-   - Some clients renewed despite market conditions
-
-5. **Stabilized Q3-Q4**
-   - MRR held around $290k vs. continued decline
-
-### What We Tried But Failed (Lessons Learned)
-
-**Timeline:** SDRs (early-mid 2025) → Cleverly (mid-late 2025) → Martal (Nov 1, 2025 - pilot in progress)
-
-1. **In-house SDRs** (tried sequentially, ~3 months each):
-   - Full-time W2 SDR (~$70k/year)
-   - 1099 offshore contractor ($2.5k/month, Latin America)
-   - Activities: Cold email, LinkedIn outreach, cold calling
-   - Result: **0 meetings, 0 deals** → Let both go
-
-2. **Cleverly agency** (~$2k/month for 3 months, after SDRs failed):
-   - Smaller team, high-volume batch-and-blast approach
-   - Activities: Cold email, LinkedIn outreach, LinkedIn ghost writing for founder profile
-   - No SQL guarantees, less refined targeting
-   - Result: Few meetings but **all below ICP, 0 deals** → Stopped
-
-**What We're Testing Now:**
-
-3. **Martal partnership** ($6.7k/mo = $18k/quarter, launched Nov 1, 2025 - 3-month pilot):
-   - **Key differences from Cleverly:**
-     - Larger team: 2 SDRs + account manager (vs. small team at Cleverly)
-     - Account Based Marketing (ABM) with personalized outreach (vs. batch-and-blast)
-     - Refined ICP targeting: Shopify Plus, $10M+ revenue merchants
-     - **18 guaranteed SQLs** over 3 months (vs. no guarantee)
-   - Activities: Personalized cold email, LinkedIn, cold calls
-   - **Too early to evaluate** - will assess results in Jan 2026
-
-**Lesson:** Cold outbound has failed twice (SDRs, Cleverly). Martal is testing a different approach (ABM vs. batch-and-blast, SQL guarantee, refined ICP), but still unproven. **Must diversify with warmer channels** (referrals, inbound, tradeshows) regardless of Martal outcome - can't rely on one unproven channel.
-
----
-
-### What We Didn't Do (But Need To)
-
-1. ❌ **Systematic client retention process** (QBRs, renewal outreach, health monitoring)
-2. ❌ **Leverage existing clients** for cross-sells and referrals (30 clients = untapped asset)
-3. ❌ **Build social proof** (Clutch reviews, case studies, testimonials)
-4. ❌ **Enforce minimum contract terms** (too many month-to-month, no commitment)
-5. ❌ **Make founder-led sales systematic** (works when done, but ad hoc with no process/goals)
-6. ❌ **Optimize Google Ads for ICP** (bringing in clients, but below target profile/deal size)
 
 ---
 
@@ -398,9 +561,9 @@
 **eTail West (February, Palm Desert) - ONLY SPONSORED SHOW:**
 - Table sponsorship: $15,000
 - Setup/logistics: $2,800
-- Hotel (4 people, 3-4 nights): ~$1,200-1,500
+- Hotel (4 people, 4 nights): $2,500
 - Flights (4 people): ~$1,600-2,000
-- **Total: ~$20,600-21,300**
+- **Total: ~$21,900-22,300**
 - **Historical performance:** Prior years = a few clients, 2025 = 0 clients
 - **2026 expectation:** 0-2 clients (conservative given 2025 performance)
 - **ROI logic:** 1 client pays for entire show; 0 is possible, 2+ is upside
@@ -579,21 +742,28 @@
 **Current Issue: Expectation Misalignment**
 
 Recent client losses revealed a validation gap in the deal structuring phase:
-- **3HNails:** George promised "easy access to 30 new marketplaces" as value prop; client expected DYODE to provide vendor access (unrealistic scope, natural churn)
-- **Cavaco:** Promise to "refer 10 clients" from our network; unrealistic for a consulting firm with limited referral relationships (expectation misalignment)
+- **3HNails:** Client assumed we could launch them on 30+ marketplaces in 90 days; we didn't promise this but couldn't deliver their expectation (misaligned scope)
+- **Cavaco:** Promised to refer 10 clients from our network; unrealistic for a consulting firm with limited referral track record (unrealistic commitment)
+- **Wix:** Promised Wix migration referrals; unrealistic without proven sales track record to make those guarantees (unrealistic commitment)
 
-**Root cause:** Great deals get sourced, but scope expectations don't get validated upfront. When partners source different deals, adding mutual vetting early prevents downstream churn.
+**Root cause:** Scope expectations weren't validated or documented upfront. Deals came in with unclear or unrealistic promises (marketplace access, referrals, migration guarantees) that weren't formally documented or challenged during onboarding.
 
 **What Needs to Change:**
 
-**1. Partnership Validation Process (50/50 founders, peer-review model):**
-- When either partner sources a deal, brief the other before finalizing scope
-- Joint 30-minute call to review: ICP fit, delivery scope clarity, realistic success metrics
-- **Specific focus:** Does the client understand what we can/can't do? Are there unrealistic scope promises? (marketplace access, referral commitments, etc.)
-- This isn't about rejecting deals (revenue matters too), but surfacing scope issues early
-- Goal: Prevent expectation misalignment that naturally leads to churn
+**1. Clearer, More Realistic Contracts:**
+- Define specific, deliverable outcomes (not vague promises like "marketplace access" or "client referrals")
+- Document what we WILL and WON'T do upfront, with clear success metrics
+- Get client sign-off on scope before engagement starts (not verbal agreements)
+- Examples of what NOT to include: "30+ marketplace integrations," "10 referrals from DYODE," "Wix migration guarantees"
+- Goal: Legal clarity and shared understanding; if it's not in the contract, we're not promising it
 
-**2. Set Clear Individual Goals (Based on Portfolio Analysis):**
+**2. Stronger Legal Protections:**
+- Ensure contracts include scope limitations and realistic timelines
+- Add language that distinguishes between what we deliver vs. what clients need to do
+- Require written approval on scope changes (not ad-hoc scope creep)
+- Make clear what we can't guarantee (marketplace vendor relationships, referral outcomes, integration availability)
+
+**3. Set Clear Individual Goals (Based on Portfolio Analysis):**
 
 **EQUAL 2026 MRR TARGETS FOR BOTH PARTNERS:**
 - **Tim & George each: $19.5-55k new MRR target** (combined $39-110k)

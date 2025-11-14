@@ -1,25 +1,27 @@
 # NEXT STEPS - Action Items
 
-**Last Updated:** December 2025
-**Status:** Awaiting co-founder review and approval
+**Last Updated:** November 2025
+**Status:** Strategy finalized. Ready for January 2026 team kickoff.
 
 ---
 
 ## 🎯 Where We Are
 
 **Completed:**
-- ✅ Developed complete 2026 sustainable growth & compensation strategy
-- ✅ Analyzed individual incentive approach vs. company-wide approach
-- ✅ **DECIDED:** Company-wide approach (NO individual incentives)
-- ✅ Created year-end bonus structure + raise unlock criteria
-- ✅ Updated all documentation with George as co-founder
-- ✅ Incorporated 2025 quarterly profit margin data (1.3% → 5.5% → 8.5% → 0.1%)
-- ✅ Committed all work to GitHub
+- ✅ 2025 financial analysis (accrual vs. cash basis, AR recovery strategy)
+- ✅ 20 clients lost analyzed (lost dates validated, service-level churn tracked)
+- ✅ Company-wide approach finalized (NO individual commissions)
+- ✅ Year-end bonus structure approved (graduated $0-$2,000 based on margin)
+- ✅ Raise unlock criteria finalized (3 consecutive quarters at 12%+, not 2)
+- ✅ 2026 growth strategy detailed (Martal, cross-sells, referrals, reviews)
+- ✅ Four core strategy documents completed and validated
+- ✅ CSV files organized into data/ subfolder
 
-**Current State:**
-- All strategy documents ready for review
-- Awaiting co-founder feedback
-- Not yet communicated to team
+**Current State (November 2025):**
+- Strategy documents finalized and accurate
+- Financial data validated (client-data.csv updated with lost dates)
+- Ready for January 2026 team announcement
+- All cross-references aligned across documents
 
 ---
 
@@ -29,211 +31,178 @@
 
 1. **README.md** - Overview and navigation guide
 
-2. **FINAL-2026-COMPENSATION-PLAN.md** ⭐ **MAIN DOCUMENT**
-   - Approved compensation approach
-   - Year-end bonuses (Jan 2027, graduated structure)
-   - Raise unlock criteria (3 consecutive quarters at 12%+)
-   - Budget scenarios and communication templates
+2. **executive-summary-cofounders.md** ⭐ **FOR CO-FOUNDERS**
+   - 2025 performance recap (revenue, margin, clients lost)
+   - 2026 strategy overview and scenarios
+   - Key risks and recovery actions
+   - Financial investment needed ($107-130k)
 
-3. **sustainable-growth-framework-2026.md** - Execution plan
-   - Complete 2026 strategy
-   - Financial guardrails
-   - Quarterly milestones
-   - January 2026 all-hands kickoff plan
+3. **executive-summary-management.md** - FOR MANAGEMENT TEAM
+   - Role-specific responsibilities
+   - Success metrics by team
+   - Client churn analysis and retention strategy
+   - FAQ and communication guidance
 
-4. **raise-unlock-framework.md** - Historical context
-   - Why we changed from 2 quarters to 3
-   - 2025 quarterly data and lessons learned
-   - Detailed unlock scenarios
+4. **2026-sales-forecast.md** - Detailed revenue projections
+   - Historical analysis (2018-2025)
+   - Monthly/quarterly targets for 2026
+   - Service-specific growth strategies
+   - Shopify Plus migration pipeline
 
-5. **FINAL-APPROACH-SUMMARY.md** - Decision rationale
-   - What we scrapped (individual incentives)
-   - What we approved (company-wide approach)
-   - Why we made this choice
-
----
-
-## ✅ Immediate Next Steps (This Week)
-
-### 1. Co-Founders Review (Tim & George)
-
-**Action:** Review the three core documents above
-
-**Key Questions to Answer:**
-- ✅ Approve company-wide approach (vs. individual incentives)?
-- ✅ Approve year-end bonus structure (graduated $0-$2,000)?
-- ✅ Approve 3 consecutive quarters criteria (vs. 2)?
-- ✅ Approve budget (~$100-180k over 2 years)?
-
-**Deliverable:** Co-founder approval to proceed OR feedback for revisions
+5. **executive-summary-account-managers.md** - FOR DELIVERY TEAMS
+   - Year-end bonus structure and raise unlock criteria
+   - Cross-sell, referral, and review playbooks
+   - Monthly transparency format
+   - Success scenarios and timeline
 
 ---
 
-### 2. Finalize Bonus Amounts (If Needed)
+## ✅ Immediate Next Steps (January 2026 Kickoff)
 
-**Current Structure:**
+### 1. All-Hands Meeting (Week of Jan 6-10, 2026)
 
-| 2026 Full-Year Avg Margin | Bonus Per Person |
-|---------------------------|------------------|
-| 0-3% (no improvement) | $0 |
-| 4-6% (modest) | $400 |
-| 7-9% (significant) | $750 |
-| 10-11% (close to goal) | $1,250 |
-| 12%+ (goal achieved) | $2,000 |
+**Action:** Present 2026 plan to entire team
 
-**Questions:**
-- Do these amounts feel right?
-- Too generous? Too conservative?
-- Should we adjust tiers?
+**Talking Points:**
+- 2025 recap: What we accomplished despite turbulence (avoided $200k loss)
+- 2026 goal: $4.2M revenue, $370-380k MRR, 12%+ profit margin
+- Team role: Cross-sells, referrals, reviews, excellent delivery
+- Rewards: Year-end bonuses (Jan 2027) + raises when we hit 12%+ for 3 consecutive quarters
+- Transparency: Monthly town halls showing exactly where we stand
 
-**Action:** Confirm or revise
+**Deliverable:** Team understanding, buy-in, and commitment to 2026 execution
 
 ---
 
-### 3. Confirm Team Size for Budget
+### 2. Launch Monthly Transparency
 
-**Current assumption:** ~40 people
+**Action:** Establish monthly town hall cadence (every month in 2026)
 
-**Action:** Confirm actual headcount for budget calculations
+**Format (10 minutes):**
+- Profit margin this month: X%
+- Quarter YTD average: X%
+- 2026 YTD average: X%
+- Bonus tracking: On track for $X range in Jan 2027
+- Progress toward raises: Need 3 consecutive quarters at 12%+ (currently X quarters)
+- Growth activities: Cross-sells, referrals, reviews (counts and targets)
+- Team recognition: Shoutouts for contributions
 
-**Impact on budget:**
-- 30 people: ~$60k max (vs. ~$80k)
-- 40 people: ~$80k max
-- 50 people: ~$100k max
+**Deliverable:** Monthly updates, team confidence in transparency
+
+---
+
+### 3. Begin Executing 2026 Growth Strategy
+
+**Action:** Launch all growth initiatives in parallel
+
+**Initiatives:**
+- **Martal Partnership:** Lead generation for new clients (already in pipeline)
+- **Cross-Sells:** Account managers identify opportunities (target: 6-8 for year)
+- **Referrals:** Ask satisfied clients for introductions (target: 5-8 conversions)
+- **Clutch Reviews:** Collect success stories after project completion (target: 10-15)
+
+**Deliverable:** Consistent pipeline and growth momentum throughout 2026
 
 ---
 
 ## 📅 Timeline for Execution
 
-### Week of Dec 16-20, 2025:
-- [ ] Co-founders complete review of core documents
-- [ ] Approve final approach OR provide feedback for revisions
-- [ ] Confirm headcount and finalize budget
-- [ ] Begin drafting all-hands presentation
+### Now (November 2025):
+- ✅ Strategy documents finalized
+- ✅ Financial data validated
+- ⏳ Preparing all-hands presentation
+
+### Week of Dec 16-20, 2025 (Optional, If Needed):
+- Optional: Soft prep with management team
+- Prepare presentation materials for all-hands
 
 ### Week of Dec 23-31, 2025:
-- [ ] Holiday break (no major work)
-- [ ] Optional: Soft prep with key management team members
+- Holiday break (minimal work)
+- Final prep for January kickoff
 
 ### Week of Jan 6-10, 2026:
-- [ ] **All-hands kickoff meeting** (present 2026 plan)
-- [ ] Launch transparent monthly town hall format
-- [ ] Begin executing growth plan (Martal, cross-sells, referrals)
+- ⏳ **All-hands kickoff meeting** (present 2026 plan)
+- ⏳ Answer team questions and address concerns
+- ⏳ Launch first monthly town hall (January 31)
 
 ### Throughout 2026:
-- [ ] Monthly town halls (10 min profit margin updates)
-- [ ] Quarterly deep dives (30-45 min reviews)
-- [ ] Execute sustainable growth plan
-- [ ] Track progress toward 12%+ margin for 3 consecutive quarters
+- Monthly town halls (10 min profit margin updates)
+- Quarterly deep dives (30-45 min reviews)
+- Execute growth initiatives (Martal, cross-sells, referrals, reviews)
+- Track progress: Need to reach 12%+ margin by Q2-Q3
 
 ### January 2027:
-- [ ] Calculate 2026 full-year average profit margin
-- [ ] **Pay year-end performance bonuses** (graduated structure)
-- [ ] Communicate progress toward raise unlock
+- Calculate 2026 full-year average profit margin
+- **Pay year-end performance bonuses** (graduated structure based on margin achieved)
+- Communicate progress toward raise unlock criteria
 
 ### Q1-Q2 2027:
-- [ ] If 3 consecutive quarters hit 12%+ → **Raises unlock**
-- [ ] If not yet → Continue executing, reevaluate
+- Track if 3 consecutive quarters hit 12%+
+- **If criteria met: Raises unlock** (3-5% merit-based)
+- If not met: Continue executing, reevaluate in 2027
 
 ---
 
-## 📝 Documents to Review (Priority Order)
+## 📝 Core Strategy Documents
 
-### Core Strategy (MUST READ):
-1. ⭐ FINAL-2026-COMPENSATION-PLAN.md
-2. ⭐ sustainable-growth-framework-2026.md
-3. ⭐ raise-unlock-framework.md
-4. FINAL-APPROACH-SUMMARY.md
+### For Co-Founders (Strategic Overview):
+1. **executive-summary-cofounders.md** ⭐ START HERE
+   - 2025 recap and challenges
+   - 2026 strategy and financial scenarios
+   - Key risks and recovery actions
+   - Investment requirements
 
-### Supporting Context (Optional, for deeper understanding):
-5. incentive-structure-analysis.md - Analysis of individual incentive options
-6. revised-incentive-structure-simple.md - Option A details (individual approach)
-7. option-a-implementation-plan.md - Implementation plan for Option A
-8. executive-summary-cofounders.md - Strategic summary (early version)
-9. executive-summary-management.md - Management summary (includes info sharing)
+### For Management Team (Operational Execution):
+2. **executive-summary-management.md**
+   - Role-specific responsibilities
+   - Success metrics and KPIs
+   - Client churn analysis
+   - FAQ and communication guidance
 
-### Market Strategy (Reference):
-10. martal-targeting-strategy.md - Martal lead gen targeting
-11. past-service-history.md - Clients to avoid for cross-sells
+### For Revenue & Growth Targets:
+3. **2026-sales-forecast.md**
+   - Historical context (2018-2025)
+   - Monthly/quarterly targets
+   - Service-specific strategies
+   - Shopify Plus migration pipeline
 
-### Historical Analysis (Reference):
-12. cross-sell-strategy-2026.md - Individual commission approach (scrapped)
-13. client-referral-review-program.md - Individual credits approach (scrapped)
-14. program-rollout-strategy.md - Rollout for individual programs (scrapped)
-15. executive-summary-account-managers.md - Commission-focused (scrapped)
+### For Delivery Teams (Compensation & Execution):
+4. **executive-summary-account-managers.md**
+   - Year-end bonus structure
+   - Raise unlock criteria (3 consecutive quarters at 12%+)
+   - Cross-sell, referral, and review playbooks
+   - Monthly transparency format
 
----
-
-## ❓ Outstanding Questions to Answer
-
-### Budget & Headcount:
-- [ ] Current exact headcount? (assumed ~40)
-- [ ] Expected 2026 headcount? (hiring freeze continues?)
-
-### Communication:
-- [ ] When to announce to team? (Recommended: Jan 6-10, 2026)
-- [ ] Who presents at all-hands? (Both co-founders? Just Tim?)
-- [ ] How much detail to share about 2025 volatility? (Recommended: full transparency)
-
-### Bonus Mechanics:
-- [ ] How calculated? (Revenue - Expenses - Other Income = Profit, then Profit/Revenue = Margin %)
-- [ ] Who tracks? (Director of Operations? Co-founders?)
-- [ ] Monthly or quarterly tracking? (Recommended: monthly town halls, quarterly deep dives)
-
-### Raise Mechanics (When Unlock):
-- [ ] Merit-based process? (Who evaluates? Rubric?)
-- [ ] Timing of performance reviews? (Before raises effective?)
-- [ ] Communication plan when raises unlock?
+### Supporting Reference Documents:
+5. **martal-targeting-strategy.md** - Lead generation targeting and messaging
+6. **past-service-history.md** - Clients to avoid for cross-sell efforts
+7. **CLAUDE.md** - Repository conventions and business context
 
 ---
 
-## 🚨 Critical Decisions Needed
+## ❓ Quick Reference: Compensation Structure
 
-### Decision 1: Approve or Revise Approach?
+### Year-End Bonuses (January 2027)
+Based on 2026 full-year average profit margin:
 
-**Options:**
-- ✅ **Approve as-is:** Company-wide bonuses + raises (3 quarters at 12%+)
-- ⚠️ **Revise bonus amounts:** Adjust tiers or amounts
-- ⚠️ **Revise unlock criteria:** Different margin target or quarters
-- ❌ **Reject and restart:** Go back to individual incentives approach
+| Margin | Bonus Per Person |
+|--------|-----------------|
+| 0-3% | $0 |
+| 4-6% | $400 |
+| 7-9% | $750 |
+| 10-11% | $1,250 |
+| 12%+ | $2,000 |
 
-**Recommendation:** Approve as-is (well-reasoned given your context)
+### Raise Unlock Criteria
+- **Target:** 12%+ profit margin
+- **Duration:** 3 consecutive quarters (or full-year 2026 average of 12%+)
+- **Size:** 3-5% merit-based raises
+- **Timing:** Q2 2027 earliest (if Q2+Q3+Q4 2026 all hit 12%+)
 
----
-
-### Decision 2: Communication Timing?
-
-**Options:**
-- **Option A:** January 2026 kickoff (Recommended)
-  - Pros: Fresh start, aligns with growth plan launch
-  - Cons: Team waits through holidays with uncertainty
-
-- **Option B:** December 2025 (Before holidays)
-  - Pros: Team knows plan before holidays, reduces anxiety
-  - Cons: Adds pressure during holiday season
-
-- **Option C:** Late January / Early February 2026
-  - Pros: Gives more prep time
-  - Cons: Delays momentum
-
-**Recommendation:** Early January (week of Jan 6-10) - fresh start, not too early, not too late
-
----
-
-### Decision 3: Management Team Prep?
-
-**Question:** Do you prep management team (directors) before all-hands, or announce to everyone at once?
-
-**Option A: Prep management first** (Recommended)
-- Dec 16-20: Meet with directors, explain plan, get buy-in
-- Jan 6-10: All-hands with unified management support
-
-**Option B: Announce to everyone at once**
-- Jan 6-10: All-hands, everyone hears at same time
-- Pros: Transparency, no "insiders"
-- Cons: Directors unprepared to answer questions
-
-**Recommendation:** Option A (prep management first for smoother rollout)
+### Why 3 Quarters (Not 2)?
+- 2024: Hit 2 consecutive quarters at 8%+ → Gave raises
+- 2025: Margins collapsed to 0.1% → Had to freeze raises again
+- 3 quarters proves sustained improvement, not temporary spike
 
 ---
 
@@ -316,14 +285,30 @@
 
 ## ✅ Current Status Summary
 
-**Strategy:** ✅ Complete and documented
-**Approval:** ⏳ Awaiting co-founder review
-**Communication:** ⏳ Not yet announced to team
-**Execution:** ⏳ Planned for January 2026
+**Strategy Development:** ✅ Complete
+- 2025 financial analysis complete
+- 2026 targets and scenarios defined
+- Company-wide approach finalized (no individual incentives)
+- Four strategy documents validated
 
-**Next Critical Action:** Co-founders review and approve (or request revisions)
+**Financial Data:** ✅ Validated
+- Client data updated with corrected lost dates
+- Churn analysis (20 unique clients, 28 service losses)
+- MRR calculations confirmed
+- Accrual vs. cash basis reconciled
+
+**Documentation:** ✅ Ready to Share
+- All cross-references aligned
+- Audience-specific summaries created
+- CSV files organized in data/ folder
+- Team playbooks completed
+
+**Team Communication:** ⏳ Scheduled for January 2026
+- All-hands kickoff: Week of Jan 6-10
+- Monthly transparency launches: January 31
+- First quarter deep dive: March 2026
 
 ---
 
-**Last Updated:** December 2025
-**Next Update:** After co-founder review
+**Last Updated:** November 2025
+**Next Update:** After January 2026 all-hands kickoff

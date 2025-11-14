@@ -75,15 +75,20 @@ Let's make 2026 our turnaround year.
 ### What Went Wrong
 
 **1. Churn is Killing Us**
-- Current churn rate: 35-40%
+- Current churn rate: 38-40% (20 of 53 unique clients lost)
 - Industry benchmark: 15-20%
-- **We're churning clients at 2x the normal rate**
+- **We're churning clients at 2x-2.5x the normal rate**
 
 **2025 Churn:**
 - Unique clients added: 13
-- Unique clients lost: 21 (24 service engagements)
-- **Net: -8 unique clients**
+- Unique clients lost: 20 (21 retainer services + 7 projects = 28 total service losses)
+- **Net: -7 unique clients**
 - Multi-service client retention: 100% (Tipsy Elves lost Consulting, kept Development)
+- **Service-level breakdown:**
+  - Development Retainers: 4 lost ($21.1k MRR impact) + Great Star Tools service reduction ($4k) = $25.1k total
+  - Marketing Retainers: 8 lost ($65.4k MRR impact, includes Zgallerie Marketing)
+  - Consulting Retainers: 3 lost ($27.992k MRR impact, includes Zgallerie Consulting) + Tipsy Elves reduction ($3k) = $31k total
+  - Projects/Ad-Hoc: 7 lost (~$224.5k project revenue)
 
 **2. No Systematic Lead Generation**
 - Relied on organic/referrals only until Nov 2025
@@ -206,16 +211,16 @@ We're not relying on one silver bullet. We're building a diversified growth engi
 **What:** Account managers earn 5% commission on contract value for cross-selling additional services to existing clients
 
 **The Opportunity:**
-- 26 of 30 clients (87%) only use ONE service
-- Only 4 multi-service clients currently (13%)
-- ~20 viable cross-sell targets
+- 26 of 30 active clients (87%) only use ONE service
+- 4 multi-service clients currently (13%)
+- ~20-21 viable cross-sell targets (after excluding past service history)
 
 **Proven Value (2025 Data):**
 - **Multi-service client loss rate: 0%** (0 of 4 lost completely)
-- **Single-service client loss rate: 46%** (21 of ~46 lost completely)
+- **Single-service client loss rate: 43%** (20 of ~46 lost completely)
 - **Multi-service clients = 3.6x higher value** ($34k avg vs. $9.5k)
-- **Real example:** Tipsy Elves lost Consulting but kept Development
-- **Multi-service clients are dramatically stickier**
+- **Real example:** Tipsy Elves lost Consulting but kept Development ($7.5k/mo retained)
+- **Multi-service clients are dramatically stickier** (retention rate 100% vs. 43% for single-service)
 
 **How It Works:**
 1. AM identifies cross-sell opportunity
