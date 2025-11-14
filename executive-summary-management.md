@@ -80,15 +80,11 @@ Let's make 2026 our turnaround year.
 - **We're churning clients at 2x-2.5x the normal rate**
 
 **2025 Churn:**
-- Unique clients added: 13
-- Unique clients lost: 20 (21 retainer services + 7 projects = 28 total service losses)
-- **Net: -7 unique clients**
-- Multi-service client retention: 100% (Tipsy Elves lost Consulting, kept Development)
-- **Service-level breakdown:**
-  - Development Retainers: 4 lost ($21.1k MRR impact) + Great Star Tools service reduction ($4k) = $25.1k total
-  - Marketing Retainers: 8 lost ($65.4k MRR impact, includes Zgallerie Marketing $15.992k)
-  - Consulting Retainers: 3 lost ($21k MRR impact, includes Zgallerie Consulting $9k) + Tipsy Elves reduction ($3k) = $24k total
-  - Projects/Ad-Hoc: 7 lost (~$224.5k project revenue)
+- Unique clients added: 13 | Unique clients lost: 20 | **Net: -7 clients**
+- **Service-level impact:** Development -$25.1k MRR, Marketing -$65.4k MRR, Consulting -$24k MRR, Projects -$224.5k
+- **Total retainer MRR lost: ~$114.5k** | **Total 2025 service loss: ~$339k**
+- **Multi-service client retention: 100%** (only 1 of 4 multi-service clients experienced any loss)
+- **See cofounders summary for detailed client-by-client churn breakdown**
 
 **2. No Systematic Lead Generation**
 - Relied on organic/referrals only until Nov 2025
@@ -114,18 +110,9 @@ Let's make 2026 our turnaround year.
 
 ### What We Did Right
 
-**Launched Martal Partnership (Nov 2025)**
-- First systematic lead gen effort
-- 18 guaranteed SQLs over 3 months
-- Results pending, but pipeline building
-
-**Maintained Key Relationships**
-- AG Jeans, Great Star Tools, Glenmorangie still active
-- Strong delivery reputation intact
-
-**Stabilized in Q3-Q4**
-- MRR held around $290k
-- Stopped the bleeding (temporarily)
+**Launched Martal Partnership** (Nov 2025) - First systematic lead gen with 18 guaranteed SQLs
+**Maintained Key Relationships** - AG Jeans, Great Star Tools, Glenmorangie still active
+**Stabilized MRR** - Held at $290k in Q3-Q4, stopped the decline (temporarily)
 
 ---
 

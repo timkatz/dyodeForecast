@@ -9,13 +9,9 @@
 
 ## What This Means for You
 
-You've been through 18 months of turbulence:
-- 12 layoffs across the team
-- Raises given in October 2024, then frozen in 2025
-- Revenue declining from $4.86M → $3.4M
-- Profit margins collapsing to 0.3% (essentially breakeven)
+**The reality:** 18 months of turbulence (12 layoffs, raises frozen, revenue down from $4.86M → $3.4M, margins at 0.3%).
 
-**You deserve stability.** And you've proven you can execute - the team avoided a forecasted $200k loss in 2025 and brought us back to breakeven.
+**The good news:** You proved you can execute - the team avoided a forecasted $200k loss in 2025 and brought us back to breakeven. You deserve stability.
 
 **The 2026 plan is simple:**
 

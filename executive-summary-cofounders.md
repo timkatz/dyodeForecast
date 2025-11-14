@@ -84,13 +84,7 @@
 - Full year ends at -$47.7k cash loss (-1.4% margin)
 - **Company was on track to be profitable until Q4 revenue cliff**
 
-**Root Causes of 2025 Decline:**
-1. **Unsustainable churn:** 40% overall incl. projects/ad-hoc (37% retainer) vs. 15-20% industry average
-2. **Failed lead generation experiments:** Tried multiple approaches that didn't work (SDRs, Cleverly - details below)
-3. **No scalable lead generation** (Martal just launched Nov 2025, results TBD) - Google Ads and founder-led work but limited scale
-4. **Too many month-to-month contracts:** 24% of MRR has no commitment
-5. **High project dependency:** 26% of revenue ends naturally
-6. **Economic headwinds:** Client budget freezes, tariffs, inflation (Apr 2025 shock)
+**Root Causes:** Unsustainable churn (40% vs. 15-20% benchmark), failed lead gen experiments (SDRs, Cleverly), no scalable pipeline until Martal, 24% month-to-month contracts, 26% project dependency, and economic headwinds (tariffs, budget freezes). See management summary for detailed analysis.
 
 ### Current Client Base (November 2025)
 
@@ -162,101 +156,25 @@
   - Still **2x+ industry benchmark** of 15-20%
 - **Multi-service client retention: 100%** (4 of 4 retained, including Tipsy Elves who lost Consulting but kept Dev)
 
-**Detailed Service-Level Churn (2025):**
+**2025 Service-Level Losses Summary:**
+- Development Retainers: -$25.1k MRR (4 complete losses + Great Star Tools $4k reduction)
+- Marketing Retainers: -$65.4k MRR (8 complete losses)
+- Consulting Retainers: -$24k MRR (3 complete losses + Tipsy Elves $3k reduction)
+- **Total Retainer MRR Lost: ~$114.5k**
+- Projects/Ad-Hoc: ~$224.5k (natural completions)
+- **Total 2025 Service Loss: ~$339k annual revenue impact**
 
-**DEVELOPMENT RETAINERS: 7 Lost (including 1 service reduction)**
-- **Lost entirely (4 clients):**
-  - Black Halo - $5,431/mo → Lost 4/30/2025 (6-month retainer)
-  - Manhattan Beachwear - $4,725/mo → Lost 4/30/2025 (first year client)
-  - Movano - $8,158/mo → Lost 6/19/2025 (equity client, AR issues)
-  - Jessica Simpson - $2,817/mo Ad-Hoc → Lost 7/4/2025
-  - **Subtotal: $21,131/mo dev retainer + ad-hoc**
-
-- **Service reduced (1 client):**
-  - Great Star Tools - Reduced from $16k/mo to $12k/mo (Q1 2026): Development $7.5k → $3.5k (-$4k), Marketing stable at $8.5k. Retained relationship with expansion pipeline (98+ brands to migrate)
-  - **Impact: -$4k/mo dev retainer**
-
-- **Development Retainer MRR Lost: ~$32,381/mo**
-
-**MARKETING RETAINERS: 8 Lost (including 1 service reduction)**
-- **Lost entirely (8 clients):**
-  - Cratejoy - $8,500/mo → Lost 3/31/2025 (early-stage client)
-  - Exclusive Fabrics - $6,896/mo → Lost 9/30/2025 (3+ year client)
-  - Group A - $4,700/mo → Lost 1/1/2025 (first year)
-  - LRG - $9,676/mo → Lost 8/31/2025 (2+ year client)
-  - Rottweiler - $2,192/mo → Lost 2/14/2025
-  - Spirit Jersey - $6,458/mo → Lost 6/16/2025
-  - The Bruery - $9,970/mo → Lost 8/14/2025 (last day of service, distressed client, AR issues)
-  - Buttercloth - $7,000/mo → Lost 10/30/2025 (early termination)
-  - Zgallerie Marketing - $9,000/mo → Lost 3/31/2025
-  - **Subtotal: $65,362/mo marketing retainer**
-
-- **Service reduced (0 clients):**
-  - Great Star Tools Marketing - Stable at $8.5k/mo (retained)
-  - **No reduction on marketing side**
-
-- **Marketing Retainer MRR Lost: ~$65,362/mo**
-
-**CONSULTING RETAINERS: 3 Lost (3 lost entirely, 1 service reduction)**
-- **Lost entirely (3 clients):**
-  - 3HNails - $8,000/mo → Lost 11/3/2025 (misaligned expectations: client assumed we could launch 30 marketplaces in 90 days)
-  - Cavaco - $4,000/mo → Lost 1/31/2025 (scope misalignment: promised 10 client referrals)
-  - Zgallerie Consulting - $9,000/mo → Lost 4/30/2025
-  - **Subtotal: $21,000/mo consulting retainer**
-
-- **Service reduced (1 client):**
-  - Tipsy Elves Consulting - $3,000/mo → Lost 10/31/2025 (but Development retained at $7,500/mo)
-  - **Impact: -$3,000/mo consulting**
-
-- **Consulting Retainer MRR Lost: ~$24,000/mo**
-
-**PROJECTS/AD-HOC LOST (7 completions/losses):**
-- Forks Over Knives - $57,000 project → Lost 5/1/2025
-- HDButterCup - $25,939 project → Lost 8/30/2025
-- More Prepared - $14,961 project → Lost 3/30/2025
-- TEdwards Wines - $60,533 project → Lost 10/21/2025
-- TripleK - $25,950 project → Lost 10/14/2025
-- Wix - $39,000 project → Lost 6/4/2025 (no retainer conversion)
-- Loved01 - $1,125 project → Lost 9/29/2025
-- **Total Project Revenue Lost: ~$224,508** (plus SiO Beauty $4,500 partial completion)
-
-**Summary of 2025 Service-Level Losses:**
-- Development Retainers: -$25.1k MRR (4 complete losses + 1 service reduction)
-- Marketing Retainers: -$65.4k MRR (8 complete losses, includes Zgallerie Marketing $15.992k)
-- Consulting Retainers: -$24k MRR (3 complete losses + 1 service reduction, includes Zgallerie Consulting $9k)
-- **Total Retainer MRR Lost: ~$114.5k MRR**
-- Projects/Ad-Hoc: ~$224.5k in project revenue (natural completions)
-- **Total 2025 Service Loss: ~$339k in potential annual revenue**
-
-**Key Pattern — Expectation-Setting Failures:**
-- 3HNails: Client made assumptions (30+ marketplace integrations) that weren't part of the service scope; we didn't promise it but couldn't deliver their expectation
-- Cavaco: Unclear what referral support service would actually deliver
-- Both were founder-led deals where specific outcomes weren't documented before engagement started
-- Tipsy Elves kept Development ($7.5k/mo) when Consulting ended, proving multi-service resilience
+**Key Insight — Expectation-Setting Failures:**
+- 3HNails & Cavaco: Founder-led deals with undefined scope (client assumptions vs. explicit commitments)
+- Tipsy Elves: Lost Consulting but retained Development, proving multi-service resilience
+- **See management summary for detailed client-by-client churn analysis**
 
 ### What We Did Right
 
-1. **Launched Martal partnership** (Nov 1, 2025 - just started)
-   - $18k/quarter for 2 SDRs + account manager (3-month pilot)
-   - 18 guaranteed SQLs focused on refined ICP (Shopify Plus, $10M+)
-   - ABM approach with personalized outreach vs. previous batch-and-blast methods
-   - Too early to know results - decision point in Jan 2026
-
-2. **Google Ads delivered some results** (launched March 2025)
-   - $6k/month budget focused on Southern California (LA, OC, SD), recently expanded to all California
-   - 4 clients closed: TripleK, Blueme, Kyles (projects), Nowadays (retainer)
-   - Below ICP but better than nothing; needs optimization for larger targets
-
-3. **Founder-led sales proved effective when done**
-   - Closed 3 clients: Pair of Thieves, 3HNails, Tipsy Elves
-   - Problem: Ad hoc, no goals, only when we remember or business slows
-
-4. **Maintained key client relationships**
-   - AG Jeans, Great Star Tools, Glenmorangie still active
-   - Some clients renewed despite market conditions
-
-5. **Stabilized Q3-Q4**
-   - MRR held around $290k vs. continued decline
+1. **Launched Martal partnership** (Nov 1, 2025) - $18k/quarter for refined ICP targeting with 18 guaranteed SQLs
+2. **Google Ads delivered 4 clients** (TripleK, Blueme, Kyles, Nowadays) - below ICP but proof of concept
+3. **Founder-led sales closed 3 clients** (Pair of Thieves, 3HNails, Tipsy Elves) - effective but ad hoc
+4. **Stabilized MRR at $290k** in Q3-Q4 despite challenges and maintained key relationships (AG Jeans, Great Star Tools, Glenmorangie)
 
 ### What We Tried But Failed (Lessons Learned)
 
