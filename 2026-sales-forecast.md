@@ -208,21 +208,21 @@ Throughout this document, "clients" refers to **unique companies** unless otherw
 - Rottweiler (2/14/25) - Retainer $2,192 MRR
 - Spirit Jersey (6/16/25) - Retainer $6,458 MRR
 - The Bruery (8/14/25) - Retainer $9,970 MRR (last day of service)
-- Zgallerie Marketing (3/31/25) - Retainer $9,000 MRR
+- Zgallerie Marketing (3/31/25) - Retainer $15,992 MRR
 - **All 10 = complete client loss**
 
 **Consulting: 3 Service Engagements Lost (3 Unique Clients)**
 - 3HNails (11/3/25) - Retainer $8,000 MRR - Complete client loss ❌
 - Cavaco (1/31/25) - Retainer $4,000 MRR - Complete client loss ❌
-- Zgallerie Consulting (4/30/25) - Retainer $15,992 MRR - Complete client loss ❌
+- Zgallerie Consulting (4/30/25) - Retainer $9,000 MRR - Complete client loss ❌
 - **Tipsy Elves (10/31/25) - Retainer $3,000 MRR - SERVICE loss only, client retained via Development ✅**
 
 ---
 
 **Lost Client Revenue Impact:**
-- Retainer MRR lost: ~$121.5k annually (Development $25.1k + Marketing $65.4k + Consulting $31k from losses + Great Star Tools/Tipsy Elves reductions)
+- Retainer MRR lost: ~$114.5k annually (Development $25.1k + Marketing $65.4k + Consulting $24k from losses + Great Star Tools/Tipsy Elves reductions)
 - Project revenue lost: ~$224.5k (one-time)
-- **Total revenue impact: ~$346.5k in potential annual revenue**
+- **Total revenue impact: ~$339k in potential annual revenue**
 
 **Key Insight:**
 - Only 1 of 24 service losses (4%) was from a multi-service client who stayed

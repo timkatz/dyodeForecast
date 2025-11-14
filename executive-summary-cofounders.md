@@ -139,7 +139,7 @@
 **CONSULTING RETAINERS (3 lost):**
 14. 3HNails - $8,000/mo → Lost 11/3/2025 (scope misalignment: promised marketplace access)
 15. Cavaco - $4,000/mo → Lost 1/31/2025 (scope misalignment: promised client referrals)
-16. Zgallerie Consulting - $15,992/mo → Lost 4/30/2025
+16. Zgallerie Consulting - $9,000/mo → Lost 4/30/2025
 
 **DEVELOPMENT PROJECTS/AD-HOC (7 lost):**
 17. Forks Over Knives - $57,000 project → Lost 5/1/2025
@@ -152,8 +152,8 @@
 
 **Summary by Type:**
 - **Development Retainers:** 4 lost ($21.1k MRR) + Great Star Tools service reduction ($4k) = **$25.1k total dev impact**
-- **Marketing Retainers:** 8 lost ($65.4k MRR - includes Buttercloth, The Bruery, and Zgallerie Marketing)
-- **Consulting Retainers:** 3 lost ($27.992k MRR: 3HNails $8k + Cavaco $4k + Zgallerie Consulting $15.992k) + Tipsy Elves service reduction ($3k) = **$30.992k total consulting impact**
+- **Marketing Retainers:** 8 lost ($65.4k MRR - includes Buttercloth, The Bruery, and Zgallerie Marketing $15.992k)
+- **Consulting Retainers:** 3 lost ($21k MRR: 3HNails $8k + Cavaco $4k + Zgallerie Consulting $9k) + Tipsy Elves service reduction ($3k) = **$24k total consulting impact**
 - **Projects/Ad-Hoc:** 7 lost (~$224.5k in project revenue - includes Wix at $39k)
 
 **Churn by Client Type:**
@@ -201,14 +201,14 @@
 - **Lost entirely (3 clients):**
   - 3HNails - $8,000/mo → Lost 11/3/2025 (misaligned expectations: client assumed we could launch 30 marketplaces in 90 days)
   - Cavaco - $4,000/mo → Lost 1/31/2025 (scope misalignment: promised 10 client referrals)
-  - Zgallerie Consulting - $15,992/mo → Lost 4/30/2025
-  - **Subtotal: $27,992/mo consulting retainer**
+  - Zgallerie Consulting - $9,000/mo → Lost 4/30/2025
+  - **Subtotal: $21,000/mo consulting retainer**
 
 - **Service reduced (1 client):**
   - Tipsy Elves Consulting - $3,000/mo → Lost 10/31/2025 (but Development retained at $7,500/mo)
   - **Impact: -$3,000/mo consulting**
 
-- **Consulting Retainer MRR Lost: ~$30,992/mo**
+- **Consulting Retainer MRR Lost: ~$24,000/mo**
 
 **PROJECTS/AD-HOC LOST (7 completions/losses):**
 - Forks Over Knives - $57,000 project → Lost 5/1/2025
@@ -222,11 +222,11 @@
 
 **Summary of 2025 Service-Level Losses:**
 - Development Retainers: -$25.1k MRR (4 complete losses + 1 service reduction)
-- Marketing Retainers: -$65.4k MRR (8 complete losses, includes Zgallerie Marketing)
-- Consulting Retainers: -$31k MRR (3 complete losses + 1 service reduction, includes Zgallerie Consulting)
-- **Total Retainer MRR Lost: ~$121.5k MRR**
+- Marketing Retainers: -$65.4k MRR (8 complete losses, includes Zgallerie Marketing $15.992k)
+- Consulting Retainers: -$24k MRR (3 complete losses + 1 service reduction, includes Zgallerie Consulting $9k)
+- **Total Retainer MRR Lost: ~$114.5k MRR**
 - Projects/Ad-Hoc: ~$224.5k in project revenue (natural completions)
-- **Total 2025 Service Loss: ~$346.5k in potential annual revenue**
+- **Total 2025 Service Loss: ~$339k in potential annual revenue**
 
 **Key Pattern — Expectation-Setting Failures:**
 - 3HNails: Client made assumptions (30+ marketplace integrations) that weren't part of the service scope; we didn't promise it but couldn't deliver their expectation

@@ -86,8 +86,8 @@ Let's make 2026 our turnaround year.
 - Multi-service client retention: 100% (Tipsy Elves lost Consulting, kept Development)
 - **Service-level breakdown:**
   - Development Retainers: 4 lost ($21.1k MRR impact) + Great Star Tools service reduction ($4k) = $25.1k total
-  - Marketing Retainers: 8 lost ($65.4k MRR impact, includes Zgallerie Marketing)
-  - Consulting Retainers: 3 lost ($27.992k MRR impact, includes Zgallerie Consulting) + Tipsy Elves reduction ($3k) = $31k total
+  - Marketing Retainers: 8 lost ($65.4k MRR impact, includes Zgallerie Marketing $15.992k)
+  - Consulting Retainers: 3 lost ($21k MRR impact, includes Zgallerie Consulting $9k) + Tipsy Elves reduction ($3k) = $24k total
   - Projects/Ad-Hoc: 7 lost (~$224.5k project revenue)
 
 **2. No Systematic Lead Generation**
