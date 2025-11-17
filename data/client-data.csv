@@ -26,7 +26,7 @@ Group A,Marketing,X,,X,,4/15/2025,,4/15/2024,1/1/2025,,,,,"$3,750",,Founder Led,
 HDButterCup,Marketing,,X,X,,8/30/2025,,5/30/2025,8/30/2025,,3,,,,"$25,939",Founder Led,George,Tim,Project,Lost
 Jessica Simpson,Development,X,,X,,9/30/2020,,9/4/2020,7/4/2025,,,,,"$2,817",,Direct,DYODE Website,Tim,Ad-Hoc,Lost
 Kindred Bravely,Development,X,,,X,12/31/2025,10/1/2024,3/10/2020,,,15,,$99,"$4,985",,Direct,DYODE Website,Elana,Retainer,Active Term
-Kyles Organics (Project),Development,,X,,X,,,6/5/2025,,,5,,,,"$22,000",Ads,Google Ads,Tim,Project,Active Term
+Kyles Organics (Project),Development,,X,X,,,,6/5/2025,10/21/2025,,5,,,,"$22,000",Ads,Google Ads,Tim,Project,Lost
 L*Space,Development,X,,,X,4/30/2025,10/30/2024,10/4/2019,,,6,,$99,"$4,950",,Founder Led,George,George,Retainer,Active Term
 Loved01,Development,X,,X,,12/30/2024,,8/14/2024,9/29/2025,,1,,,,"$1,125",Direct,DYODE Website,Elana,Project,Lost
 LRG,Marketing,X,,X,,7/17/2025,1/17/2025,5/20/2024,8/31/2025,,,,,"$9,676",,Network Referral,Dre,George,Retainer,Lost
@@ -57,5 +57,5 @@ TripleK (Project),Development,,X,X,,,,5/30/2025,10/14/2025,,3,,,,"$25,950",Ads,G
 United Scope,Marketing,X,,,X,3/30/2023,,12/20/2022,,,0,,,"$12,623",,Founder Led,George,George,Retainer,Month-To-Month
 Wix,Development,X,,X,,3/30/2025,,12/3/2024,6/4/2025,,3,,,,"$39,000",Founder Led,George,Tim,Project,Lost
 Wyze,Development,X,,,X,12/31/2025,10/1/2025,12/3/2024,,,3,,$120,"$11,600",,Direct Web Form,DYODE Website,Tim,Retainer,Active Term
-Zgallerie,Marketing,X,,X,,2/28/2025,,4/11/2024,3/31/2025,,,,,"$15,992",,Founder Led,George,George,Retainer,Lost
-Zgallerie,Consulting,X,,X,,4/30/2025,,4/11/2024,4/30/2025,,,,,"$9,000",,Founder Led,George,George,Retainer,Lost
+Zgallerie,Consulting,X,,X,,2/28/2025,,4/11/2024,3/31/2025,,,,,"$9,000",,Founder Led,George,George,Retainer,
+Zgallerie,Marketing,X,,X,,2/28/2025,,4/11/2024,4/30/2025,,,,,"$15,992",,Founder Led,George,George,Retainer,Lost
