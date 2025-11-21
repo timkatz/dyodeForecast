@@ -33,19 +33,17 @@ This summary includes **full revenue details, MRR figures, and strategic financi
 
 **Team,**
 
-2025 was a tough year. We're down in revenue, sitting at $3.6M (accrual) vs. $3.9M in 2024. After three years of decline from our $4.88M peak, we're at a critical juncture. The decline rate slowed (from -20% to -6.5%), showing progress, but we're still not growing.
+2025 was a tough year. MRR declined from our $350k+ peak to $293k (Nov 2025). But the decline slowed significantly, and profit margins improved from 5.6% to 6.0%. We're stabilizing after three years of volatility.
 
-**But here's the good news:** We have a clear, executable plan for 2026 that will reverse the trend.
+**But here's the good news:** We have a clear, executable plan to grow MRR to $381k in 2026. That's 30% growth—ambitious but achievable with focused execution.
 
 This document outlines:
-- Where we are and how we got here
-- Our 2026 growth strategy
-- Your role in making it happen
-- The resources and support you'll have
+- Where we are and what we learned in 2025
+- Our 2026 growth strategy to hit $381k MRR
+- Your specific role in making it happen
+- How profit margins directly impact your stability (raises unlock at 12%+ margins)
 
-**The bottom line:** If we execute with focus and urgency, we can hit $4.2M in 2026 and get back on a growth trajectory. It won't be easy, but it's absolutely achievable.
-
-Let's make 2026 our turnaround year.
+**The bottom line:** Your focus on client retention, churn reduction, and margin improvement directly determines our success. Let's make 2026 our turnaround year.
 
 — Tim & [Co-Founder Name]
 
@@ -56,19 +54,17 @@ Let's make 2026 our turnaround year.
 ### The Numbers
 
 **Current State (November 2025):**
-- MRR: $292,946
-- Active Clients: 30 unique clients
-- Projected 2025 Revenue: $3.6M (accrual) / $3.4M (cash)
+- **MRR:** $293k
+- **Active Clients:** 30 unique clients
+- **Profit Margin:** 6.0% (accrual basis, up from 5.6% in 2024)
 
-**3-Year Decline:**
-- 2022: $4.88M (peak) - 8.5% profit margin
-- 2023: $4.86M (-0.6%) - 10.8% profit margin
-- 2024: $3.87M (-20%) - 5.6% profit margin
-- 2025: $3.6M (-6.5%) - 6.0% profit margin (accrual)
+**3-Year MRR Trend:**
+- 2022: ~$400k MRR (peak) - 8.5% profit margin
+- 2023: ~$380k MRR (-5%) - 10.8% profit margin
+- 2024: ~$330k MRR (-13%) - 5.6% profit margin
+- 2025: ~$293k MRR (-11%, slowing) - 6.0% profit margin
 
-**We've lost $1.28M in revenue over 3 years, but the decline slowed significantly in 2025.**
-
-**Important Note:** Accrual revenue ($3.6M) reflects what clients owe us and matches our MRR tracking. Cash revenue ($3.4M) is ~$165k lower due to outstanding AR from 2 distressed clients with equity/relationship situations (not typical collections issues).
+**Key Insight:** Decline rate slowed from -13% (2024) to -11% (2025), and margins improved from 5.6% to 6.0%. This proves stabilization is possible with execution.
 
 ---
 
@@ -81,10 +77,10 @@ Let's make 2026 our turnaround year.
 
 **2025 Churn:**
 - Unique clients added: 13 | Unique clients lost: 20 | **Net: -7 clients**
-- **Service-level impact:** Development -$25.1k MRR, Marketing -$65.4k MRR, Consulting -$24k MRR, Projects -$224.5k
-- **Total retainer MRR lost: ~$114.5k** | **Total 2025 service loss: ~$339k**
+- **Service-level MRR lost:** Development -$25k, Marketing -$65k, Consulting -$24k
+- **Total Retainer MRR Lost: ~$115k**
 - **Multi-service client retention: 100%** (only 1 of 4 multi-service clients experienced any loss)
-- **See cofounders summary for detailed client-by-client churn breakdown**
+- **See cofounders summary for detailed client-by-client breakdown**
 
 **2. No Systematic Lead Generation**
 - Relied on organic/referrals only until Nov 2025
@@ -120,15 +116,18 @@ Let's make 2026 our turnaround year.
 
 ### The Goal
 
-**Target:** $4.2M revenue, $381k MRR by end of 2026
+**Target MRR by End of 2026:** $381k (up from $293k today)
 
 **What This Means:**
-- 46% MRR growth needed
-- Add $209k in new MRR
-- Replace 100% of churned clients PLUS grow
-- Reverse 3-year decline trend
+- 30% MRR growth needed
+- Add $88k in net MRR (gross new MRR ~$200k, minus ~$115k churn)
+- Replace lost clients PLUS expand with existing clients
+- Stop decline and start growth trajectory
 
-**This is ambitious but achievable.**
+**Why It Matters to You:**
+- At $381k MRR: Profit margins hit 12%+ sustainably
+- At 12%+ margins: Raises unlock for all team members
+- Timeline: Q2-Q4 2026 if we execute well
 
 ---
 
@@ -181,7 +180,7 @@ We're not relying on one silver bullet. We're building a diversified growth engi
 
 **2026 Target:**
 - 5-8 referrals converting to clients
-- $250-400k revenue impact
+- $37-60k MRR impact
 - Investment: $20-35k in credits
 
 **Your Role:**
@@ -193,69 +192,50 @@ We're not relying on one silver bullet. We're building a diversified growth engi
 
 ---
 
-#### **Pillar 3: Cross-Sell Incentive Program (Internal)**
-
-**What:** Account managers earn 5% commission on contract value for cross-selling additional services to existing clients
+#### **Pillar 3: Cross-Sell to Existing Clients (Internal)**
 
 **The Opportunity:**
 - 26 of 30 active clients (87%) only use ONE service
 - 4 multi-service clients currently (13%)
-- ~20-21 viable cross-sell targets (after excluding past service history)
+- ~20-21 viable cross-sell targets
 
-**Proven Value (2025 Data):**
-- **Multi-service client loss rate: 0%** (0 of 4 lost completely)
-- **Single-service client loss rate: 43%** (20 of ~46 lost completely)
-- **Multi-service clients = 3.6x higher value** ($34k avg vs. $9.5k)
-- **Real example:** Tipsy Elves lost Consulting but kept Development ($7.5k/mo retained)
-- **Multi-service clients are dramatically stickier** (retention rate 100% vs. 43% for single-service)
+**Why This Matters (2025 Data):**
+- **Multi-service client loss rate: 0%** (100% retention)
+- **Single-service client loss rate: 43%**
+- **Multi-service clients are 3.6x stickier** and more valuable
+- **Real example:** Tipsy Elves lost Consulting but kept Development ($7.5k/mo MRR retained)
 
-**How It Works:**
-1. AM identifies cross-sell opportunity
-2. AM pitches additional service (marketing, dev, consulting)
-3. Client signs contract
-4. AM earns 5% commission (50% at signing, 50% after 90 days)
-
-**Example:**
-- Cross-sell marketing to dev client: $7,500/month x 6-month contract
-- AM earns: $2,250 commission
+**How You Drive This:**
+- Account managers: Identify opportunities when clients mention pain points
+- Pitch additional services (dev, marketing, consulting)
+- Hand off to sales team to close
 
 **2026 Target:**
 - 6-8 cross-sells
 - $40-58k new MRR
-- Investment: $10-16k in commissions
-
-**Your Role:**
-- Account managers: Identify and pitch opportunities (PRIMARY)
-- Delivery teams: Ensure quality cross-sell delivery
-- Sales team: Support proposal/closing process
+- Higher retention = lower churn = better margins for you
 
 **Launch:** Jan 2026
 
 ---
 
-#### **Pillar 4: Clutch Review Incentive (External)**
-
-**What:** Clients earn $500 credit for leaving qualified Clutch review
+#### **Pillar 4: Clutch Reviews = Inbound Leads**
 
 **Why This Matters:**
 - Clutch reviews drive 30-40% of inbound leads
+- Inbound leads = lower CAC and better conversion
 - Social proof critical for Shopify Plus prospects
 - Long-term asset (reviews stay live for years)
 
-**How It Works:**
-1. Client leaves 4+ star review on Clutch (100+ words, specific examples)
-2. Review goes live
-3. Client earns $500 credit on next invoice
+**The Ask:**
+- Account managers: Ask happy clients to leave 4+ star reviews on Clutch
+- Be specific: Ask after successful projects or milestone wins
+- Make it easy: Offer to help write the review
 
 **2026 Target:**
 - 10-15 reviews
 - Improved Clutch rating and visibility
-- Investment: $5-7.5k in credits
-
-**Your Role:**
-- Account managers: Ask happy clients for reviews (PRIMARY)
-- Marketing: Track reviews and manage Clutch profile
-- Delivery teams: Create review-worthy results
+- Drives inbound MRR without expensive ad spend
 
 **Launch:** Jan 2026
 
@@ -266,7 +246,7 @@ We're not relying on one silver bullet. We're building a diversified growth engi
 **Current Status:** ⚠️ **AT RISK** - Only 1 Plus migration in past 2 years
 
 **Why This Matters:**
-- 61% of our MRR ($178k/month) comes from Shopify/Plus clients
+- 61% of our MRR (~$180k) comes from Shopify/Plus clients
 - Partner badge drives inbound leads and credibility
 - Without Premier status: Lose competitive edge and co-marketing opportunities in 2027+
 
@@ -342,18 +322,24 @@ Even if we close 4 Plus migrations, we can still lose Premier tier if we don't r
 
 ---
 
-### The Math: How We Hit $4.2M
+### How We Hit $381k MRR
 
-| Channel | New Clients | MRR Impact | Investment | Your Role |
-|---------|-------------|------------|------------|-----------|
-| **Martal** | 8-10 | $60-75k | $72k | Sales closes |
-| **Referrals** | 5-8 | $37-60k | $20-35k | AMs ask |
-| **Cross-Sells** | 6-8 (expansions) | $40-58k | $10-16k | AMs pitch |
-| **Founder-led** | 6-8 | $45-60k | Time | Co-founders |
-| **Inbound (Clutch)** | 2-3 | $15-22k | $5-7.5k | Marketing + AMs ask for reviews |
-| **TOTAL** | **27-37** | **$197-275k** | **$107-130k** | **Everyone** |
+**The MRR Math:**
+- Current: $293k MRR
+- New MRR needed: $88k (net, after ~$115k churn)
+- Gross new MRR target: ~$200k
+- Profit margin target at $381k: 12%+
 
-**After accounting for churn (~$112k), we net $85-163k growth → $377-435k MRR**
+| Channel | MRR Impact | Your Responsibility |
+|---------|------------|---------------------|
+| **Martal Lead Gen** | $60-75k | Sales team closes SQLs |
+| **Client Referrals** | $37-60k | Account managers ask |
+| **Cross-Sells** | $40-58k | Account managers pitch |
+| **Founder-led** | $45-60k | Co-founders close |
+| **Inbound (Reviews)** | $15-22k | Account managers + Marketing |
+| **GROSS NEW MRR** | **$197-275k** | Everyone contributes |
+| **Less: Churn** | **-$115k** | Retention is your control |
+| **NET MRR GROWTH** | **$82-160k** | Targets $381k MRR |
 
 ---
 
@@ -364,25 +350,27 @@ Even if we close 4 Plus migrations, we can still lose Premier tier if we don't r
 **Primary Responsibilities:**
 1. **Cross-Sell Execution**
    - Identify top 3 cross-sell opportunities per AM
-   - Pitch additional services
-   - Close deals
-   - **Earn commissions** (this is YOUR opportunity!)
+   - Pitch additional services to single-service clients
+   - Hand off to sales for closing
+   - **Impact:** Every cross-sell adds $40-58k MRR and improves retention
 
 2. **Referral Generation**
    - Ask for referrals in every QBR
-   - Identify well-connected clients
-   - Track referrals in CRM
+   - Identify well-connected clients who can refer
+   - Pass referrals to sales team for nurturing
+   - **Impact:** Every referral adds $7.5-15k MRR average
 
 3. **Review Collection**
-   - Ask happy clients for Clutch reviews
-   - Follow up until published
-   - Track in CRM
+   - Ask happy clients for Clutch reviews (especially after wins)
+   - Make it easy: offer to help write
+   - **Impact:** Reviews drive 30-40% of inbound leads (lowest CAC)
 
-4. **Retention**
-   - Conduct QBRs for all $10k+ clients
+4. **Retention (Most Important)**
+   - Conduct QBRs for all clients
    - Proactively manage renewals (90 days out)
    - Monitor client health
-   - Convert month-to-month to contracts
+   - Convert month-to-month to annual contracts
+   - **Impact:** Every client retained saves $3-15k MRR in replacement costs
 
 **Success Metrics:**
 - Cross-sells pitched: 3-5 per AM
@@ -799,11 +787,11 @@ Even if we close 4 Plus migrations, we can still lose Premier tier if we don't r
 
 **Honest answer:** If we execute and still miss, at least we'll know we tried everything.
 
-**But here's the reality:** If we do NOTHING different in 2026, we'll continue declining. That puts us at $3.2-3.3M by end of 2026, with cash flow increasingly tight.
+**But here's the reality:** If we do NOTHING different in 2026, we'll continue declining in MRR. Without new business, we'll drop toward $270-280k MRR by end of 2026, with cash flow increasingly tight.
 
 **This plan gives us a fighting chance.**
 
-And even if we hit $3.9M instead of $4.2M, that's still better than continued decline.
+And even if we hit $360k MRR instead of $381k, that's still meaningful growth and better than continued decline.
 
 ---
 
@@ -852,13 +840,13 @@ Own your role in the strategy.
 ## The Upside
 
 **If we hit our targets:**
-- $4.2M revenue (vs. $3.2M in 2025)
-- 46% MRR growth
+- $381k MRR (vs. $293k current)
+- 30% MRR growth
 - Reverse 3-year decline
 - Stronger client base (43-48 clients vs. 30)
 - Diversified lead sources (less feast/famine)
+- 12%+ profit margins (unlock raises)
 - Team morale boost
-- Bonuses and commissions for all
 
 **For you personally:**
 - Job security (growing company vs. declining)
@@ -992,7 +980,7 @@ Use management meetings (not town halls) to discuss:
 
 ## Final Thoughts
 
-**We're not going to sugarcoat it:** 2025 was rough. Three years of decline from $4.88M to $3.6M has put us in a tough spot. The good news: the decline slowed from -20% to -6.5%, and profit margins improved from 5.6% to 6.0%.
+**We're not going to sugarcoat it:** 2025 was rough. Three years of MRR decline from ~$400k to $293k has put us in a tough spot. The good news: the decline slowed from -13% (2024) to -11% (2025), and profit margins improved from 5.6% to 6.0%.
 
 **But we're not giving up.** We have a plan, we have resources, and we have a team capable of executing.
 
@@ -1022,28 +1010,25 @@ Let's go make it happen.
 
 ## Appendix: FAQ
 
+**Q: How do these initiatives help me?**
+A: When MRR grows to $381k and profit margins hit 12%+, raises unlock for all team members. These initiatives directly impact your financial stability.
+
 **Q: What if a client says no to a cross-sell?**
-A: That's fine. Don't push. Move on to next target. Not every client is a fit.
+A: That's fine. Don't push. Move on to the next target. Focus on good fits that benefit the client.
 
 **Q: How do I know which clients to ask for referrals?**
-A: Happy clients, well-connected, engaged. We'll help you identify them in training.
+A: Happy clients with positive engagement. Clients you've delivered excellent results for. We'll help identify these in training.
 
-**Q: What if Martal fails?**
-A: We'll pivot. Referrals and cross-sells compensate. May hire in-house sales exec.
+**Q: What if Martal lead gen doesn't work?**
+A: We'll evaluate and pivot. Referrals and cross-sells provide a base. We have other channels.
 
-**Q: Can I earn commission on referrals?**
-A: No, referral credits go to the CLIENT (not you). But you get recognized for driving them.
+**Q: What if I don't hit the cross-sell target?**
+A: No penalty. These are goals, not requirements. Quality over quantity.
 
-**Q: What if I don't hit my cross-sell target?**
-A: No penalty. It's a bonus opportunity, not a requirement. But top performers will be recognized.
+**Q: How much time do these activities take?**
+A: Cross-sell pitches: 2-3 hours total. Referral asks in QBRs: 5 minutes per client. Review asks: 5 minutes after wins.
 
-**Q: When do commissions get paid?**
-A: 50% at contract signing, 50% after 90-day retention milestone.
-
-**Q: What if a cross-sold client churns within 90 days?**
-A: Commission is clawed back (50% returned). Focus on quality fits.
-
-**Q: How much time will this take?**
-A: Cross-sells: 2-3 hours per pitch. Referral asks: 5 minutes in QBR. Review asks: 5 minutes after success.
+**Q: How does this affect compensation?**
+A: Your raises depend on reaching 12%+ profit margin for 3 consecutive quarters. These activities directly drive MRR growth, which determines profitability.
 
 **More questions? Ask in training or Slack!**
