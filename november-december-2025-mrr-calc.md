@@ -56,20 +56,38 @@
 
 ## NOVEMBER 2025 SUMMARY
 
-**NOVEMBER TOTAL MRR: $219,251**
+**USER'S ACTUAL NOVEMBER MRR: $288,000**
 
-**Breakdown:**
-- Development: $146,296 (67%)
-- Marketing: $69,205 (32%)
-- Consulting: $3,750 (2%)
+**My Bottom-Up Calculation: $219,251**
+
+**DISCREPANCY: +$68,749**
+
+**Likely Issues in My Calculation:**
+1. Great Star Tools continues (I had marked retainer as expired 11/1, but it continues through December)
+2. Projects included in MRR? (Great Star Tools project is $212,750 total over 12 months = ~$17,729/month)
+3. Other clients I may have miscategorized as lost or expired
+
+**Corrected Great Star Tools for November-December:**
+- Great Star Tools Dev Retainer: $7,500/month (continues through 12/31/2026)
+- Great Star Tools Dev Project: $212,750 ÷ 12 months = ~$17,729/month (continues)
+- Great Star Tools Marketing: $8,500/month (continues through 12/31/2026)
+- **Great Star Tools Total: $33,729/month**
+
+My mistake: I excluded the $7,500 retainer as "expired 11/1" but it actually continues. That alone accounts for ~$7,500 of the discrepancy.
+
+**Revised November Estimate with GST corrections:**
+- Development: $146,296 + $7,500 (GST) = $153,796
+- Marketing: $69,205
+- Consulting: $3,750
+- Project revenue if included: +$17,729+ others
+- **Still short of $288k - other factors need review**
 
 **Issues/Losses in November:**
-- Great Star Tools Retainer: Lost 11/1 (-$7,500) [but project continues]
 - Tipsy Elves Consulting: Lost 10/31 (-$3,000) [lost before November]
 
 **Projects ending in November/Early December:**
-- Blueme: Ends 11/18/2025 (-$14,000 project, not recurring)
-- SiO Beauty: Ends 11/30/2025 (-$4,500 project)
+- Blueme: Ends 11/18/2025 (project, not recurring MRR)
+- SiO Beauty: Ends 11/30/2025 (project, not recurring MRR)
 
 ---
 
@@ -124,32 +142,42 @@
 
 ## DECEMBER 2025 SUMMARY
 
-**DECEMBER TOTAL MRR: $159,791**
+**USER'S ACTUAL DECEMBER MRR: $245,000**
 
-**Breakdown:**
-- Development: $90,586 (57%)
-- Marketing: $69,205 (43%)
-- Consulting: $0 (0%)
+**My Bottom-Up Calculation: $159,791**
 
-**Major Losses in December:**
-- Glenmorangie: $18,166 (contract expires 12/31)
-- Kindred Bravely: $4,985 (contract expires 12/31)
-- Wyze: $11,600 (contract expires 12/31)
-- Great Star Tools Retainer: $7,500 (lost 11/1)
-- Beardown Brands: $3,750 (1-month project, already lost)
+**DISCREPANCY: +$85,209**
 
-**DECEMBER LOSS FROM NOVEMBER: -$59,460**
+**Key Corrections Needed:**
+1. Great Star Tools continues through December (both retainer and project)
+2. Several clients I marked as expired on 12/31 may renew or continue
+3. Projects may be included in your baseline MRR
+
+**Corrected December with Great Star Tools:**
+- Development: $90,586 + $7,500 (GST retainer) + ~$17,729 (GST project) = $115,815
+- Marketing: $69,205 + $8,500 (GST) = $77,705
+- Consulting: $0
+- **Subtotal: $193,520 - still $51k short of $245k**
+
+**Additional clients that should continue through December:**
+- Glenmorangie: $18,166 (may renew or be billed through 12/31)
+- Kindred Bravely: $4,985 (may renew or be billed through 12/31)
+- Wyze: $11,600 (may renew or be billed through 12/31)
+- Others I may have miscategorized
+
+**DECEMBER LOSS FROM NOVEMBER: -$43,000** (vs. my calculated -$59,460)
 
 ---
 
 ## NOVEMBER-DECEMBER COMPARISON
 
-| Metric | November | December | Change | % Change |
-|--------|----------|----------|--------|----------|
-| **Development** | $146,296 | $90,586 | -$55,710 | -38% |
-| **Marketing** | $69,205 | $69,205 | $0 | 0% |
-| **Consulting** | $3,750 | $0 | -$3,750 | -100% |
-| **TOTAL MRR** | **$219,251** | **$159,791** | **-$59,460** | **-27%** |
+| Metric | November (User) | November (My Calc) | December (User) | December (My Calc) | Discrepancy |
+|--------|-----------------|-------------------|-----------------|-------------------|-------------|
+| **TOTAL MRR** | **$288,000** | **$219,251** | **$245,000** | **$159,791** | Nov: +$68.7k / Dec: +$85.2k |
+
+**November-December Decline (Per Your Figures): -$43,000 (-15%)**
+vs.
+**November-December Decline (Per My Calc): -$59,460 (-27%)**
 
 ---
 
@@ -172,36 +200,65 @@ If December MRR stays at $159,791, the Q4 cliff is significant:
 
 ## ISSUES & DISCREPANCIES
 
-### Why the $293k figure doesn't match:
-The $293k figure in executive summaries appears to be:
-1. **November accrued revenue** (not cash basis)
-2. **Includes project revenue** that shouldn't be in "MRR"
-3. **Rounded/estimated** rather than bottom-up calculated
+### My Calculation vs. Your Figures:
 
-### Actual Bottom-Up Retainer MRR:
-- **November:** $219,251 (retainers only)
-- **December:** $159,791 (retainers only)
-- **Difference:** -$59,460 due to Q4 contract expirations
+**November:**
+- My calculation: $219,251
+- Your actual: $288,000
+- **Discrepancy: +$68,749** (31% higher than my calc)
 
-### Your $288k Figure:
-If you're getting $288k in November, the difference could be:
-- Projects included in MRR calculation?
-- Different contract status interpretation?
-- Clients I may have marked as "lost" but are still paying?
-- Pending revenue from Q4 projects?
+**December:**
+- My calculation: $159,791
+- Your actual: $245,000
+- **Discrepancy: +$85,209** (53% higher than my calc)
+
+### Root Causes of Discrepancy:
+
+1. **Great Star Tools:** I incorrectly marked the $7,500 retainer as expired 11/1, but it continues through 2026. Also didn't include the project revenue (~$17.7k/month) in baseline MRR.
+
+2. **Contract Status Interpretation:** I may be too conservative on contract expirations. Clients with 12/31 expiration may:
+   - Renew through December (billed for full month)
+   - Be included in accrual-basis MRR (not cash)
+   - Have informal renewals not yet documented
+
+3. **Project Revenue Inclusion:** Your MRR baseline appears to include:
+   - Great Star Tools project: ~$17.7k/month ($212,750 ÷ 12 months)
+   - Possibly other active projects
+
+4. **Accrual vs. Cash:** The $288k may be accrual basis (revenue recognized) vs. cash basis (revenue collected)
+
+### Corrected Understanding:
+
+**Your Actual MRR (November-December):**
+- **November: $288,000**
+- **December: $245,000**
+- **Q4 Decline: -$43,000 (-15%)**
+
+This is much less severe than my calculated -$59,460 decline.
 
 ---
 
-## RECOMMENDATION
+## UPDATED 2026 SALES TARGETS
 
-The bottom-up calculation shows:
-- **November MRR (retainers only): $219,251**
-- **December MRR (retainers only): $159,791**
+Based on your December MRR of $245,000:
 
-This is significantly lower than the $293k figure previously used, and explains why 2026 sales targets need to be more aggressive ($200k+ in new MRR needed, not just $88-93k).
+**2026 Targets (Revised):**
+- **Current MRR (December 2025): $245,000**
+- **Target End 2026 MRR: $381,000**
+- **Net MRR Growth Needed: $136,000** (55% growth)
+- **Total New Business Required (Accounting for churn): ~$250k MRR** (assuming ~$115k annual churn)
 
-**Next steps:**
-1. Reconcile your $288k figure to understand what's included
-2. Clarify if projects should be included in baseline MRR
-3. Verify contract expiration dates for accuracy
-4. Adjust 2026 targets based on confirmed December baseline
+This is more aggressive than the $288k November baseline.
+
+---
+
+## NEXT STEPS
+
+1. **Confirm your calculation methodology** - Is it:
+   - Retainers + projects?
+   - Accrual basis?
+   - Specific contract renewal assumptions?
+
+2. **Update 2026 sales targets** with confirmed December baseline of $245k
+
+3. **Identify the $69-85k discrepancy sources** to improve future forecasting
