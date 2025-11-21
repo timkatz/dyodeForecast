@@ -232,6 +232,265 @@ We're successful if we add **$200k+ in new MRR across all channels** while maint
 
 ---
 
+## Sales Funnel Metrics: What's Needed to Hit Targets
+
+To close **29-45 new clients and $212-335k MRR**, we need specific funnel metrics for each channel. Here's what needs to happen:
+
+### Full Year Funnel (2026)
+
+| Stage | Volume | Notes |
+|-------|--------|-------|
+| **LEADS** | 400-600 total | All sources combined |
+| **SQLs (Sales Qualified Leads)** | 100-140 | 15-25% lead conversion |
+| **Opportunities** | 50-80 | 40-60% SQL conversion |
+| **Closes** | 29-45 | 35-60% opportunity conversion |
+| **Implied Close Rate** | 7-11% | Leads to closes |
+
+---
+
+### Channel-Specific Funnel Targets
+
+#### 1. MARTAL LEAD GENERATION
+**Target:** 8-10 new clients, $60-75k MRR
+
+| Funnel Stage | Volume | Conversion |
+|--------------|--------|------------|
+| **Leads (raw outreach)** | 100-150 | — |
+| **SQLs (qualified responses)** | 18 (guaranteed) + 18-30 | SQLs from Martal + follow-up |
+| **Meetings booked** | 15-20 | 75-85% of SQLs |
+| **Opportunities (real interest)** | 8-12 | 50-70% of meetings |
+| **Closes** | 8-10 | 70-85% of opps (Martal quality) |
+| **Monthly Equivalent** | 0.7-0.8 closes/month | Consistent monthly flow |
+
+**What Sales Team Needs to Do:**
+- Accept 18+ SQLs/month from Martal (Nov onwards)
+- Schedule meetings within 24-48 hours
+- Close at 30-40% of SQLs (industry standard for qualified leads)
+- Track: Lead source, meeting date, close date, MRR
+
+---
+
+#### 2. CLIENT REFERRALS
+**Target:** 5-8 referrals converting, $37-60k MRR
+
+| Funnel Stage | Volume | Conversion |
+|--------------|--------|------------|
+| **Referral asks (QBR conversations)** | 50-80 | AMs ask every happy client |
+| **Referrals made (actual intros)** | 8-12 | 15-20% of asks convert to actual referrals |
+| **Referred prospects (contacted)** | 8-12 | 100% (once referred, we contact) |
+| **Meetings/Consultations** | 5-8 | 60-80% of referred prospects |
+| **Opportunities** | 5-8 | 100% of meetings (high intent) |
+| **Closes** | 5-8 | 60-80% of opportunities |
+| **Monthly Equivalent** | 0.4-0.7 closes/month | Quality over volume |
+
+**What Account Managers Need to Do:**
+- Ask for referrals in 50+ QBRs/client conversations
+- Make warm introductions (best if AM introduces, not cold handoff)
+- Track: Referral source, intro date, close date, MRR
+- Deliver excellent work to earn more referrals
+
+**What Sales Team Needs to Do:**
+- Follow up within 48 hours of referral intro
+- Treat referred leads as high-priority (60-80% close rate)
+- Thank referring client and consider referral credit
+
+---
+
+#### 3. CROSS-SELLS (INTERNAL)
+**Target:** 6-8 cross-sells, $40-58k MRR
+
+| Funnel Stage | Volume | Conversion |
+|--------------|--------|------------|
+| **Audit/Discovery (AMs identify opportunity)** | 15-20 clients | 87% of 30 clients use single service |
+| **Pitches/Proposals sent** | 12-15 | 75-80% of opportunities pitched |
+| **Serious interest (conversations)** | 8-10 | 65-75% of pitches generate interest |
+| **Proposals accepted** | 6-8 | 75% of serious conversations |
+| **Closes** | 6-8 | 100% once accepted (internal sell) |
+| **Monthly Equivalent** | 0.5-0.7 closes/month | Back-loaded to Q2-Q4 |
+
+**What Account Managers Need to Do:**
+- Identify 3-5 cross-sell opportunities per AM
+- Pitch 12-15 total across all AMs (3-4 per person)
+- Make compelling business case (show ROI/pain point)
+- Get clients to agree before handing to sales
+- Expected: 1-2 closes per AM
+
+**What Sales Team Needs to Do:**
+- Support proposal preparation
+- Close "warm" opportunities (AMs have done discovery)
+- Expected close rate: 50-70% (not cold)
+
+---
+
+#### 4. FOUNDER-LED SALES (TIM + GEORGE)
+**Target:** 4-6 clients, $30-45k MRR
+
+| Funnel Stage | Volume | Conversion |
+|--------------|--------|------------|
+| **Targets/Prospects identified** | 20-30 | Warm network + Martal migration SQLs |
+| **Outreach (calls, emails, meetings)** | 15-20 | 75% of targets contacted |
+| **Meetings/Consultations** | 10-15 | 65-75% of outreach |
+| **Opportunities** | 6-9 | 60-70% of meetings (founder credibility) |
+| **Closes** | 4-6 | 65-75% of opportunities |
+| **Monthly Equivalent** | 0.3-0.5 closes/month | Consistent pipeline |
+
+**What Founders Need to Do:**
+- Systematic approach: 2 hours/week on sales each
+- Focus on Plus migrations (1-2 of the 4-6 closes)
+- Personal outreach (email + call, not mass blast)
+- Leverage VP experience in conversations
+- Track: Prospect name, contact date, opportunity date, close date, MRR
+
+**What Sales Team Needs to Do:**
+- Support with proposals/demos
+- Close at 65-75% (founder relationship = high close rate)
+
+---
+
+#### 5. INBOUND LEADS (CLUTCH + CONTENT)
+**Target:** 2-3 clients, $15-22k MRR
+
+| Funnel Stage | Volume | Conversion |
+|--------------|--------|------------|
+| **Clutch reviews collected** | 10-15 | Marketing/AMs ask clients |
+| **Clutch profile improvements** | 10-15 stars | Reviews go live, rating improves |
+| **Inbound inquiries** | 15-25 | Result of better Clutch + content SEO |
+| **Sales meetings booked** | 8-12 | 50-60% of inquiries convert to meetings |
+| **Opportunities** | 5-8 | 60-70% of meetings |
+| **Closes** | 2-3 | 40-50% of opportunities (lower than referrals) |
+| **Monthly Equivalent** | 0.2-0.3 closes/month | Picks up over time |
+
+**What Marketing Team Needs to Do:**
+- Collect 10-15 Clutch reviews (target: 1-2 per month)
+- Respond to all Clutch reviews
+- Optimize Clutch profile (better positioning)
+- Launch positioning/content (landing pages, blog)
+- Track: Review submissions, rating improvement, inquiries
+
+**What Sales Team Needs to Do:**
+- Respond to inbound inquiries within 24 hours
+- Track: Inquiry source, meeting date, close date
+- Expected close rate: 40-50% (good fit but need to qualify)
+
+---
+
+#### 6. GOOGLE ADS (PAID ADVERTISING)
+**Target:** 4-6 clients, $30-45k MRR
+
+| Funnel Stage | Volume | Conversion |
+|--------------|--------|------------|
+| **Ad impressions** | 10,000-15,000 | Depends on bid, ad spend |
+| **Ad clicks** | 500-800 | 5-8% click-through rate (CTR) |
+| **Landing page visits** | 400-700 | 75-85% click-to-landing-page |
+| **Leads (form submissions)** | 30-50 | 5-10% landing page conversion |
+| **SQLs (qualified)** | 20-35 | 60-75% of leads qualify |
+| **Meetings booked** | 12-18 | 60% of SQLs |
+| **Opportunities** | 8-12 | 65-75% of meetings |
+| **Closes** | 4-6 | 50-60% of opportunities (mid-quality leads) |
+| **Monthly Equivalent** | 0.3-0.5 closes/month | Consistent with $6k/month spend |
+
+**What's Needed:**
+- **Landing pages:** Optimized for conversion (5-10% submission rate)
+- **Ad copy:** Targeted to ICP, focused on pain points
+- **Bid strategy:** Focus on high-intent keywords (migrations, Shopify Plus)
+
+**What Sales Team Needs to Do:**
+- Follow up with form submissions within 24 hours
+- Qualify leads (are they really ICP?)
+- Track: Ad source, landing page, form submission, close
+
+**What Marketing Needs to Do:**
+- Monitor ad performance (CTR, conversion rate)
+- A/B test landing pages and ad copy
+- Optimize bids for best-performing keywords
+- Track: Ad spend, clicks, conversions, cost per lead (CPL)
+
+---
+
+#### 7. TRADESHOWS & EVENTS
+**Target:** 0-4 clients, $0-30k MRR
+
+| Funnel Stage | Volume | Conversion |
+|--------------|--------|------------|
+| **eTail West:**  | | |
+| Booth visitors | 80-120 | Estimated traffic |
+| Meetings booked (at booth) | 15-20 | 15-20% of visitors |
+| Follow-up conversations | 10-15 | 65% follow-up rate |
+| Opportunities | 2-4 | 20-40% conversion |
+| Closes | 1-2 | 50% of opportunities |
+| | | |
+| **ShopTalk + CES:** | | |
+| Meetings scheduled (before show) | 5-10 | Martal/founder networking |
+| Meetings held (at show) | 3-5 | 60% show-up rate |
+| Follow-up conversations | 2-4 | 60% post-show follow-up |
+| Opportunities | 1-2 | 50% conversion |
+| Closes | 0-1 | 50% of opportunities |
+| | | |
+| **Total Tradeshow Closes** | 1-3 | Varies widely (0-4 possible) |
+| **Monthly Equivalent** | Varies | Concentrated in Feb-Mar + follow-up |
+
+**What Team Needs to Do:**
+- eTail: Man booth, capture contact info, make offers
+- ShopTalk/CES: Schedule meetings before show, show up prepared
+- Post-show: Follow up within 48 hours (80% of value comes from follow-up)
+- Track: Booth visitors, meetings, leads, closes
+
+---
+
+### Combined Monthly Funnel (Blended Average)
+
+**What MONTHLY funnel looks like to hit annual targets:**
+
+| Stage | Monthly Volume | Notes |
+|-------|----------------|-------|
+| **Total Leads** | 35-50 | From all sources |
+| **Total SQLs** | 8-12 | Martal + referrals + Google + founder |
+| **Total Meetings** | 6-10 | SQL meetings + cross-sell pitches |
+| **Total Opportunities** | 4-7 | Quality prospects moving through pipeline |
+| **Closes** | 2-4 | Monthly target (range: 1-5) |
+| **Monthly MRR Added** | $15-25k | Average $5-8k per close |
+
+**Key Metrics by Month (2026):**
+
+| Month | Target Closes | Required Meetings | Required SQLs | Lead Activities Needed |
+|-------|---------------|------------------|--------------|----------------------|
+| Jan | 2-3 | 4-6 | 6-9 | Martal starts, founder outreach, ask for referrals |
+| Feb | 2-3 | 4-6 | 6-9 | eTail West, Martal, Google Ads |
+| Mar | 2-3 | 5-7 | 8-10 | ShopTalk, cross-sell pitches, Martal |
+| Apr | 2-3 | 4-6 | 6-9 | Martal decision, referrals, inbound |
+| May | 2-3 | 4-6 | 6-9 | Content/positioning live, Google Ads |
+| Jun | 2-3 | 5-7 | 8-10 | Founder-led, cross-sells |
+| Jul | 2-3 | 4-6 | 6-9 | Plus migrations focus, referrals |
+| Aug | 2-3 | 4-6 | 6-9 | Cross-sells accelerate, summer slowdown |
+| Sep | 2-3 | 5-7 | 8-10 | Founder-led, Plus migration closes |
+| Oct | 2 | 3-5 | 5-7 | Holiday prep, referrals |
+| Nov | 2 | 3-5 | 5-7 | Holiday slowdown |
+| Dec | 2-3 | 3-5 | 5-8 | Year-end activity, holiday closures |
+| **Total** | **29-36** | **50-75** | **75-110** | **All channels active** |
+
+---
+
+### Daily/Weekly Activity Requirements
+
+To hit monthly targets, here's what daily execution looks like:
+
+**Per Week (Approximate):**
+- **Martal:** Receive 4-5 SQLs, schedule 3-4 meetings, expect 1+ close per month
+- **Referrals:** Ask 10-15 clients about referrals (across all AMs)
+- **Cross-Sells:** Pitch 2-3 clients (ongoing throughout Q2-Q4)
+- **Founder-Led:** 4 hours outreach/meetings (2 per founder)
+- **Google Ads:** Monitor 2-3 leads, respond within 24 hours
+- **Inbound:** 1-2 inquiries (growing over time)
+
+**Per Day (Sales Team):**
+- Check for new Martal SQLs
+- Follow up with pending opportunities
+- Schedule meetings (target: 1-2 per day)
+- Update pipeline
+- Follow up on proposals sent
+
+---
+
 ## Key Metrics to Track Monthly
 
 ### Sales Metrics
