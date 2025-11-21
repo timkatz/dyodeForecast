@@ -318,7 +318,7 @@ Throughout this document, "clients" refers to **unique companies** unless otherw
 1. **High project dependency** (26% of revenue - projects naturally end)
 2. **Too many month-to-month contracts** (24% of MRR - no commitment)
 3. **Economic headwinds** (inflation, tariffs impacting eCommerce clients)
-4. **Lack of systematic lead generation** (tried cold email, founder-led, Google Ads March 2025—closed 4 clients but couldn't sustain; relied primarily on organic/inbound and referrals)
+4. **Lack of systematic lead generation** (tried cold email, founder-led, Google Ads March 2025—closed 4 clients but couldn't sustain; Meta/LinkedIn Ads attempted but creative direction challenges prevented launch; relied primarily on organic/inbound and referrals)
 5. **Insufficient retention processes** (no formal QBRs, renewal outreach)
 6. **Quality of client fit** (some clients may not be ideal long-term fits)
 

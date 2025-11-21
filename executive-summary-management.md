@@ -83,7 +83,7 @@ This document outlines:
 - **See cofounders summary for detailed client-by-client breakdown**
 
 **2. No Systematic Lead Generation**
-- Tried multiple channels over the years: cold email, founder-led, Google Ads (March 2025, closed 4 clients but couldn't sustain past August)
+- Tried multiple channels over the years: cold email, founder-led, Google Ads (March 2025, closed 4 clients but couldn't sustain past August), Meta/Instagram Ads and LinkedIn Ads (creative direction challenges prevented launch)
 - Relied primarily on organic/inbound and referrals
 - No predictable, consistent pipeline
 - Feast or famine cycles
