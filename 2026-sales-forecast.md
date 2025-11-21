@@ -1,7 +1,7 @@
 # DYODE 2026 Sales Forecast & Strategy
 
 **Last Updated:** November 2025
-**Prepared By:** Tim Katz & George, Co-Founders
+**Prepared By:** Tim Katz
 
 ---
 

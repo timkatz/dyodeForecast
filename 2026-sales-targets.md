@@ -1,7 +1,7 @@
 # 2026 Sales Targets
 ## Account Management & Sales Team Goals
 
-**Prepared By:** Tim Katz & George, Co-Founders
+**Prepared By:** Tim Katz
 **Date:** November 2025
 **Purpose:** Clear sales targets by channel, quarter, and month for 2026 execution
 

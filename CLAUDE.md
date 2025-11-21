@@ -335,3 +335,59 @@ DYODE is a small team with the following structure:
 - Tight budget: Need to balance fairness with cost control
 - Use Google Sheets for tracking (not complex CRM workflows)
 - When updating incentive program documents, replace generic "Account Manager" references with actual client-facing role titles
+
+## Document Creation & Attribution Guidelines
+
+### Author Attribution
+
+**For all new markdown documents created:**
+- **Prepared By:** Should always be "Tim Katz" (the user/owner of this repository)
+- **Do NOT attribute** to "Tim Katz & George, Co-Founders" or any other co-founder unless they were directly involved in creating the specific document
+- **Exception:** If a document is truly co-authored (e.g., both founders collaborated on content), both names can be included, but default is Tim Katz as the primary preparer
+
+**Examples of correct attribution:**
+- Marketing/positioning strategy docs: "Prepared By: Tim Katz"
+- Sales targets/forecasts: "Prepared By: Tim Katz"
+- Internal strategy docs: "Prepared By: Tim Katz"
+- Team communications: "Prepared By: Tim Katz"
+
+### Document Header Format
+
+When creating new strategic/planning documents, use this header format:
+
+```markdown
+# [Document Title]
+
+**Prepared By:** Tim Katz
+**Date:** [Month Year]
+**Purpose:** [Brief description of document purpose]
+
+---
+```
+
+### Audience & Confidentiality Notes
+
+Include confidentiality level for sensitive documents:
+
+```markdown
+**Confidentiality:** [Co-Founder Eyes Only / Executive Management Only / Account Management & Sales Team / Entire Team]
+```
+
+Use these guidelines:
+- **Co-Founder Eyes Only:** Documents with specific financial figures (annual revenue, profit dollars, investment amounts, detailed churn numbers)
+- **Executive Management Only:** Documents with full MRR visibility and strategic decisions
+- **Account Management & Sales Team:** Documents with sales targets, metrics, execution plans (MRR focused, not annual revenue)
+- **Entire Team:** Documents about company updates, culture, general direction (high-level only)
+
+### Content Guidelines for New Documents
+
+**MRR vs. Revenue Focus:**
+- For co-founder documents: Can include both MRR and annual revenue context
+- For management documents: MRR only (no annual revenue figures)
+- For team-facing documents: Targets and % to goal (not absolute dollars)
+
+**Avoid:**
+- Attribution to both co-founders unless specifically collaborated
+- Annual revenue figures in non-confidential documents
+- Profit dollar amounts in team communications
+- Over-detailed financial information in wide-audience documents
