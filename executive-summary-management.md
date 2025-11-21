@@ -15,7 +15,7 @@ Historically, we've shared limited financial metrics with the team:
 - Profit margin % (entire company)
 - % to MRR goal (progress toward profitability targets)
 
-This summary includes **full revenue details, MRR figures, and strategic financial planning** that have not previously been shared broadly.
+This summary includes **MRR figures and strategic financial planning** that have not previously been shared broadly.
 
 **Why we're sharing this now:**
 - The management team needs complete visibility to lead effectively
