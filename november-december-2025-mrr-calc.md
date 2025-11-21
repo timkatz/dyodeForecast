@@ -67,13 +67,19 @@
 2. Projects included in MRR? (Great Star Tools project is $212,750 total over 12 months = ~$17,729/month)
 3. Other clients I may have miscategorized as lost or expired
 
-**Corrected Great Star Tools for November-December:**
-- Great Star Tools Dev Retainer: $7,500/month (continues through 12/31/2026)
-- Great Star Tools Dev Project: $212,750 ÷ 12 months = ~$17,729/month (continues)
-- Great Star Tools Marketing: $8,500/month (continues through 12/31/2026)
-- **Great Star Tools Total: $33,729/month**
+**Great Star Tools Pricing Structure:**
 
-My mistake: I excluded the $7,500 retainer as "expired 11/1" but it actually continues. That alone accounts for ~$7,500 of the discrepancy.
+**November-December 2025:**
+- Dev Retainer: $7,500/month (old rate before renewal)
+- Dev Project: $212,750 ÷ 12 months = ~$17,729/month
+- Marketing: $8,500/month
+- **Nov-Dec Total: $33,729/month**
+
+**January 2026 Onwards (After Renewal):**
+- Dev Retainer: $3,750/month (renewed rate - 25 hours/month vs. 50 hours)
+- Dev Project: $212,750 ÷ 12 months = ~$17,729/month
+- Marketing: $8,500/month
+- **2026 Total: $29,979/month (reduction of $3,750/month in retainer)**
 
 **Revised November Estimate with GST corrections:**
 - Development: $146,296 + $7,500 (GST) = $153,796
@@ -238,17 +244,27 @@ This is much less severe than my calculated -$59,460 decline.
 
 ---
 
+## 2026 MRR BASELINE WITH GREAT STAR TOOLS RENEWAL
+
+**GST Renewal Impact on 2026 Starting MRR:**
+- **December 2025 MRR:** $245,000 (GST dev retainer still at $7,500)
+- **January 2026 change:** -$3,750 (GST dev retainer drops from $7,500 → $3,750/month)
+- **January 2026 MRR baseline:** ~$241,250
+
+**Important:** The Great Star Tools project ($17,729/month) continues through 2026 and is already included in the $245k baseline.
+
 ## UPDATED 2026 SALES TARGETS
 
-Based on your December MRR of $245,000:
+Based on your confirmed December 2025 MRR of $245,000:
 
 **2026 Targets (Revised):**
 - **Current MRR (December 2025): $245,000**
+- **January 2026 baseline (after GST renewal): $241,250** (retainer drops $3,750)
 - **Target End 2026 MRR: $381,000**
-- **Net MRR Growth Needed: $136,000** (55% growth)
-- **Total New Business Required (Accounting for churn): ~$250k MRR** (assuming ~$115k annual churn)
+- **Net MRR Growth Needed: $139,750** (58% growth from Jan baseline)
+- **Total New Business Required (Accounting for churn): ~$255k MRR** (assuming ~$115k annual churn + $3,750 GST reduction)
 
-This is more aggressive than the $288k November baseline.
+The Great Star Tools renewal slightly increases the 2026 growth challenge by reducing recurring dev retainer from $7,500 to $3,750/month starting January 2026.
 
 ---
 

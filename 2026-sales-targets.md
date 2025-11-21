@@ -9,11 +9,12 @@
 
 ## 2026 Annual Sales Target Overview
 
-### Current State (December 2025)
-- **Current MRR:** $245k (confirmed baseline)
+### Current State & January 2026 Baseline
+- **December 2025 MRR:** $245k (confirmed baseline)
+- **January 2026 MRR:** ~$241k (after Great Star Tools renewal reduces dev retainer from $7.5k → $3.75k/month)
 - **Target End 2026 MRR:** $381k
-- **Net MRR Growth Needed:** $136k (55% growth)
-- **Total New Business Required (Accounting for Churn):** ~$250k MRR (accounting for ~$115k estimated churn)
+- **Net MRR Growth Needed:** $140k (58% growth from Jan baseline)
+- **Total New Business Required (Accounting for Churn):** ~$255k MRR (including ~$115k estimated churn + $3.75k GST retainer reduction)
 
 ### Success Definition
 We're successful if we add **$200k+ in new MRR across all channels** while maintaining **churn below 25%**.
