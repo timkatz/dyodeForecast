@@ -10,15 +10,14 @@
 ## 2026 Annual Sales Target Overview
 
 ### Current State & January 2026 Baseline
-- **December 2025 MRR (All Services):** $245k (confirmed, includes GST project)
-- **December 2025 Recurring MRR (Retainers Only):** ~$227k (excluding GST project ~$17.7k/month)
-- **January 2026 Recurring MRR:** ~$223k (after Great Star Tools dev retainer reduces $7.5k → $3.75k/month; GST project ends 5/1/2026)
+- **December 2025 MRR:** $245k (confirmed baseline)
+- **January 2026 MRR:** ~$241k (after Great Star Tools renewal reduces dev retainer from $7.5k → $3.75k/month)
 - **Target End 2026 MRR:** $381k
-- **Net MRR Growth Needed:** $158k (71% growth from Jan baseline of $223k)
-- **Total New Business Required (Accounting for Churn):** ~$273k MRR (including ~$115k estimated churn + $3.75k GST retainer reduction)
+- **Net MRR Growth Needed:** $140k (58% growth from Jan baseline)
+- **Total New Business Required (Accounting for Churn):** ~$255k MRR (including ~$115k estimated churn + $3.75k GST retainer reduction)
 
 ### Success Definition
-We're successful if we add **$220k+ in new MRR across all channels** while maintaining **churn below 25%**. This accounts for ~$115k churn offset and gets us from $223k baseline to $381k target.
+We're successful if we add **$200k+ in new MRR across all channels** while maintaining **churn below 25%**.
 
 ---
 
@@ -601,66 +600,3 @@ To hit monthly targets, here's what daily execution looks like:
 ---
 
 **Questions? Ask your manager or Tim/George.**
-
----
-
-## Appendix: 2026 Baseline Recalculation (Great Star Tools Project)
-
-### Why the Baseline Changed
-
-**Great Star Tools Development Project:**
-- **Project Value:** $212,750
-- **Project Timeline:** 5/1/2025 - 5/1/2026 (one-time project)
-- **Monthly Equivalent:** ~$17,729/month
-- **Status:** Completed 5/1/2025, does NOT continue into 2026
-
-**Impact on December 2025 MRR:**
-The confirmed $245k December MRR includes the GST project revenue (~$17.7k). This creates a one-time spike that doesn't recur in January 2026.
-
-**December 2025 Breakdown:**
-- Recurring retainers (dev, marketing, consulting): ~$227k
-- GST project remaining balance: ~$17.7k
-- **Total: ~$245k**
-
-**January 2026 Breakdown:**
-- Recurring retainers less GST dev reduction: ~$223k
-- GST project: $0 (ended)
-- **Total: ~$223k**
-
-### Updated 2026 Growth Calculations
-
-**Starting Point Correction:**
-
-| Metric | Previous Calc | Corrected | Difference |
-|--------|---------------|-----------|-----------|
-| Jan 2026 MRR Baseline | $241k | $223k | -$18k |
-| Growth Needed to $381k | $140k | $158k | +$18k |
-| Growth % Required | 58% | 71% | +13 ppts |
-| New Business Required | $255k | $273k | +$18k |
-
-**Key Changes:**
-1. **Baseline is lower by $18k** - GST project not repeating in 2026
-2. **Growth targets are higher by $18k** - Must add more new business to hit $381k
-3. **Churn impact is same** - ~$115k estimated annual churn from current base
-
-### What This Means for Execution
-
-**Good News:**
-- $273k new business requirement is specific and achievable
-- 7 channels provide diverse ways to hit target
-- Average deal size of $7-8k means 35-40 new clients needed (attainable)
-
-**Reality Check:**
-- Cannot rely on any one-time project revenue
-- 2026 is about sustainable recurring revenue
-- GST retainer reduction ($3.75k) is permanent starting Jan 2026
-
-### Monthly Impact Throughout 2026
-
-**Q1-Q4 baseline assumes:**
-- January: Start at $223k recurring (no GST project)
-- Add monthly new business from all channels
-- Subtract estimated churn (~$9-10k/month)
-- Net growth each month to progress toward $381k year-end
-
-This is why consistent monthly execution across all 7 channels is critical—there's no recurring revenue cushion from projects.
