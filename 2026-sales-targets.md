@@ -9,11 +9,11 @@
 
 ## 2026 Annual Sales Target Overview
 
-### Current State (November 2025)
-- **Current MRR:** $288k (bottom-up forecast)
+### Current State (December 2025)
+- **Current MRR:** $245k (confirmed baseline)
 - **Target End 2026 MRR:** $381k
-- **Net MRR Growth Needed:** $93k (32% growth)
-- **Total New Business Required (Accounting for Churn):** ~$210k MRR (accounting for ~$115k churn)
+- **Net MRR Growth Needed:** $136k (55% growth)
+- **Total New Business Required (Accounting for Churn):** ~$250k MRR (accounting for ~$115k estimated churn)
 
 ### Success Definition
 We're successful if we add **$200k+ in new MRR across all channels** while maintaining **churn below 25%**.
