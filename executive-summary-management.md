@@ -51,6 +51,28 @@ This document outlines:
 
 ## 2025: The Reality Check
 
+### The Competitive Landscape Has Shifted
+
+**Market Reality:**
+- **Shopify agencies have proliferated:** When DYODE started, the partner ecosystem was smaller. Today: hundreds of agencies claim Shopify expertise.
+- **Macro headwinds:** Inflation (2024), tariffs (2025), and AI disruption (2023-2025+) have made clients more cautious and budget-conscious.
+- **Bigger, more sophisticated competitors:** Larger agencies with stronger brands, better content, and clearer positioning are dominating.
+
+**What this means for DYODE:**
+- We can't compete on services alone ("we do Shopify development + marketing") — that's what every agency says
+- We need to position as **strategic partners**, not service vendors
+- Prospects need content and thought leadership before they'll engage with us
+- When our outbound efforts (Martal, ads, cold email) reach prospects, we're giving them little reason to engage if our website and materials look like every other agency
+- Without differentiation, we're in commodity pricing battles that kill margins
+
+**Our advantage:**
+- **Tim and George are VP-level eCommerce strategists** from billion-dollar omnichannel retailers
+- This is real, credible, rare — most agencies hire junior resources
+- Mid-market eCommerce brands ($10M+) desperately need this level of strategic partnership
+- **But no one knows about it** because we haven't built content, positioning, or sales assets around it
+
+---
+
 ### The Numbers
 
 **Current State (November 2025):**
@@ -674,6 +696,46 @@ Even if we close 4 Plus migrations, we can still lose Premier tier if we don't r
 - Clutch review links
 - Social proof content
 - Success story templates
+
+---
+
+### Strategic Investment: Market Positioning & Content
+
+**The Reality:** Your outbound efforts (Martal, ads, cold email, founder-led) will only work effectively if prospects find compelling content when they research DYODE.
+
+**What's being built (2026):**
+
+1. **Strategic Positioning Framework**
+   - Why DYODE is different: VP-level eCommerce expertise (not just "we do Shopify")
+   - Founder credibility story: Billion-dollar omnichannel retail experience
+   - Message alignment across all channels
+
+2. **Problem-Specific Landing Pages** (Tied to your outbound campaigns)
+   - "The Migration Trap" (BigCommerce → Shopify Plus)
+   - "Shopify Plus for Mid-Market"
+   - "Email Marketing Strategy for Shopify"
+   - Each with relevant case studies, frameworks, CTAs
+
+3. **Thought Leadership Content**
+   - Blog series: "VP Perspective on [Topic]"
+   - Resource guides and frameworks
+   - Case study library showcasing results
+   - Video case studies in founder voice
+
+4. **Website Redesign**
+   - Reflects strategic positioning (not "here's what we do")
+   - Drives visitors to relevant landing pages based on their problems
+   - Builds credibility through content + founder expertise
+
+**Why this matters for your role:**
+- When you send a cold email or referral partner directs someone to DYODE, landing page should reflect strategic thinking (not commodity positioning)
+- When Martal delivers a lead and they Google you, website should reinforce "strategic partner" narrative
+- When prospects evaluate you vs. competitors, content should demonstrate founder expertise and strategic framework thinking
+- Better positioning = Higher conversion rates = Your cross-sells and referrals close faster
+
+**Investment:** $54-90k for Phase 1 (positioning + foundation content)
+
+**Timeline:** Jan-June 2026
 
 ---
 
