@@ -83,8 +83,9 @@ This document outlines:
 - **See cofounders summary for detailed client-by-client breakdown**
 
 **2. No Systematic Lead Generation**
-- Relied on organic/referrals only until Nov 2025
-- No predictable pipeline
+- Tried multiple channels over the years: cold email, founder-led, Google Ads (March 2025, closed 4 clients but couldn't sustain past August)
+- Relied primarily on organic/inbound and referrals
+- No predictable, consistent pipeline
 - Feast or famine cycles
 
 **3. Too Many Month-to-Month Contracts**
