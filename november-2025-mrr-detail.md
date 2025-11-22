@@ -18,18 +18,18 @@
 | Cookware Co | $9,375 | Month-to-Month | 75 hours at $125/hr; contract expired 6/30/2025, continues MTM |
 | DITA | $7,500 | Month-to-Month | No contract expiration, MTM |
 | Glenmorangie | $0 | Active Term (exp 12/31/2025) | Quarterly advance billing: $22,500/quarter (150 hrs @ $150/hr) accrued Jan/Apr/Jul/Oct |
-| Great Star Tools - Dev Retainer | $3,750 | Active Term (exp 12/31/2026) | 12-month retainer, started 5/1/2025 |
+| Great Star Tools - Dev Retainer | $7,500 | Active Term (exp 12/31/2025) | Dev retainer: $7,500/month through Dec 2025, reduces to $3,750/month starting Jan 2026 |
 | Kindred Bravely | $4,985 | Active Term (exp 12/31/2025) | 15-month retainer, expires 12/31 |
 | L*Space | $4,950 | Month-to-Month | Contract expired 4/30/2025, continues MTM |
 | Midland USA | $7,500 | Active Term (exp 2/15/2026) | 6-month retainer |
 | Nowadays | $3,900 | Active Term (exp 2/14/2026) | 6-month retainer |
 | NYDJ | $5,921 | Active Term (exp 9/25/2026) | 6-month retainer |
 | S&B Filters | $2,488 | Active Term (exp 1/10/2026) | 3-month retainer |
-| Satechi - Dev Retainer | $6,250 | Active Term (exp 4/1/2027) | 12-month retainer, started 4/1/2026 |
+| Satechi - Dev Retainer | $0 | Starts April 2026 | Will be $6,250/month starting 4/1/2026 after project ends 3/31/2026 |
 | Tipsy Elves - Development | $7,500 | Active Term (exp 5/5/2026) | 6-month retainer |
 | Tori Richard & Kahala | $3,960 | Month-to-Month | Contract expired 2/28/2021, continues MTM |
 | Wyze | $16,800 | Active Term (exp 12/31/2025) | 140 hours/month at $120/hr (Q3-Q4 2025 rate); reverts to 70 hours at $125/hr ($8,750) in January |
-| **DEVELOPMENT SUBTOTAL** | **$133,638** | | |
+| **DEVELOPMENT SUBTOTAL** | **$137,388** | | |
 
 ---
 
@@ -93,7 +93,7 @@
 | Ad-Hoc Dev Hours | $7,500 |
 | **Other Revenue Subtotal** | **$46,000** |
 | | |
-| **NOVEMBER 2025 TOTAL MRR** | **$252,593** |
+| **NOVEMBER 2025 TOTAL MRR** | **$256,343** |
 
 ---
 
@@ -101,11 +101,11 @@
 
 | Service | MRR | % of Total |
 |---------|-----|-----------|
-| Development | $143,638 | 56.8% |
-| Marketing | $69,205 | 27.4% |
-| Consulting | $18,750 | 7.4% |
-| Other (Commissions, Ad-Hoc) | $21,000 | 8.3% |
-| **TOTAL** | **$252,593** | **100%** |
+| Development | $147,388 | 57.5% |
+| Marketing | $69,205 | 27.0% |
+| Consulting | $18,750 | 7.3% |
+| Other (Commissions, Ad-Hoc) | $21,000 | 8.2% |
+| **TOTAL** | **$256,343** | **100%** |
 
 ---
 
@@ -113,12 +113,12 @@
 
 | Type | Count | MRR | % of Total |
 |------|-------|-----|-----------|
-| Active Term (Fixed Duration) | 16 | $148,460 | 58.7% |
-| Month-to-Month (No Contract) | 8 | $57,041 | 22.6% |
-| Projects | 2 | $30,000 | 11.9% |
-| Other (Commissions, Ad-Hoc) | — | $16,000 | 6.3% |
+| Active Term (Fixed Duration) | 16 | $152,210 | 59.4% |
+| Month-to-Month (No Contract) | 8 | $57,041 | 22.2% |
+| Projects | 2 | $30,000 | 11.7% |
+| Other (Commissions, Ad-Hoc) | — | $16,000 | 6.2% |
 | Quarterly Advance (Glenmorangie) | 1 | $0 | — |
-| **TOTAL** | **27** | **$252,593** | **100%** |
+| **TOTAL** | **27** | **$256,343** | **100%** |
 
 ---
 
@@ -177,8 +177,8 @@
 ## Comparison to Your Actual November MRR
 
 **Your Actual:** $288,000
-**My Calculation:** $252,593
-**Discrepancy:** +$35,407 (12.3% higher in actual)
+**My Calculation:** $256,343
+**Discrepancy:** +$31,657 (11.0% higher in actual)
 
 **Note:** Glenmorangie is not included in monthly MRR ($0) but will have $22,500 accrued in January 2026 (quarterly advance). This doesn't affect November/December MRR but is important for 2026 revenue planning.
 
