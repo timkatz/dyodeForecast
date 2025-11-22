@@ -279,7 +279,7 @@ A: In 2024, we hit target for 2 quarters, gave raises, then margins collapsed in
 **Financial (2026 Year-End):**
 - ✅ 12%+ profit margin sustained
 - ✅ $4.2M revenue (up from $3.4M)
-- ✅ $370-380k MRR (up from $293k)
+- ✅ $370-380k MRR (up from $288.5k)
 
 **Operational:**
 - ✅ 6-8 cross-sells closed (team goal)

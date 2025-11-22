@@ -77,9 +77,10 @@ Throughout this document, "clients" refers to **unique companies** unless otherw
 - Blueme (Development): $3,500 - ended 11/18/25
 - Kyles Organics (Development): $4,400 - ended 11/5/25
 - SiO Beauty (Development): $4,500 - ending 11/30/25 ✅ **CORRECTED**
-- MadEngine Marketing: $15,000 - ending ~1/2/26
-- MadEngine Consulting: $15,000 - ending ~1/2/26
-- **Satechi (Development): $14,444 - ending 3/31/26** ✅ **CORRECTED**
+- MadEngine Marketing: $15,000 - ending 12/31/25
+- MadEngine Consulting: $15,000 - ending 12/31/25
+- **Satechi (Development): Total $49,500 project (billed Nov $36k + Mar $13.5k)** ✅ **CORRECTED**
+  - Billings: $36,000 in November 2025, $13,500 in March 2026 (when project completes 3/31/26)
   - **SUCCESS STORY:** Converting to $6,250/month retainer starting 4/1/26 (12-month term)
   - Proves project→retainer conversion strategy works!
 - **Total Project Revenue Ending Q1 2026:** $60,594
@@ -385,22 +386,35 @@ This churn analysis directly informs our 2026 priorities:
 
 ### Overall Goal: Reverse Decline & Return to Growth
 
-**2026 MRR Baseline Components:**
+**2026 MRR Baseline Components (January 2026):**
+
+*Corrected based on December 2025 bottom-up calculation ($274,925) and Satechi billing schedule:*
+
 | Component | Monthly | Notes |
 |-----------|---------|-------|
-| Core Retainers (Jan 2026) | ~$223k | After GST renewal reduction |
-| Partner Referral Commission | $8.5k | Baseline partnership revenue |
-| Ad-Hoc Dev Hours (Overages) | $7.5k | Client overage hours above minimums |
-| **Total January 2026 Baseline** | **$238.5k** | Recurring monthly revenue |
+| Development Retainers | $130,088 | Dec $141,888 - GST ($3.75k) - Wyze ($8.05k) + PoT increase ($7.07k) |
+| Marketing Retainers | $78,787 | Corrected Pair of Thieves ($19.4k) + United Scope ($14.635k) |
+| **Core Retainers Subtotal** | **$208,875** | Base recurring retainers (no projects, no Beardown) |
+| Partner Referral Commission | $8,500 | Baseline partnership revenue |
+| Ad-Hoc Dev Hours (Overages) | $7,500 | Client overage hours above minimums |
+| **Total January 2026 Baseline** | **$224,875** | Stable recurring (Satechi project billed Nov/Mar only) |
 
-**Target End 2026 MRR:** $381,496
+**Target End 2026 MRR:** $381,000
 **Projected 2026 Annual Revenue:** $4.1M - $4.2M
 
 **Growth Metrics:**
 | Metric | Amount | Percentage |
 |--------|--------|------------|
-| MRR Growth | +$143k | 60% from Jan baseline |
+| MRR Growth | +$156,125 | 69% from Jan baseline |
 | Revenue Growth | +$1.0M | 32% |
+
+**Note on January Changes from December (Dec: $274,925 → Jan: $224,875):**
+- MadEngine Projects end 12/31/2025: -$30,000 (no projects in January)
+- Great Star Tools Dev reduction: -$3,750 (contract term-down)
+- Wyze hours reduction: -$8,050 (140→70 hours at lower rate)
+- Beardown Brands: -$3,750 (December delivery, not recurring)
+- TripleK Bonus: -$4,500 (December one-time only)
+- **Total December-to-January decline:** -$50,050
 
 ### Strategic Priorities
 

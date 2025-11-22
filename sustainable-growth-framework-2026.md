@@ -180,7 +180,7 @@ Just like you're expected to:
 **Status:** Building momentum, not yet at goal
 
 **Revenue Targets:**
-- MRR: $310-320k (from $293k)
+- MRR: $310-320k (from $288.5k)
 - Quarterly revenue: ~$950k
 
 **Growth Activities:**
@@ -380,7 +380,7 @@ Just like you're expected to:
 ### Financial Success:
 - ✅ **13-15% profit margin** sustained for Q3 + Q4 2026
 - ✅ **$4.2M revenue** (up from $3.4M in 2025)
-- ✅ **$370-380k MRR** (up from $293k in Nov 2025)
+- ✅ **$370-380k MRR** (up from $288.5k in Nov 2025)
 - ✅ **$560-630k annual profit** (up from $7.5k in 2025)
 
 ### Operational Success:

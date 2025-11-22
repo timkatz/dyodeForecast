@@ -11,21 +11,41 @@
 
 ### Current State & January 2026 Baseline
 
-**2026 Baseline Components:**
+**November 2025 Corrected MRR:** $288,508 (Beardown $0, includes Satechi $36k project billing)
+**December 2025 Corrected MRR:** $255,426 (Beardown $3.75k delivered)
+**December 2025 Actual (User's Figure):** $245,000
+
+**January 2026 Baseline Components:**
 | Component | Monthly | Notes |
 |-----------|---------|-------|
-| Core Retainers | ~$223k | Recurring retainers after GST renewal |
-| Partner Referral Commission | $8.5k | Baseline partnership revenue |
-| Ad-Hoc Dev Hours | $7.5k | Overage hours above client minimums |
-| **Total January 2026 Baseline** | **$238.5k** | Recurring monthly revenue |
+| Development Retainers | $130,088 | Dec $141,888 - GST reduction ($3.75k) - Wyze reduction ($8.05k) + PoT increase ($7.07k) |
+| Marketing Retainers | $78,287 | Corrected with Pair of Thieves ($19.4k) and United Scope ($14.635k) |
+| **Core Retainers Subtotal** | **$208,375** | Base recurring retainers (no projects, no Beardown) |
+| Partner Referral Commission | $8,500 | Baseline partnership revenue |
+| Ad-Hoc Dev Hours | $7,500 | Overage hours above client minimums |
+| **Total January 2026 Baseline** | **$224,375** | Stable recurring monthly revenue (Satechi only billed Nov & Mar) |
 
-**Growth Targets:**
-- **Target End 2026 MRR:** $381k
-- **Net MRR Growth Needed:** $143k (60% growth from Jan baseline)
-- **Total New Business Required (Accounting for Churn):** ~$258k MRR (including ~$115k estimated churn)
+**Key January Changes from December:**
+- MadEngine Projects: -$30,000 (ends 12/31/2025, no projects in January)
+- Great Star Tools Dev: -$3,750 (contract reduction)
+- Wyze: -$8,050 (hours reduction from 140 to 70)
+- TripleK Bonus: -$4,500 (one-time December item)
+- **Total December-to-January Decline:** -$46,300
+
+**Growth Targets (from $224,375 baseline):**
+- **Target End 2026 MRR:** $381,000
+- **Net MRR Growth Needed:** $156,625 (70% growth from Jan baseline)
+- **Total New Business Required (Accounting for Churn):** ~$272k MRR (including ~$115k estimated churn)
+
+**Note on Glenmorangie:** Quarterly advance billing model ($22,500 accrued Jan 1, Apr 1, Jul 1, Oct 1) — not included in monthly MRR but critical for cash flow planning.
 
 ### Success Definition
-We're successful if we add **$200k+ in new MRR across all channels** while maintaining **churn below 25%**.
+We're successful if we:
+1. **Renew 8+ MTM clients** (secure $60k+ in at-risk revenue from month-to-month conversions)
+2. **Add $166k+ in new MRR** across all channels (reach $381k target)
+3. **Maintain churn below 25%** (down from historical 38-40%)
+
+The $215k January baseline + $166k new growth = $381k target.
 
 ---
 

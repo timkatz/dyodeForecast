@@ -9,8 +9,8 @@
 ## The Bottom Line
 
 **2025 Reality Check (Forecasted):**
-- Current MRR: **$292,946 accrued** (down from $350k+ peak, as of Nov 2025)
-- **Forecasted 2025 Accrual Revenue:** **$3.597M** (-10.0% YoY, Nov-Dec accrual: $585k)
+- Current MRR: **$288,508 accrued** (down from $350k+ peak, as of Nov 2025)
+- **Forecasted 2025 Accrual Revenue:** **$3.589M** (-10.1% YoY, Nov-Dec accrual: $544k)
 - **Forecasted 2025 Cash Revenue:** **$3.414M** (-14.2% YoY, Nov: $287k, Dec: $245k)
 - **Accrual-to-Cash Gap:** **$183.5k**
   - **Primary driver:** $165k distressed AR (Movano $46k, The Bruery $66k, other late payers $53k)
@@ -38,7 +38,7 @@
 - **Accrual basis:** All MRR and revenue figures are accrued revenue unless otherwise noted (cash basis shown for 2025 comparison only)
 - Accrual revenue matches MRR tracking, but cash reality is tighter due to AR from equity/relationship situations (not typical collections issues)
 
-**The Challenge:** We need to add **$209k in new MRR (accrued)** while fighting **37% retainer churn** (40% across all clients incl. projects/ad-hoc) in a market with frozen client budgets and increasing competition.
+**The Challenge:** We need to add **$212.5k in new MRR (accrued)** while fighting **37% retainer churn** (40% across all clients incl. projects/ad-hoc) in a market with frozen client budgets and increasing competition.
 
 **The Strategy:** Multi-channel growth approach combining new client acquisition, cross-selling, referrals, and churn reduction.
 

@@ -41,11 +41,11 @@
 | Bandai Namco | $7,667 | Active Term (exp 3/31/2026) | 12-month retainer |
 | Beach Bunny | $6,283 | Active Term (exp 5/21/2026) | 6-month retainer |
 | Great Star Tools - Marketing | $8,500 | Active Term (exp 12/31/2026) | 12-month retainer |
-| Pair of Thieves | $12,330 | Active Term (no expiration) | Retainer, no expiration date |
+| Pair of Thieves | $19,400 | Active Term (no expiration) | Retainer, no expiration date |
 | Posiedon Bikes | $8,625 | Month-to-Month | 12-month retainer, renewed 10/28/2025 |
 | Stikwood | $8,677 | Month-to-Month | Contract expired 12/30/2024, continues MTM |
-| United Scope | $12,623 | Month-to-Month | Contract expired 3/30/2023, continues MTM |
-| **MARKETING SUBTOTAL** | **$69,205** | | |
+| United Scope | $14,635 | Month-to-Month | Contract expired 3/30/2023, back to baseline for December |
+| **MARKETING SUBTOTAL** | **$78,287** | | |
 
 ---
 
@@ -53,19 +53,20 @@
 
 | Client | Monthly $ | Contract Status | Notes |
 |--------|-----------|-----------------|-------|
-| Beardown Brands | $0 | ENDED | 1-month project ended after August |
+| Beardown Brands | $3,750 | Project (1 month) | One-time project delivery in December |
 | Tipsy Elves - Consulting | $0 | LOST | Lost 10/31/2025, NOT included in December |
-| **CONSULTING SUBTOTAL** | **$0** | | |
+| **CONSULTING SUBTOTAL** | **$3,750** | | |
 
 ---
 
-## PROJECTS (Monthly Average)
+## PROJECTS
 
-| Client | Project Value | Term (Months) | Monthly Equivalent | Notes |
-|--------|-------------|--------------|-------------------|-------|
-| MadEngine - Marketing Project | $45,000 | 3 | $15,000 | Live 10/2/2025, ends ~1/2/2026 (still active in Dec) |
-| MadEngine - Consulting Project | $45,000 | 3 | $15,000 | Live 10/2/2025, ends ~1/2/2026 (still active in Dec) |
-| **PROJECT SUBTOTAL** | **$90,000** | | **$30,000** | |
+| Client | Billing Month | Amount | Notes |
+|--------|--------------|--------|-------|
+| MadEngine - Marketing Project | Oct 2025 - Dec 2025 | $45,000 | Live 10/2/2025, ends 12/31/2025 (final month) |
+| MadEngine - Consulting Project | Oct 2025 - Dec 2025 | $45,000 | Live 10/2/2025, ends 12/31/2025 (final month) |
+| Satechi - Development Project | (Not billed in Dec) | $0 | Billed $36k in Nov; final $13.5k in March when project completes |
+| **DECEMBER PROJECT TOTAL** | | **$30,000** | MadEngine ends in December; no projects in January |
 
 ---
 
@@ -84,10 +85,10 @@
 
 | Category | Monthly $ |
 |----------|-----------|
-| Development Retainers | $152,196 |
-| Marketing Retainers | $69,205 |
-| Consulting Retainers | $0 |
-| **Retainer Subtotal** | **$221,401** |
+| Development Retainers | $141,888 |
+| Marketing Retainers | $78,287 |
+| Consulting Retainers | $3,750 |
+| **Retainer Subtotal** | **$223,925** |
 | | |
 | Projects (MadEngine) | $30,000 |
 | Partner Referral Commission | $8,500 |
@@ -95,7 +96,7 @@
 | TripleK Bonus Commission | $4,500 |
 | **Other Revenue Subtotal** | **$50,500** |
 | | |
-| **DECEMBER 2025 TOTAL MRR** | **$261,593** |
+| **DECEMBER 2025 TOTAL MRR** | **$255,426** |
 
 ---
 
@@ -103,12 +104,12 @@
 
 | Service | MRR | % of Total |
 |---------|-----|-----------|
-| Development | $141,888 | 54.3% |
-| Marketing | $69,205 | 26.5% |
-| Consulting | $0 | 0% |
-| Projects | $30,000 | 11.5% |
-| Other (Commissions, Ad-Hoc, Bonus) | $20,500 | 7.8% |
-| **TOTAL** | **$261,593** | **100%** |
+| Development | $141,888 | 55.5% |
+| Marketing | $78,287 | 30.6% |
+| Consulting | $3,750 | 1.5% |
+| Projects | $30,000 | 11.7% |
+| Other (Commissions, Ad-Hoc, Bonus) | $20,500 | 8.0% |
+| **TOTAL** | **$255,426** | **100%** |
 
 ---
 
@@ -116,12 +117,13 @@
 
 | Type | Count | MRR | % of Total |
 |------|-------|-----|-----------|
-| Active Term (Fixed Duration) | 12 | $141,510 | 54.2% |
-| Month-to-Month (No Contract) | 11 | $78,491 | 30.0% |
-| Projects | 2 | $30,000 | 11.5% |
+| Active Term (Fixed Duration) | 12 | $150,587 | 58.9% |
+| Month-to-Month (No Contract) | 11 | $88,088 | 34.5% |
+| Projects | 2 | $30,000 | 11.7% |
 | Quarterly Advance (Glenmorangie) | 1 | $0 | — |
-| Other (Commissions, Ad-Hoc) | — | $10,500 | 4.0% |
-| **TOTAL** | **26** | **$261,593** | **100%** |
+| Other (Commissions, Ad-Hoc) | — | $20,500 | 8.0% |
+| Consulting (Beardown Brands) | 1 | $3,750 | 1.5% |
+| **TOTAL** | **27** | **$255,426** | **100%** |
 
 ---
 
@@ -206,17 +208,22 @@
 ## Comparison to Your Actual December MRR
 
 **Your Actual:** $245,000
-**My Calculation:** $261,593
-**Discrepancy:** -$16,593 (my calculation is 6.8% HIGHER)
+**Corrected Calculation:** $255,426
+**Discrepancy:** +$10,426 (my calculation is 4.3% HIGHER)
 
 **Note:** Glenmorangie ($22.5k) is not included in monthly MRR but will be accrued on January 1, 2026 as quarterly advance payment. This affects 2026 revenue planning but not December MRR.
 
-**Possible Explanations for Remaining Discrepancy:**
-1. Projects may have ended mid-month or had billing adjustments
-2. Some retainers may have churned mid-month that I'm not tracking
-3. Your figure may be net of adjustments/credits I'm not aware of
-4. Billing/accrual methodology differences
+**Changes from Previous Calculation:**
+- Pair of Thieves: $12,330 → $19,400 (+$7,070)
+- United Scope: $12,623 → $14,635 (+$2,012)
+- Beardown Brands: Added $3,750 (delivery in December)
+- Subtotal increase: +$12,832
 
-Please review December and identify discrepancies.
+**Remaining Discrepancy Analysis:**
+The ~$29.9k gap suggests:
+1. Projects may have ended mid-month or had billing adjustments
+2. Ad-hoc revenue lower than the $7.5k baseline
+3. Billing/accrual timing or methodology differences
+4. Potential retainer adjustments or credits not captured in bottom-up
 
 ---

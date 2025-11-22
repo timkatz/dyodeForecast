@@ -33,7 +33,7 @@ This summary includes **MRR figures and strategic financial planning** that have
 
 **Team,**
 
-2025 was a tough year. MRR declined from our $350k+ peak to $293k (Nov 2025). But the decline slowed significantly, and profit margins improved from 5.6% to 6.0%. We're stabilizing after three years of volatility.
+2025 was a tough year. MRR declined from our $350k+ peak to $288.5k (Nov 2025). But the decline slowed significantly, and profit margins improved from 5.6% to 6.0%. We're stabilizing after three years of volatility.
 
 **But here's the good news:** We have a clear, executable plan to grow MRR to $381k in 2026. That's 30% growth—ambitious but achievable with focused execution.
 
@@ -76,7 +76,7 @@ This document outlines:
 ### The Numbers
 
 **Current State (November 2025):**
-- **MRR:** $293k
+- **MRR:** $288.5k
 - **Active Clients:** 30 unique clients
 - **Profit Margin:** 6.0% (accrual basis, up from 5.6% in 2024)
 
@@ -84,7 +84,7 @@ This document outlines:
 - 2022: ~$400k MRR (peak) - 8.5% profit margin
 - 2023: ~$380k MRR (-5%) - 10.8% profit margin
 - 2024: ~$330k MRR (-13%) - 5.6% profit margin
-- 2025: ~$293k MRR (-11%, slowing) - 6.0% profit margin
+- 2025: ~$288.5k MRR (-12.5%, slowing) - 6.0% profit margin
 
 **Key Insight:** Decline rate slowed from -13% (2024) to -11% (2025), and margins improved from 5.6% to 6.0%. This proves stabilization is possible with execution.
 
@@ -139,7 +139,7 @@ This document outlines:
 
 ### The Goal
 
-**Target MRR by End of 2026:** $381k (up from $293k today)
+**Target MRR by End of 2026:** $381k (up from $288.5k today)
 
 **What This Means:**
 - 30% MRR growth needed
@@ -348,9 +348,9 @@ Even if we close 4 Plus migrations, we can still lose Premier tier if we don't r
 ### How We Hit $381k MRR
 
 **The MRR Math:**
-- Current: $293k MRR
-- New MRR needed: $88k (net, after ~$115k churn)
-- Gross new MRR target: ~$200k
+- Current: $288.5k MRR
+- New MRR needed: $92.5k (net, after ~$115k churn)
+- Gross new MRR target: ~$207.5k
 - Profit margin target at $381k: 12%+
 
 | Channel | MRR Impact | Your Responsibility |
@@ -903,8 +903,8 @@ Own your role in the strategy.
 ## The Upside
 
 **If we hit our targets:**
-- $381k MRR (vs. $293k current)
-- 30% MRR growth
+- $381k MRR (vs. $288.5k current)
+- 32% MRR growth
 - Reverse 3-year decline
 - Stronger client base (43-48 clients vs. 30)
 - Diversified lead sources (less feast/famine)
@@ -1043,7 +1043,7 @@ Use management meetings (not town halls) to discuss:
 
 ## Final Thoughts
 
-**We're not going to sugarcoat it:** 2025 was rough. Three years of MRR decline from ~$400k to $293k has put us in a tough spot. The good news: the decline slowed from -13% (2024) to -11% (2025), and profit margins improved from 5.6% to 6.0%.
+**We're not going to sugarcoat it:** 2025 was rough. Three years of MRR decline from ~$400k to $288.5k has put us in a tough spot. The good news: the decline slowed from -13% (2024) to -12.5% (2025), and profit margins improved from 5.6% to 6.0%.
 
 **But we're not giving up.** We have a plan, we have resources, and we have a team capable of executing.
 

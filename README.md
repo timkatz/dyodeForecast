@@ -22,7 +22,7 @@ Strategic planning for DYODE, an eCommerce agency specializing in Shopify and Bi
 eCommerce agency providing Shopify/BigCommerce development, digital marketing, and consulting services to brands with $10M+ revenue.
 
 **Current State (November 2025):**
-- Revenue: $3.6M accrual / $3.4M cash (YTD through October), MRR: $293k, Profit Margin: 0.26% cash basis (breakeven)
+- Revenue: $3.6M accrual / $3.4M cash (YTD through October), MRR: $288.5k (Nov 2025), Profit Margin: 0.26% cash basis (breakeven)
 - 30 active unique clients, 53 total clients (30 active unique, 20 lost in 2025)
 - 58 service engagements total (28 service losses in 2025)
 - Team in salary freeze after 18 months of turbulence (12 layoffs in April 2024, 2 additional in 2025)

@@ -349,7 +349,7 @@
 ### Financial:
 - ✅ 12%+ profit margin sustained (3+ consecutive quarters)
 - ✅ $4.2M revenue (up from $3.4M in 2025)
-- ✅ $370-380k MRR (up from $293k)
+- ✅ $370-380k MRR (up from $288.5k)
 
 ### Operational:
 - ✅ 6-8 cross-sells closed (team goal)

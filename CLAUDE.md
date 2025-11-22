@@ -391,3 +391,13 @@ Use these guidelines:
 - Annual revenue figures in non-confidential documents
 - Profit dollar amounts in team communications
 - Over-detailed financial information in wide-audience documents
+
+## Git Workflow
+
+**IMPORTANT: Do not commit and push changes without explicit user approval.**
+
+Before making any git commits:
+1. Show the user what changes have been made
+2. Summarize the changes clearly
+3. Ask for approval before running `git add`, `git commit`, and `git push`
+4. Only proceed with git operations after receiving explicit user confirmation
