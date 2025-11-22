@@ -28,8 +28,8 @@
 | Satechi - Dev Retainer | $6,250 | Active Term (exp 4/1/2027) | 12-month retainer, started 4/1/2026 |
 | Tipsy Elves - Development | $7,500 | Active Term (exp 5/5/2026) | 6-month retainer |
 | Tori Richard & Kahala | $3,960 | Month-to-Month | Contract expired 2/28/2021, continues MTM |
-| Wyze | $11,600 | Month-to-Month | Contract expires 12/31/2025, continues through December |
-| **DEVELOPMENT SUBTOTAL** | **$152,196** | | |
+| Wyze | $16,800 | Month-to-Month | 140 hours/month at $120/hr (Q3-Q4 2025 rate); contract expires 12/31/2025, continues through December |
+| **DEVELOPMENT SUBTOTAL** | **$157,396** | | |
 
 ---
 
@@ -95,7 +95,7 @@
 | TripleK Bonus Commission | $4,500 |
 | **Other Revenue Subtotal** | **$50,500** |
 | | |
-| **DECEMBER 2025 TOTAL MRR** | **$271,901** |
+| **DECEMBER 2025 TOTAL MRR** | **$277,101** |
 
 ---
 
@@ -103,12 +103,12 @@
 
 | Service | MRR | % of Total |
 |---------|-----|-----------|
-| Development | $152,196 | 55.9% |
-| Marketing | $69,205 | 25.4% |
+| Development | $157,396 | 56.8% |
+| Marketing | $69,205 | 25.0% |
 | Consulting | $0 | 0% |
-| Projects | $30,000 | 11.0% |
-| Other (Commissions, Ad-Hoc, Bonus) | $20,500 | 7.5% |
-| **TOTAL** | **$271,901** | **100%** |
+| Projects | $30,000 | 10.8% |
+| Other (Commissions, Ad-Hoc, Bonus) | $20,500 | 7.4% |
+| **TOTAL** | **$277,101** | **100%** |
 
 ---
 
@@ -116,11 +116,11 @@
 
 | Type | Count | MRR | % of Total |
 |------|-------|-----|-----------|
-| Active Term (Fixed Duration) | 12 | $157,018 | 57.7% |
-| Month-to-Month (No Contract) | 11 | $74,383 | 27.3% |
-| Projects | 2 | $30,000 | 11.0% |
-| Other (Commissions, Ad-Hoc) | — | $10,500 | 3.9% |
-| **TOTAL** | **25** | **$271,901** | **100%** |
+| Active Term (Fixed Duration) | 12 | $157,018 | 56.7% |
+| Month-to-Month (No Contract) | 11 | $79,583 | 28.7% |
+| Projects | 2 | $30,000 | 10.8% |
+| Other (Commissions, Ad-Hoc) | — | $10,500 | 3.8% |
+| **TOTAL** | **25** | **$277,101** | **100%** |
 
 ---
 
@@ -160,11 +160,11 @@
 | Tori Richard & Kahala | Development | $3,960 | Expired 2/28/2021 | 1,371 days |
 | Glenmorangie | Development | $18,166 | Expires 12/31/2025 | Still active through Dec |
 | Kindred Bravely | Development | $4,985 | Expires 12/31/2025 | Still active through Dec |
-| Wyze | Development | $11,600 | Expires 12/31/2025 | Still active through Dec |
+| Wyze | Development | $16,800 | Expires 12/31/2025 | Still active through Dec |
 | Posiedon Bikes | Marketing | $8,625 | Recently renewed, stable | 0 (renewed 10/28) |
 | Stikwood | Marketing | $8,677 | Expired 12/30/2024 | 366 days |
 | United Scope | Marketing | $12,623 | Expired 3/30/2023 | 640 days |
-| **SUBTOTAL** | | **$98,271** | | |
+| **SUBTOTAL** | | **$103,471** | | |
 
 ---
 
@@ -172,7 +172,7 @@
 
 | Metric | November | December | Change |
 |--------|----------|----------|--------|
-| Development Retainers | $147,696 | $152,196 | +$4,500 |
+| Development Retainers | $152,896 | $157,396 | +$4,500 |
 | Marketing Retainers | $69,205 | $69,205 | — |
 | Consulting Retainers | $3,750 | $0 | -$3,750 |
 | Projects | $30,000 | $30,000 | — |
@@ -180,7 +180,7 @@
 | Ad-Hoc Dev Hours | $7,500 | $7,500 | — |
 | TripleK Bonus | — | $4,500 | +$4,500 |
 | | | | |
-| **TOTAL MRR** | **$266,651** | **$271,901** | **+$5,250** |
+| **TOTAL MRR** | **$271,851** | **$277,101** | **+$5,250** |
 
 **Analysis:**
 - Beach Riot expired 12/10 but continues MTM through December (adds $4.2k to dev retainers vs November)
@@ -194,8 +194,8 @@
 ## Comparison to Your Actual December MRR
 
 **Your Actual:** $245,000
-**My Calculation:** $271,901
-**Discrepancy:** -$26,901 (my calculation is 11.0% HIGHER)
+**My Calculation:** $277,101
+**Discrepancy:** -$32,101 (my calculation is 13.1% HIGHER)
 
 **Possible Explanations:**
 1. Projects may have ended mid-month (MadEngine ends ~1/2/2026, might not be full month in Dec)

@@ -28,8 +28,8 @@
 | Satechi - Dev Retainer | $6,250 | Active Term (exp 4/1/2027) | 12-month retainer, started 4/1/2026 |
 | Tipsy Elves - Development | $7,500 | Active Term (exp 5/5/2026) | 6-month retainer |
 | Tori Richard & Kahala | $3,960 | Month-to-Month | Contract expired 2/28/2021, continues MTM |
-| Wyze | $11,600 | Active Term (exp 12/31/2025) | 3-month retainer, expires 12/31 |
-| **DEVELOPMENT SUBTOTAL** | **$147,696** | | |
+| Wyze | $16,800 | Active Term (exp 12/31/2025) | 140 hours/month at $120/hr (Q3-Q4 2025 rate); reverts to 70 hours at $125/hr ($8,750) in January |
+| **DEVELOPMENT SUBTOTAL** | **$152,896** | | |
 
 ---
 
@@ -93,7 +93,7 @@
 | Ad-Hoc Dev Hours | $7,500 |
 | **Other Revenue Subtotal** | **$46,000** |
 | | |
-| **NOVEMBER 2025 TOTAL MRR** | **$266,651** |
+| **NOVEMBER 2025 TOTAL MRR** | **$271,851** |
 
 ---
 
@@ -101,11 +101,11 @@
 
 | Service | MRR | % of Total |
 |---------|-----|-----------|
-| Development | $157,696 | 59.2% |
-| Marketing | $69,205 | 25.9% |
-| Consulting | $18,750 | 7.0% |
-| Other (Commissions, Ad-Hoc) | $21,000 | 7.9% |
-| **TOTAL** | **$266,651** | **100%** |
+| Development | $162,896 | 59.8% |
+| Marketing | $69,205 | 25.4% |
+| Consulting | $18,750 | 6.9% |
+| Other (Commissions, Ad-Hoc) | $21,000 | 7.7% |
+| **TOTAL** | **$271,851** | **100%** |
 
 ---
 
@@ -113,11 +113,11 @@
 
 | Type | Count | MRR | % of Total |
 |------|-------|-----|-----------|
-| Active Term (Fixed Duration) | 16 | $162,518 | 60.9% |
-| Month-to-Month (No Contract) | 8 | $58,133 | 21.8% |
-| Projects | 2 | $30,000 | 11.2% |
-| Other (Commissions, Ad-Hoc) | — | $16,000 | 6.0% |
-| **TOTAL** | **26** | **$266,651** | **100%** |
+| Active Term (Fixed Duration) | 16 | $167,718 | 61.6% |
+| Month-to-Month (No Contract) | 8 | $58,133 | 21.3% |
+| Projects | 2 | $30,000 | 11.0% |
+| Other (Commissions, Ad-Hoc) | — | $16,000 | 5.9% |
+| **TOTAL** | **26** | **$271,851** | **100%** |
 
 ---
 
@@ -142,8 +142,8 @@
 | Beach Riot | Development | $4,151 | 12/10/2025 | 9 days |
 | Glenmorangie | Development | $18,166 | 12/31/2025 | 40 days |
 | Kindred Bravely | Development | $4,985 | 12/31/2025 | 40 days |
-| Wyze | Development | $11,600 | 12/31/2025 | 40 days |
-| **SUBTOTAL** | | **$38,902** | | |
+| Wyze | Development | $16,800 | 12/31/2025 | 40 days |
+| **SUBTOTAL** | | **$44,102** | | |
 
 ---
 
@@ -167,8 +167,8 @@
 ## Comparison to Your Actual November MRR
 
 **Your Actual:** $288,000
-**My Calculation:** $266,651
-**Discrepancy:** +$21,349 (7.4% higher in actual)
+**My Calculation:** $271,851
+**Discrepancy:** +$16,149 (5.6% higher in actual)
 
 **Possible Missing Items:**
 1. Additional ad-hoc or overage revenue not captured
