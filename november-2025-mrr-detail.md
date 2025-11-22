@@ -17,7 +17,7 @@
 | Beyond Clothing | $4,542 | Month-to-Month | Contract expired 6/30/2025, continues MTM |
 | Cookware Co | $9,375 | Month-to-Month | 75 hours at $125/hr; contract expired 6/30/2025, continues MTM |
 | DITA | $7,500 | Month-to-Month | No contract expiration, MTM |
-| Glenmorangie | $18,166 | Active Term (exp 12/31/2025) | 3-month retainer, expires 12/31 |
+| Glenmorangie | $0 | Active Term (exp 12/31/2025) | Quarterly advance billing: $22,500/quarter (150 hrs @ $150/hr) accrued Jan/Apr/Jul/Oct |
 | Great Star Tools - Dev Retainer | $3,750 | Active Term (exp 12/31/2026) | 12-month retainer, started 5/1/2025 |
 | Kindred Bravely | $4,985 | Active Term (exp 12/31/2025) | 15-month retainer, expires 12/31 |
 | L*Space | $4,950 | Month-to-Month | Contract expired 4/30/2025, continues MTM |
@@ -29,7 +29,7 @@
 | Tipsy Elves - Development | $7,500 | Active Term (exp 5/5/2026) | 6-month retainer |
 | Tori Richard & Kahala | $3,960 | Month-to-Month | Contract expired 2/28/2021, continues MTM |
 | Wyze | $16,800 | Active Term (exp 12/31/2025) | 140 hours/month at $120/hr (Q3-Q4 2025 rate); reverts to 70 hours at $125/hr ($8,750) in January |
-| **DEVELOPMENT SUBTOTAL** | **$151,804** | | |
+| **DEVELOPMENT SUBTOTAL** | **$133,638** | | |
 
 ---
 
@@ -93,7 +93,7 @@
 | Ad-Hoc Dev Hours | $7,500 |
 | **Other Revenue Subtotal** | **$46,000** |
 | | |
-| **NOVEMBER 2025 TOTAL MRR** | **$270,759** |
+| **NOVEMBER 2025 TOTAL MRR** | **$252,593** |
 
 ---
 
@@ -101,11 +101,11 @@
 
 | Service | MRR | % of Total |
 |---------|-----|-----------|
-| Development | $161,804 | 59.7% |
-| Marketing | $69,205 | 25.5% |
-| Consulting | $18,750 | 6.9% |
-| Other (Commissions, Ad-Hoc) | $21,000 | 7.8% |
-| **TOTAL** | **$270,759** | **100%** |
+| Development | $143,638 | 56.8% |
+| Marketing | $69,205 | 27.4% |
+| Consulting | $18,750 | 7.4% |
+| Other (Commissions, Ad-Hoc) | $21,000 | 8.3% |
+| **TOTAL** | **$252,593** | **100%** |
 
 ---
 
@@ -113,11 +113,12 @@
 
 | Type | Count | MRR | % of Total |
 |------|-------|-----|-----------|
-| Active Term (Fixed Duration) | 16 | $166,626 | 61.6% |
-| Month-to-Month (No Contract) | 8 | $57,041 | 21.1% |
-| Projects | 2 | $30,000 | 11.1% |
-| Other (Commissions, Ad-Hoc) | — | $16,000 | 5.9% |
-| **TOTAL** | **26** | **$270,759** | **100%** |
+| Active Term (Fixed Duration) | 16 | $148,460 | 58.7% |
+| Month-to-Month (No Contract) | 8 | $57,041 | 22.6% |
+| Projects | 2 | $30,000 | 11.9% |
+| Other (Commissions, Ad-Hoc) | — | $16,000 | 6.3% |
+| Quarterly Advance (Glenmorangie) | 1 | $0 | — |
+| **TOTAL** | **27** | **$252,593** | **100%** |
 
 ---
 
@@ -140,11 +141,19 @@
 | Client | Service | MRR | Expires | Days Left | Notes |
 |--------|---------|-----|---------|-----------|-------|
 | Beach Riot | Development | $4,151 | 12/10/2025 | 9 days | ACTION NEEDED |
-| Glenmorangie | Development | $18,166 | 12/31/2025 | 40 days | **NO RENEWAL PLANNED** (engagement declining) |
 | Kindred Bravely | Development | $4,985 | 12/31/2025 | 40 days | ACTION NEEDED |
 | Wyze | Development | $16,800 | 12/31/2025 | 40 days | ACTION NEEDED |
 | **SUBTOTAL (Action Needed)** | | **$25,936** | | | |
-| **Glenmorangie (No Renewal)** | | **$18,166** | | | |
+
+## Glenmorangie - Quarterly Advance Billing Model
+
+| Detail | Amount | Timing |
+|--------|--------|--------|
+| Quarterly Advance | $22,500 | Jan 1, Apr 1, Jul 1, Oct 1 |
+| Hours | 150 hours | Per quarter |
+| Rate | $150/hr | Locked rate |
+| 2026 Total | $90,000 | 4 payments of $22,500 |
+| Monthly Equivalent | $7,500 | For planning purposes only |
 
 ---
 
@@ -168,8 +177,10 @@
 ## Comparison to Your Actual November MRR
 
 **Your Actual:** $288,000
-**My Calculation:** $270,759
-**Discrepancy:** +$17,241 (6.0% higher in actual)
+**My Calculation:** $252,593
+**Discrepancy:** +$35,407 (12.3% higher in actual)
+
+**Note:** Glenmorangie is not included in monthly MRR ($0) but will have $22,500 accrued in January 2026 (quarterly advance). This doesn't affect November/December MRR but is important for 2026 revenue planning.
 
 **Possible Missing Items:**
 1. Additional ad-hoc or overage revenue not captured

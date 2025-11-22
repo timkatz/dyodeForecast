@@ -17,7 +17,7 @@
 | Beyond Clothing | $4,542 | Month-to-Month | Contract expired 6/30/2025, continues MTM |
 | Cookware Co | $9,375 | Month-to-Month | 75 hours at $125/hr; contract expired 6/30/2025, continues MTM |
 | DITA | $7,500 | Month-to-Month | No contract expiration, MTM |
-| Glenmorangie | $18,166 | Month-to-Month | Contract expires 12/31/2025, continues through December |
+| Glenmorangie | $0 | Quarterly Advance | $22,500/quarter (150 hrs @ $150/hr) accrued Jan/Apr/Jul/Oct |
 | Great Star Tools - Dev Retainer | $3,750 | Active Term (exp 12/31/2026) | 12-month retainer, started 5/1/2025 |
 | Kindred Bravely | $4,985 | Month-to-Month | Contract expires 12/31/2025, continues through December |
 | L*Space | $4,950 | Month-to-Month | Contract expired 4/30/2025, continues MTM |
@@ -29,7 +29,7 @@
 | Tipsy Elves - Development | $7,500 | Active Term (exp 5/5/2026) | 6-month retainer |
 | Tori Richard & Kahala | $3,960 | Month-to-Month | Contract expired 2/28/2021, continues MTM |
 | Wyze | $16,800 | Month-to-Month | 140 hours/month at $120/hr (Q3-Q4 2025 rate); contract expires 12/31/2025, continues through December |
-| **DEVELOPMENT SUBTOTAL** | **$156,304** | | |
+| **DEVELOPMENT SUBTOTAL** | **$138,138** | | |
 
 ---
 
@@ -95,7 +95,7 @@
 | TripleK Bonus Commission | $4,500 |
 | **Other Revenue Subtotal** | **$50,500** |
 | | |
-| **DECEMBER 2025 TOTAL MRR** | **$276,009** |
+| **DECEMBER 2025 TOTAL MRR** | **$257,843** |
 
 ---
 
@@ -103,12 +103,12 @@
 
 | Service | MRR | % of Total |
 |---------|-----|-----------|
-| Development | $156,304 | 56.6% |
-| Marketing | $69,205 | 25.1% |
+| Development | $138,138 | 53.5% |
+| Marketing | $69,205 | 26.8% |
 | Consulting | $0 | 0% |
-| Projects | $30,000 | 10.9% |
-| Other (Commissions, Ad-Hoc, Bonus) | $20,500 | 7.4% |
-| **TOTAL** | **$276,009** | **100%** |
+| Projects | $30,000 | 11.6% |
+| Other (Commissions, Ad-Hoc, Bonus) | $20,500 | 7.9% |
+| **TOTAL** | **$257,843** | **100%** |
 
 ---
 
@@ -116,11 +116,12 @@
 
 | Type | Count | MRR | % of Total |
 |------|-------|-----|-----------|
-| Active Term (Fixed Duration) | 12 | $155,926 | 56.5% |
-| Month-to-Month (No Contract) | 11 | $78,491 | 28.4% |
-| Projects | 2 | $30,000 | 10.9% |
-| Other (Commissions, Ad-Hoc) | — | $10,500 | 3.8% |
-| **TOTAL** | **25** | **$276,009** | **100%** |
+| Active Term (Fixed Duration) | 12 | $137,760 | 53.4% |
+| Month-to-Month (No Contract) | 11 | $78,491 | 30.4% |
+| Projects | 2 | $30,000 | 11.6% |
+| Quarterly Advance (Glenmorangie) | 1 | $0 | — |
+| Other (Commissions, Ad-Hoc) | — | $10,500 | 4.1% |
+| **TOTAL** | **26** | **$257,843** | **100%** |
 
 ---
 
@@ -163,8 +164,18 @@
 | Posiedon Bikes | Marketing | $8,625 | Recently renewed, stable | 0 (renewed 10/28) |
 | Stikwood | Marketing | $8,677 | Expired 12/30/2024 | 366 days |
 | United Scope | Marketing | $12,623 | Expired 3/30/2023 | 640 days |
-| **SUBTOTAL (Renewing)** | | **$85,305** | | |
-| **Glenmorangie (NO RENEWAL)** | | **$18,166** | Expires 12/31/2025 | Not planning for 2026 |
+| **SUBTOTAL (Recurring MTM)** | | **$67,139** | | |
+
+## Glenmorangie - Quarterly Advance Billing Model
+
+| Detail | Amount | Timing |
+|--------|--------|--------|
+| Quarterly Advance | $22,500 | Jan 1, Apr 1, Jul 1, Oct 1 |
+| Hours | 150 hours | Per quarter |
+| Rate | $150/hr | Locked rate |
+| 2026 Total | $90,000 | 4 payments of $22,500 |
+| Monthly Equivalent | $7,500 | For planning purposes only |
+| Status | ACTIVE | Continues into 2026 |
 
 ---
 
@@ -172,7 +183,7 @@
 
 | Metric | November | December | Change |
 |--------|----------|----------|--------|
-| Development Retainers | $151,804 | $156,304 | +$4,500 |
+| Development Retainers | $133,638 | $138,138 | +$4,500 |
 | Marketing Retainers | $69,205 | $69,205 | — |
 | Consulting Retainers | $3,750 | $0 | -$3,750 |
 | Projects | $30,000 | $30,000 | — |
@@ -180,25 +191,28 @@
 | Ad-Hoc Dev Hours | $7,500 | $7,500 | — |
 | TripleK Bonus | — | $4,500 | +$4,500 |
 | | | | |
-| **TOTAL MRR** | **$270,759** | **$276,009** | **+$5,250** |
+| **TOTAL MRR** | **$252,593** | **$257,843** | **+$5,250** |
 
 **Analysis:**
 - Beach Riot expired 12/10 but continues MTM through December (adds $4.2k to dev retainers vs November)
-- Glenmorangie, Kindred Bravely, Wyze expire 12/31 but continue through December
+- Kindred Bravely, Wyze expire 12/31 but continue through December
+- Glenmorangie: Quarterly advance model, no monthly MRR impact but $22.5k accrued Jan 1, 2026
 - Tipsy Elves Consulting lost 10/31, so -$3.75k in consulting
 - TripleK bonus accrued $4.5k in December
-- Net: +$5.25k MRR month-over-month
+- Net: +$5.25k MRR month-over-month (not including Glenmorangie quarterly advance)
 
 ---
 
 ## Comparison to Your Actual December MRR
 
 **Your Actual:** $245,000
-**My Calculation:** $276,009
-**Discrepancy:** -$31,009 (my calculation is 12.7% HIGHER)
+**My Calculation:** $257,843
+**Discrepancy:** -$12,843 (my calculation is 5.0% HIGHER)
 
-**Possible Explanations:**
-1. Projects may have ended mid-month (MadEngine ends ~1/2/2026, might not be full month in Dec)
+**Note:** Glenmorangie ($22.5k) is not included in monthly MRR but will be accrued on January 1, 2026 as quarterly advance payment. This affects 2026 revenue planning but not December MRR.
+
+**Possible Explanations for Remaining Discrepancy:**
+1. Projects may have ended mid-month or had billing adjustments
 2. Some retainers may have churned mid-month that I'm not tracking
 3. Your figure may be net of adjustments/credits I'm not aware of
 4. Billing/accrual methodology differences
