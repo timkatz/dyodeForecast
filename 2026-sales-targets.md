@@ -10,11 +10,19 @@
 ## 2026 Annual Sales Target Overview
 
 ### Current State & January 2026 Baseline
-- **December 2025 MRR:** $245k (confirmed baseline)
-- **January 2026 MRR:** ~$241k (after Great Star Tools renewal reduces dev retainer from $7.5k → $3.75k/month)
+
+**2026 Baseline Components:**
+| Component | Monthly | Notes |
+|-----------|---------|-------|
+| Core Retainers | ~$223k | Recurring retainers after GST renewal |
+| Partner Referral Commission | $8.5k | Baseline partnership revenue |
+| Ad-Hoc Dev Hours | $7.5k | Overage hours above client minimums |
+| **Total January 2026 Baseline** | **$238.5k** | Recurring monthly revenue |
+
+**Growth Targets:**
 - **Target End 2026 MRR:** $381k
-- **Net MRR Growth Needed:** $140k (58% growth from Jan baseline)
-- **Total New Business Required (Accounting for Churn):** ~$255k MRR (including ~$115k estimated churn + $3.75k GST retainer reduction)
+- **Net MRR Growth Needed:** $143k (60% growth from Jan baseline)
+- **Total New Business Required (Accounting for Churn):** ~$258k MRR (including ~$115k estimated churn)
 
 ### Success Definition
 We're successful if we add **$200k+ in new MRR across all channels** while maintaining **churn below 25%**.
@@ -509,6 +517,15 @@ To hit monthly targets, here's what daily execution looks like:
 - **Founder-Led:** Closes per founder, $MRR
 - **Google Ads:** Leads, conversion %, $MRR
 - **Tradeshows:** Leads generated, meetings booked, closes
+
+### Revenue Component Tracking (Critical Variables)
+- **Partner Referral Commission:** Monthly $ tracked (baseline: $8.5k/month)
+  - If trending below $8.5k, investigate partnership pipeline impact
+- **Ad-Hoc Dev Hours Revenue:** Monthly $ tracked (target: $7.5k/month)
+  - Track as separate line item - if declining, may indicate reduced client workloads
+  - Measure hours/month by client to forecast trends
+- **Project Bonuses/Commissions:** One-time revenue items (e.g., TripleK bonus)
+  - Track by month and reason to forecast future opportunities
 
 ### Churn Metrics
 - **Client losses:** By month and quarter

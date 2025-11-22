@@ -34,11 +34,13 @@
 #### 2025 Service Mix (Current):
 | Service | MRR | % of Total |
 |---------|-----|------------|
-| Development | $178,991 | 61.1% |
-| Marketing | $84,205 | 28.7% |
-| Consulting | $18,750 | 6.4% |
+| Development | $178,991 | 56.2% |
+| Marketing | $84,205 | 26.4% |
+| Consulting | $18,750 | 5.9% |
+| Partner Referral Commission | $8,500 | 2.7% |
+| Ad-Hoc Dev Hours | $7,500 | 2.4% |
 | Ad-Hoc | $0 | 0% |
-| **TOTAL** | **$292,946** | **100%** |
+| **TOTAL** | **$298,446** | **100%** |
 
 #### 2025 Contract Type Mix (Current):
 | Type | MRR | % of Total |
@@ -371,13 +373,21 @@ This churn analysis directly informs our 2026 priorities:
 
 ### Overall Goal: Reverse Decline & Return to Growth
 
+**2026 MRR Baseline Components:**
+| Component | Monthly | Notes |
+|-----------|---------|-------|
+| Core Retainers (Jan 2026) | ~$223k | After GST renewal reduction |
+| Partner Referral Commission | $8.5k | Baseline partnership revenue |
+| Ad-Hoc Dev Hours (Overages) | $7.5k | Client overage hours above minimums |
+| **Total January 2026 Baseline** | **$238.5k** | Recurring monthly revenue |
+
 **Target End 2026 MRR:** $381,496
 **Projected 2026 Annual Revenue:** $4.1M - $4.2M
 
 **Growth Metrics:**
 | Metric | Amount | Percentage |
 |--------|--------|------------|
-| MRR Growth | +$121,496 | 46.7% |
+| MRR Growth | +$143k | 60% from Jan baseline |
 | Revenue Growth | +$1.0M | 32% |
 
 ### Strategic Priorities
