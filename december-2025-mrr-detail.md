@@ -15,7 +15,7 @@
 | Aloha | $3,692 | Active Term (exp 5/13/2026) | 6-month retainer |
 | Beach Riot | $4,151 | Month-to-Month | Contract expires 12/10/2025, continues MTM through Dec |
 | Beyond Clothing | $4,542 | Month-to-Month | Contract expired 6/30/2025, continues MTM |
-| Cookware Co | $10,467 | Month-to-Month | Contract expired 6/30/2025, continues MTM |
+| Cookware Co | $9,375 | Month-to-Month | 75 hours at $125/hr; contract expired 6/30/2025, continues MTM |
 | DITA | $7,500 | Month-to-Month | No contract expiration, MTM |
 | Glenmorangie | $18,166 | Month-to-Month | Contract expires 12/31/2025, continues through December |
 | Great Star Tools - Dev Retainer | $3,750 | Active Term (exp 12/31/2026) | 12-month retainer, started 5/1/2025 |
@@ -29,7 +29,7 @@
 | Tipsy Elves - Development | $7,500 | Active Term (exp 5/5/2026) | 6-month retainer |
 | Tori Richard & Kahala | $3,960 | Month-to-Month | Contract expired 2/28/2021, continues MTM |
 | Wyze | $16,800 | Month-to-Month | 140 hours/month at $120/hr (Q3-Q4 2025 rate); contract expires 12/31/2025, continues through December |
-| **DEVELOPMENT SUBTOTAL** | **$157,396** | | |
+| **DEVELOPMENT SUBTOTAL** | **$156,304** | | |
 
 ---
 
@@ -95,7 +95,7 @@
 | TripleK Bonus Commission | $4,500 |
 | **Other Revenue Subtotal** | **$50,500** |
 | | |
-| **DECEMBER 2025 TOTAL MRR** | **$277,101** |
+| **DECEMBER 2025 TOTAL MRR** | **$276,009** |
 
 ---
 
@@ -103,12 +103,12 @@
 
 | Service | MRR | % of Total |
 |---------|-----|-----------|
-| Development | $157,396 | 56.8% |
-| Marketing | $69,205 | 25.0% |
+| Development | $156,304 | 56.6% |
+| Marketing | $69,205 | 25.1% |
 | Consulting | $0 | 0% |
-| Projects | $30,000 | 10.8% |
+| Projects | $30,000 | 10.9% |
 | Other (Commissions, Ad-Hoc, Bonus) | $20,500 | 7.4% |
-| **TOTAL** | **$277,101** | **100%** |
+| **TOTAL** | **$276,009** | **100%** |
 
 ---
 
@@ -116,11 +116,11 @@
 
 | Type | Count | MRR | % of Total |
 |------|-------|-----|-----------|
-| Active Term (Fixed Duration) | 12 | $157,018 | 56.7% |
-| Month-to-Month (No Contract) | 11 | $79,583 | 28.7% |
-| Projects | 2 | $30,000 | 10.8% |
+| Active Term (Fixed Duration) | 12 | $155,926 | 56.5% |
+| Month-to-Month (No Contract) | 11 | $78,491 | 28.4% |
+| Projects | 2 | $30,000 | 10.9% |
 | Other (Commissions, Ad-Hoc) | — | $10,500 | 3.8% |
-| **TOTAL** | **25** | **$277,101** | **100%** |
+| **TOTAL** | **25** | **$276,009** | **100%** |
 
 ---
 
@@ -139,11 +139,11 @@
 
 ## Q1 2026 Expirations (Early Warning)
 
-| Client | Service | MRR | Expires | Days from Now |
-|--------|---------|-----|---------|----------------|
-| Align Tech | Development | $8,625 | 3/25/2026 | 125 days |
-| Bandai Namco | Marketing | $7,667 | 3/31/2026 | 131 days |
-| **SUBTOTAL** | | **$16,292** | | |
+| Client | Service | MRR | Expires | Days from Now | Notes |
+|--------|---------|-----|---------|----------------|-------|
+| Align Tech | Development | $8,625 | 3/25/2026 | 125 days | Monitor for renewal |
+| Bandai Namco | Marketing | $7,667 | 3/31/2026 | 131 days | Monitor for renewal |
+| **SUBTOTAL** | | **$16,292** | | | |
 
 ---
 
@@ -158,13 +158,13 @@
 | Beach Riot | Development | $4,151 | Expired 12/10/2025 | 20 days (just expired) |
 | L*Space | Development | $4,950 | Expired 4/30/2025 | 244 days |
 | Tori Richard & Kahala | Development | $3,960 | Expired 2/28/2021 | 1,371 days |
-| Glenmorangie | Development | $18,166 | Expires 12/31/2025 | Still active through Dec |
 | Kindred Bravely | Development | $4,985 | Expires 12/31/2025 | Still active through Dec |
 | Wyze | Development | $16,800 | Expires 12/31/2025 | Still active through Dec |
 | Posiedon Bikes | Marketing | $8,625 | Recently renewed, stable | 0 (renewed 10/28) |
 | Stikwood | Marketing | $8,677 | Expired 12/30/2024 | 366 days |
 | United Scope | Marketing | $12,623 | Expired 3/30/2023 | 640 days |
-| **SUBTOTAL** | | **$103,471** | | |
+| **SUBTOTAL (Renewing)** | | **$85,305** | | |
+| **Glenmorangie (NO RENEWAL)** | | **$18,166** | Expires 12/31/2025 | Not planning for 2026 |
 
 ---
 
@@ -172,7 +172,7 @@
 
 | Metric | November | December | Change |
 |--------|----------|----------|--------|
-| Development Retainers | $152,896 | $157,396 | +$4,500 |
+| Development Retainers | $151,804 | $156,304 | +$4,500 |
 | Marketing Retainers | $69,205 | $69,205 | — |
 | Consulting Retainers | $3,750 | $0 | -$3,750 |
 | Projects | $30,000 | $30,000 | — |
@@ -180,7 +180,7 @@
 | Ad-Hoc Dev Hours | $7,500 | $7,500 | — |
 | TripleK Bonus | — | $4,500 | +$4,500 |
 | | | | |
-| **TOTAL MRR** | **$271,851** | **$277,101** | **+$5,250** |
+| **TOTAL MRR** | **$270,759** | **$276,009** | **+$5,250** |
 
 **Analysis:**
 - Beach Riot expired 12/10 but continues MTM through December (adds $4.2k to dev retainers vs November)
@@ -194,8 +194,8 @@
 ## Comparison to Your Actual December MRR
 
 **Your Actual:** $245,000
-**My Calculation:** $277,101
-**Discrepancy:** -$32,101 (my calculation is 13.1% HIGHER)
+**My Calculation:** $276,009
+**Discrepancy:** -$31,009 (my calculation is 12.7% HIGHER)
 
 **Possible Explanations:**
 1. Projects may have ended mid-month (MadEngine ends ~1/2/2026, might not be full month in Dec)
