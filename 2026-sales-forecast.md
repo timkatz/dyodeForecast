@@ -98,9 +98,21 @@ Throughout this document, "clients" refers to **unique companies** unless otherw
 - United Scope: $12,623
 - **Subtotal:** $21,300
 
-**Total Month-to-Month:** $32,760 (11% of MRR) - **Down from 24%!** ✅
-- **Risk Reduced:** $34k less at risk than previously calculated
-- Only 4 clients remain month-to-month (down from 6)
+**Total Month-to-Month:** $74,087 (27% of MRR) - **CRITICAL PRIORITY** ⚠️
+
+**Breakdown:**
+- Originally MTM clients: 4 clients, $32,360/month (already have renewal dates/cadence)
+- Recently expired → MTM: 6 clients, $41,727/month (need urgent renewal)
+
+**Expiring in next 40 days (Critical):**
+- Beach Riot: $4,151 (expires 12/10/2025)
+- Glenmorangie: $18,166 (expires 12/31/2025)
+- Kindred Bravely: $4,985 (expires 12/31/2025)
+- Wyze: $11,600 (expires 12/31/2025)
+
+**Action Required:** Convert 9+ MTM clients to 6-month or 12-month terms by Q1 2026. Target: $950k+ in locked annual contract value.
+
+**See:** `month-to-month-renewal-risks.md` for detailed renewal strategy and account manager assignments.
 
 ---
 

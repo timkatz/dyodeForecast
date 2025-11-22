@@ -541,10 +541,39 @@ To hit monthly targets, here's what daily execution looks like:
 
 ---
 
+## Month-to-Month Renewal Strategy (Critical Foundation)
+
+Before pursuing new client growth, **secure $74k/month in at-risk MTM revenue:**
+
+**MTM Clients Requiring Renewal Focus (10 clients, $74k/month):**
+1. **High Priority (Recently Expired):**
+   - Beyond Clothing ($4.5k) - expired 6/30/2025
+   - Cookware Co ($10.5k) - expired 6/30/2025
+   - L*Space ($5k) - expired 4/30/2025
+   - Stikwood ($8.7k) - expired 12/30/2024
+   - Tori Richard & Kahala ($4k) - expired 2/28/2021
+   - United Scope ($12.6k) - expired 3/30/2023
+
+2. **Expiring Soon (December 2025):**
+   - Beach Riot ($4.2k) - expires 12/10/2025
+   - Glenmorangie ($18.2k) - expires 12/31/2025
+   - Kindred Bravely ($5k) - expires 12/31/2025
+   - Wyze ($11.6k) - expires 12/31/2025
+
+**Renewal Targets:**
+- Renew 9+ clients to 6-month or 12-month terms
+- Eliminate most of the $74k month-to-month risk
+- Expected conversion: $950k+ in locked annual contract value
+
+**See:** `month-to-month-renewal-risks.md` for detailed renewal playbook and assigned account managers.
+
+---
+
 ## Success Criteria for 2026
 
 ✅ **Minimum Success:**
-- 24+ new clients across all channels
+- Renew 8+ MTM clients (secure $60k+ in at-risk revenue)
+- Add 24+ new clients across all channels
 - $177k+ in new MRR added
 - Churn reduced to <25% (from 38-40%)
 - Hit $381k MRR target by year-end
